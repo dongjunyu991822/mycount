@@ -9,6 +9,7 @@ $signPackage = $jssdk->GetSignPackage();
 <head>
 	<meta charset="UTF-8">
 	<title>同城帮</title>
+	<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/tcb.css">
 	<link rel="stylesheet" href="http://cache.amap.com/lbs/static/main1119.css"/>
     <script src="http://cache.amap.com/lbs/static/es5.min.js"></script>
