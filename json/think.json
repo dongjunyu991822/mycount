@@ -1,0 +1,212 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "4",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "26458",
+                "product_name": "联想 【S850】 联通 3G/2G 蓝色 16 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "联想 【S850】 联通 3G/2G 蓝色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01fc2f25038c3a05d6.png",
+                    "big": "http://p0.qhmsg.com/t01300ff3676db0bb99.png",
+                    "mid": "http://p0.qhmsg.com/t0156453fa676965e82.png",
+                    "min": "http://p0.qhmsg.com/t01391780b45015d27f.png"
+                },
+                "price": 299,
+                "brand_id": "11",
+                "model_id": "373",
+                "view_volume": "994",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "9,32,74,165",
+                "product_type": "10",
+                "imei": "865*****379",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25807",
+                "product_name": "联想【Z2】黑色 32 G 全网通 国行 9成新 ",
+                "model_attr_name": "联想【Z2】黑色 32 G 全网通 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c84b8f8f6bf86eb9.png",
+                    "big": "http://p0.qhmsg.com/t011b2201e0e892ac6d.png",
+                    "mid": "http://p0.qhmsg.com/t01d73281a6122db82b.png",
+                    "min": "http://p0.qhmsg.com/t01a03bf21f1bccee0c.png"
+                },
+                "price": 1150,
+                "brand_id": "11",
+                "model_id": "688",
+                "view_volume": "1041",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,75,141,165",
+                "product_type": "10",
+                "imei": "860*****376",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25126",
+                "product_name": "联想【P1】黑色 16 G 国行 移动联通 4G/3G/2G 9成新 ",
+                "model_attr_name": "联想【P1】黑色 16 G 国行 移动联通 4G/3G/2G 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01ecf239e275ac126b.jpg",
+                    "big": "http://p0.qhmsg.com/t01fe97310dce19fb4a.jpg",
+                    "mid": "http://p0.qhmsg.com/t01cd358507f7a52500.jpg",
+                    "min": "http://p0.qhmsg.com/t01db4123ab008b4ebc.jpg"
+                },
+                "price": 580,
+                "brand_id": "11",
+                "model_id": "521",
+                "view_volume": "949",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,74,165,168",
+                "product_type": "10",
+                "imei": "867*****518",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "24700",
+                "product_name": "联想 【Z2】 全网通 黑色 32 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "联想 【Z2】 全网通 黑色 32 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c84b8f8f6bf86eb9.png",
+                    "big": "http://p0.qhmsg.com/t011b2201e0e892ac6d.png",
+                    "mid": "http://p0.qhmsg.com/t01d73281a6122db82b.png",
+                    "min": "http://p0.qhmsg.com/t01a03bf21f1bccee0c.png"
+                },
+                "price": 1150,
+                "brand_id": "11",
+                "model_id": "688",
+                "view_volume": "1104",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,75,141,165",
+                "product_type": "10",
+                "imei": "860*****187",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "11",
+                "name": "联想",
+                "sums": "4"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    },
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "9",
+                        "attr_val_name": "联通 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    },
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    },
+                    {
+                        "attr_val_id": "32",
+                        "attr_val_name": "蓝色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "373",
+                "model_name": "S850"
+            },
+            {
+                "model_id": "521",
+                "model_name": "P1"
+            },
+            {
+                "model_id": "688",
+                "model_name": "Z2"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            },
+            {
+                "key": 500,
+                "name": "500-1000元"
+            },
+            {
+                "key": 1000,
+                "name": "1000-1500元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

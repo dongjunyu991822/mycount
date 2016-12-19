@@ -1,0 +1,922 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "1386",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "27675",
+                "product_name": "苹果 【iPhone 6】 全网通 金色 16 G 国行 85成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6】 全网通 金色 16 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01042f0e1ad3db884a.png",
+                    "big": "http://p0.qhmsg.com/t01f5575883be765e32.png",
+                    "mid": "http://p0.qhmsg.com/t01ca68a181942f676d.png",
+                    "min": "http://p0.qhmsg.com/t016ef94425a00bd05a.png"
+                },
+                "price": 1950,
+                "brand_id": "2",
+                "model_id": "97",
+                "view_volume": "443",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,74,141,165",
+                "product_type": "10",
+                "imei": "352*****877",
+                "chengse": "1609",
+                "com_price": "5288",
+                "discount": 3.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27680",
+                "product_name": "苹果 【iPhone 6】 移动联通 4G/3G/2G 金色 16 G 港澳台 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6】 移动联通 4G/3G/2G 金色 16 G 港澳台 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01042f0e1ad3db884a.png",
+                    "big": "http://p0.qhmsg.com/t01f5575883be765e32.png",
+                    "mid": "http://p0.qhmsg.com/t01ca68a181942f676d.png",
+                    "min": "http://p0.qhmsg.com/t016ef94425a00bd05a.png"
+                },
+                "price": 2050,
+                "brand_id": "2",
+                "model_id": "97",
+                "view_volume": "348",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,74,159,168",
+                "product_type": "10",
+                "imei": "355*****610",
+                "chengse": "1604",
+                "com_price": "5288",
+                "discount": 3.9,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27705",
+                "product_name": "苹果 【iPhone 6 Plus】 全网通 金色 64 G 国行 9成新 真机实拍&nbsp;大内存&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6 Plus】 全网通 金色 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t015987d004d761d59c.jpg",
+                    "big": "http://p0.qhmsg.com/t012356c64c53a61eb9.jpg",
+                    "mid": "http://p0.qhmsg.com/t010401a0742ed28d54.jpg",
+                    "min": "http://p0.qhmsg.com/t01797683ee55e0cafa.jpg"
+                },
+                "price": 2999,
+                "brand_id": "2",
+                "model_id": "98",
+                "view_volume": "422",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "359*****133",
+                "chengse": "1604",
+                "com_price": "6088",
+                "discount": 4.9,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27714",
+                "product_name": "苹果 【iPhone 4s】 联通 3G/2G 白色 8 G 国行 8成新 真机实拍",
+                "model_attr_name": "苹果 【iPhone 4s】 联通 3G/2G 白色 8 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t013a4aec786db14470.jpg",
+                    "big": "http://p0.qhmsg.com/t0114f1fd45a38ec65c.jpg",
+                    "mid": "http://p0.qhmsg.com/t014417765bef52f421.jpg",
+                    "min": "http://p0.qhmsg.com/t0116cb180eabc20ce7.jpg"
+                },
+                "price": 399,
+                "brand_id": "2",
+                "model_id": "2",
+                "view_volume": "377",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "9,28,73,165",
+                "product_type": "10",
+                "imei": "013*****470",
+                "chengse": "1605",
+                "com_price": "1580",
+                "discount": 2.5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27733",
+                "product_name": "索尼 【Z5】 移动联通 4G/3G/2G 黑色 32 G 港澳台 85成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "索尼 【Z5】 移动联通 4G/3G/2G 黑色 32 G 港澳台 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0149f2601ee0b69098.png",
+                    "big": "http://p0.qhmsg.com/t011b8e9e2b29ff3537.png",
+                    "mid": "http://p0.qhmsg.com/t01f3ba58c31f11fa94.png",
+                    "min": "http://p0.qhmsg.com/t01c75c28d9846e9ef9.png"
+                },
+                "price": 1699,
+                "brand_id": "8",
+                "model_id": "462",
+                "view_volume": "411",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,75,159,168",
+                "product_type": "10",
+                "imei": "352*****640",
+                "chengse": "1609",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27723",
+                "product_name": "苹果 【iPad Mini 2】 白色 32 G WIFI版 国行 9成新 真机实拍",
+                "model_attr_name": "苹果 【iPad Mini 2】 白色 32 G WIFI版 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01cbce8c24d849c2fc.jpg",
+                    "big": "http://p0.qhmsg.com/t0189a0dcb50d3ff0ee.jpg",
+                    "mid": "http://p0.qhmsg.com/t011fe080db22b7352b.jpg",
+                    "min": "http://p0.qhmsg.com/t0122027f371f627407.jpg"
+                },
+                "price": 1299,
+                "brand_id": "2",
+                "model_id": "18",
+                "view_volume": "504",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,75,114,165",
+                "product_type": "10",
+                "imei": "",
+                "chengse": "1604",
+                "com_price": "2350",
+                "discount": 5.5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27726",
+                "product_name": "华为 【荣耀畅玩5C】 银色 16 G 国行 移动联通 4G/3G/2G 9成新 ",
+                "model_attr_name": "华为 【荣耀畅玩5C】 银色 16 G 国行 移动联通 4G/3G/2G 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t010c525d72d70f1042.jpg",
+                    "big": "http://p0.qhmsg.com/t010cce4e55a9b2df8b.jpg",
+                    "mid": "http://p0.qhmsg.com/t019f0c049967045ae4.jpg",
+                    "min": "http://p0.qhmsg.com/t01fead97e5485b60b1.jpg"
+                },
+                "price": 650,
+                "brand_id": "4",
+                "model_id": "569",
+                "view_volume": "340",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "74,86,165,168",
+                "product_type": "10",
+                "imei": "860*****398",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27727",
+                "product_name": "苹果 【iPad 4】 白色 32 G WIFI版 日本 85成新 真机实拍",
+                "model_attr_name": "苹果 【iPad 4】 白色 32 G WIFI版 日本 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0185a6cc2eb0902dbf.jpg",
+                    "big": "http://p0.qhmsg.com/t014dec2d4180fc1767.jpg",
+                    "mid": "http://p0.qhmsg.com/t0154dd8eaa59d1b8a8.jpg",
+                    "min": "http://p0.qhmsg.com/t01a6a8c3c8b484a8ef.jpg"
+                },
+                "price": 1150,
+                "brand_id": "2",
+                "model_id": "12",
+                "view_volume": "462",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,75,114,163",
+                "product_type": "10",
+                "imei": "",
+                "chengse": "1609",
+                "com_price": "2888",
+                "discount": 4,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27732",
+                "product_name": "苹果 【iPhone 4s】 联通 3G/2G 白色 8 G 国行 95成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 4s】 联通 3G/2G 白色 8 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t013a4aec786db14470.jpg",
+                    "big": "http://p0.qhmsg.com/t0114f1fd45a38ec65c.jpg",
+                    "mid": "http://p0.qhmsg.com/t014417765bef52f421.jpg",
+                    "min": "http://p0.qhmsg.com/t0116cb180eabc20ce7.jpg"
+                },
+                "price": 430,
+                "brand_id": "2",
+                "model_id": "2",
+                "view_volume": "410",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "9,28,73,165",
+                "product_type": "10",
+                "imei": "013*****746",
+                "chengse": "1603",
+                "com_price": "1580",
+                "discount": 2.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27729",
+                "product_name": "苹果 【iPad Mini】 白色 16 G WIFI版 国行 95成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPad Mini】 白色 16 G WIFI版 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t015a5bfb088810a04a.jpg",
+                    "big": "http://p0.qhmsg.com/t018bfe678db81ae73b.jpg",
+                    "mid": "http://p0.qhmsg.com/t011edf2b4355c2d22c.jpg",
+                    "min": "http://p0.qhmsg.com/t01b08dd681fd2bc7a1.jpg"
+                },
+                "price": 899,
+                "brand_id": "2",
+                "model_id": "15",
+                "view_volume": "581",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,114,165",
+                "product_type": "10",
+                "imei": "",
+                "chengse": "1603",
+                "com_price": "1798",
+                "discount": 5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27736",
+                "product_name": "苹果 【iPhone 6】 全网通 银色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6】 全网通 银色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t010c8cd989fa3b1c8a.png",
+                    "big": "http://p0.qhmsg.com/t0134087cae802f7fc1.png",
+                    "mid": "http://p0.qhmsg.com/t0115dd58fd04302b3b.png",
+                    "min": "http://p0.qhmsg.com/t011d83bb5729680d79.png"
+                },
+                "price": 2050,
+                "brand_id": "2",
+                "model_id": "97",
+                "view_volume": "369",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "74,86,141,165",
+                "product_type": "10",
+                "imei": "355*****411",
+                "chengse": "1604",
+                "com_price": "5288",
+                "discount": 3.9,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27734",
+                "product_name": "小米 【小米5】 白色 全网通 64 G 国行 9成新 3G运行内存",
+                "model_attr_name": "小米 【小米5】 白色 全网通 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01682e8a13777e8532.jpg",
+                    "big": "http://p0.qhmsg.com/t012cdb739b99e8fb88.jpg",
+                    "mid": "http://p0.qhmsg.com/t0107d695a0af68c209.jpg",
+                    "min": "http://p0.qhmsg.com/t01a202c4896ead7b31.jpg"
+                },
+                "price": 1550,
+                "brand_id": "3",
+                "model_id": "490",
+                "view_volume": "480",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,76,141,165",
+                "product_type": "10",
+                "imei": "862*****543",
+                "chengse": "1604",
+                "com_price": "2499",
+                "discount": 6.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27731",
+                "product_name": "苹果【iPhone 6 Plus】16 G 银色 全网通 日本 9成新 ",
+                "model_attr_name": "苹果【iPhone 6 Plus】16 G 银色 全网通 日本 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0149ab58ef59a41c54.jpg",
+                    "big": "http://p0.qhmsg.com/t01f35020c9de595b5d.jpg",
+                    "mid": "http://p0.qhmsg.com/t01840caf054b5f139d.jpg",
+                    "min": "http://p0.qhmsg.com/t014070579c1f21179b.jpg"
+                },
+                "price": 2450,
+                "brand_id": "2",
+                "model_id": "98",
+                "view_volume": "450",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "74,86,141,163",
+                "product_type": "10",
+                "imei": "354*****624",
+                "chengse": "1604",
+                "com_price": "6088",
+                "discount": 4,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27730",
+                "product_name": "苹果【iPhone 6s】移动 4G/3G/2G 金色 16 G 国行 9成新 ",
+                "model_attr_name": "苹果【iPhone 6s】移动 4G/3G/2G 金色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c6513b053e67f2e2.jpg",
+                    "big": "http://p0.qhmsg.com/t0187b033dbdd10668d.jpg",
+                    "mid": "http://p0.qhmsg.com/t01ecc14261a7523947.jpg",
+                    "min": "http://p0.qhmsg.com/t01b46e3f7eea05304a.jpg"
+                },
+                "price": 2899,
+                "brand_id": "2",
+                "model_id": "261",
+                "view_volume": "433",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,30,74,165",
+                "product_type": "10",
+                "imei": "352*****497",
+                "chengse": "1604",
+                "com_price": "6088",
+                "discount": 4.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27683",
+                "product_name": "华为 【荣耀6】 联通 4G/3G/2G 黑色 16 G 国行 9成新 3G运行内存",
+                "model_attr_name": "华为 【荣耀6】 联通 4G/3G/2G 黑色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t017c64e6eed492d2c5.png",
+                    "big": "http://p0.qhmsg.com/t0133c7485c8242046f.png",
+                    "mid": "http://p0.qhmsg.com/t017921b00b4beff88d.png",
+                    "min": "http://p0.qhmsg.com/t01b78603d4aceeebef.png"
+                },
+                "price": 499,
+                "brand_id": "4",
+                "model_id": "104",
+                "view_volume": "549",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,74,97,165",
+                "product_type": "10",
+                "imei": "864*****002",
+                "chengse": "1604",
+                "com_price": "1499",
+                "discount": 3.3,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27699",
+                "product_name": "oppo 【R7 Plus】 移动 4G/3G/2G 金色 32 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "oppo 【R7 Plus】 移动 4G/3G/2G 金色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t018c465044af7f9b9d.png",
+                    "big": "http://p0.qhmsg.com/t01a2f6f145757ca76b.png",
+                    "mid": "http://p0.qhmsg.com/t01eb8f00e34aeeccb3.png",
+                    "min": "http://p0.qhmsg.com/t01f0aa31fa57834041.png"
+                },
+                "price": 1150,
+                "brand_id": "22",
+                "model_id": "208",
+                "view_volume": "386",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,30,75,165",
+                "product_type": "10",
+                "imei": "867*****785",
+                "chengse": "1604",
+                "com_price": "2499",
+                "discount": 4.6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27702",
+                "product_name": "苹果 【iPhone 6 Plus】 全网通 银色 64 G 日本 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6 Plus】 全网通 银色 64 G 日本 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0149ab58ef59a41c54.jpg",
+                    "big": "http://p0.qhmsg.com/t01f35020c9de595b5d.jpg",
+                    "mid": "http://p0.qhmsg.com/t01840caf054b5f139d.jpg",
+                    "min": "http://p0.qhmsg.com/t014070579c1f21179b.jpg"
+                },
+                "price": 2950,
+                "brand_id": "2",
+                "model_id": "98",
+                "view_volume": "531",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "76,86,141,163",
+                "product_type": "10",
+                "imei": "354*****846",
+                "chengse": "1604",
+                "com_price": "6088",
+                "discount": 4.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27716",
+                "product_name": "苹果 【iPhone 6】 全网通 银色 64 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6】 全网通 银色 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t010c8cd989fa3b1c8a.png",
+                    "big": "http://p0.qhmsg.com/t0134087cae802f7fc1.png",
+                    "mid": "http://p0.qhmsg.com/t0115dd58fd04302b3b.png",
+                    "min": "http://p0.qhmsg.com/t011d83bb5729680d79.png"
+                },
+                "price": 2599,
+                "brand_id": "2",
+                "model_id": "97",
+                "view_volume": "424",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "76,86,141,165",
+                "product_type": "10",
+                "imei": "355*****060",
+                "chengse": "1604",
+                "com_price": "5288",
+                "discount": 4.9,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27719",
+                "product_name": "苹果 【iPhone 6】 全网通 金色 16 G 国行 95成新 真机实拍&nbsp;全国联保2017-02-22",
+                "model_attr_name": "苹果 【iPhone 6】 全网通 金色 16 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01042f0e1ad3db884a.png",
+                    "big": "http://p0.qhmsg.com/t01f5575883be765e32.png",
+                    "mid": "http://p0.qhmsg.com/t01ca68a181942f676d.png",
+                    "min": "http://p0.qhmsg.com/t016ef94425a00bd05a.png"
+                },
+                "price": 2399,
+                "brand_id": "2",
+                "model_id": "97",
+                "view_volume": "434",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,74,141,165",
+                "product_type": "10",
+                "imei": "352*****020",
+                "chengse": "1603",
+                "com_price": "5288",
+                "discount": 4.5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27700",
+                "product_name": "小米 【MAX】 银色 全网通 32 G 国行 85成新 运行内存3GB&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "小米 【MAX】 银色 全网通 32 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01fb747ceb5f95117e.jpg",
+                    "big": "http://p0.qhmsg.com/t01ccd0dfaa900393d1.jpg",
+                    "mid": "http://p0.qhmsg.com/t0147691ce6521f83b2.jpg",
+                    "min": "http://p0.qhmsg.com/t01e78513be098a8551.jpg"
+                },
+                "price": 950,
+                "brand_id": "3",
+                "model_id": "562",
+                "view_volume": "424",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "75,86,141,165",
+                "product_type": "10",
+                "imei": "869*****063",
+                "chengse": "1609",
+                "com_price": "1999",
+                "discount": 4.8,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "2",
+                "name": "苹果",
+                "sums": "582"
+            },
+            {
+                "key": "1",
+                "name": "三星",
+                "sums": "162"
+            },
+            {
+                "key": "4",
+                "name": "华为",
+                "sums": "257"
+            },
+            {
+                "key": "3",
+                "name": "小米",
+                "sums": "103"
+            },
+            {
+                "key": "22",
+                "name": "oppo",
+                "sums": "54"
+            },
+            {
+                "key": "21",
+                "name": "vivo",
+                "sums": "80"
+            },
+            {
+                "key": "9",
+                "name": "魅族",
+                "sums": "65"
+            },
+            {
+                "key": "24",
+                "name": "乐视",
+                "sums": "9"
+            },
+            {
+                "key": "6",
+                "name": "诺基亚",
+                "sums": "1"
+            },
+            {
+                "key": "8",
+                "name": "索尼",
+                "sums": "9"
+            },
+            {
+                "key": "27",
+                "name": "360手机",
+                "sums": "15"
+            },
+            {
+                "key": "13",
+                "name": "努比亚",
+                "sums": "12"
+            },
+            {
+                "key": "11",
+                "name": "联想",
+                "sums": "4"
+            },
+            {
+                "key": "5",
+                "name": "HTC",
+                "sums": "12"
+            },
+            {
+                "key": "7",
+                "name": "酷派",
+                "sums": "3"
+            },
+            {
+                "key": "28",
+                "name": "美图秀秀",
+                "sums": "8"
+            },
+            {
+                "key": "12",
+                "name": "金立",
+                "sums": "1"
+            },
+            {
+                "key": "48",
+                "name": "微软",
+                "sums": "3"
+            },
+            {
+                "key": "50",
+                "name": "戴尔",
+                "sums": "5"
+            },
+            {
+                "key": "15",
+                "name": "朵唯",
+                "sums": "1"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "72",
+                        "attr_val_name": "4 G"
+                    },
+                    {
+                        "attr_val_id": "73",
+                        "attr_val_name": "8 G"
+                    },
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    },
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    },
+                    {
+                        "attr_val_id": "76",
+                        "attr_val_name": "64 G"
+                    },
+                    {
+                        "attr_val_id": "130",
+                        "attr_val_name": "128G"
+                    },
+                    {
+                        "attr_val_id": "197",
+                        "attr_val_name": "64MB"
+                    },
+                    {
+                        "attr_val_id": "216",
+                        "attr_val_name": "无"
+                    },
+                    {
+                        "attr_val_id": "239",
+                        "attr_val_name": "i5六代/500G/4G/2G"
+                    },
+                    {
+                        "attr_val_id": "241",
+                        "attr_val_name": "2G"
+                    },
+                    {
+                        "attr_val_id": "288",
+                        "attr_val_name": "8G/独显4G"
+                    },
+                    {
+                        "attr_val_id": "299",
+                        "attr_val_name": "256G固态硬盘/8G内存/In"
+                    },
+                    {
+                        "attr_val_id": "339",
+                        "attr_val_name": "628G硬盘/4G内存/独显4G"
+                    },
+                    {
+                        "attr_val_id": "347",
+                        "attr_val_name": "128Gssd 500G/4G/"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "159",
+                        "attr_val_name": "港澳台"
+                    },
+                    {
+                        "attr_val_id": "160",
+                        "attr_val_name": "韩国"
+                    },
+                    {
+                        "attr_val_id": "161",
+                        "attr_val_name": "美国"
+                    },
+                    {
+                        "attr_val_id": "162",
+                        "attr_val_name": "欧洲"
+                    },
+                    {
+                        "attr_val_id": "163",
+                        "attr_val_name": "日本"
+                    },
+                    {
+                        "attr_val_id": "164",
+                        "attr_val_name": "亚太"
+                    },
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    },
+                    {
+                        "attr_val_id": "240",
+                        "attr_val_name": "官方翻新机/国行"
+                    },
+                    {
+                        "attr_val_id": "276",
+                        "attr_val_name": "澳大利亚/新西兰"
+                    },
+                    {
+                        "attr_val_id": "332",
+                        "attr_val_name": "国行95新"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "8",
+                        "attr_val_name": "移动 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "9",
+                        "attr_val_name": "联通 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "10",
+                        "attr_val_name": "电信 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "11",
+                        "attr_val_name": "移动 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "12",
+                        "attr_val_name": "电信 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "97",
+                        "attr_val_name": "联通 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "114",
+                        "attr_val_name": "WIFI版"
+                    },
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    },
+                    {
+                        "attr_val_id": "157",
+                        "attr_val_name": "联通 3G/2G 移动2G"
+                    },
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "210",
+                        "attr_val_name": "电信联通4G 移动2G"
+                    },
+                    {
+                        "attr_val_id": "212",
+                        "attr_val_name": "原装数据线 充电头"
+                    },
+                    {
+                        "attr_val_id": "213",
+                        "attr_val_name": "原装耳机 数据线 充电头"
+                    },
+                    {
+                        "attr_val_id": "256",
+                        "attr_val_name": "酷睿i5-6200U/13寸"
+                    },
+                    {
+                        "attr_val_id": "272",
+                        "attr_val_name": "酷睿i7-6700HQ/15寸"
+                    },
+                    {
+                        "attr_val_id": "282",
+                        "attr_val_name": "酷睿i7-6500U/15寸"
+                    },
+                    {
+                        "attr_val_id": "298",
+                        "attr_val_name": "酷睿i5-6200U/14寸"
+                    },
+                    {
+                        "attr_val_id": "346",
+                        "attr_val_name": "酷睿i5-7200U/14寸"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    },
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    },
+                    {
+                        "attr_val_id": "30",
+                        "attr_val_name": "金色"
+                    },
+                    {
+                        "attr_val_id": "31",
+                        "attr_val_name": "粉色"
+                    },
+                    {
+                        "attr_val_id": "32",
+                        "attr_val_name": "蓝色"
+                    },
+                    {
+                        "attr_val_id": "33",
+                        "attr_val_name": "黄色"
+                    },
+                    {
+                        "attr_val_id": "34",
+                        "attr_val_name": "绿色"
+                    },
+                    {
+                        "attr_val_id": "83",
+                        "attr_val_name": "灰色"
+                    },
+                    {
+                        "attr_val_id": "86",
+                        "attr_val_name": "银色"
+                    },
+                    {
+                        "attr_val_id": "93",
+                        "attr_val_name": "红色"
+                    },
+                    {
+                        "attr_val_id": "104",
+                        "attr_val_name": "紫色"
+                    },
+                    {
+                        "attr_val_id": "105",
+                        "attr_val_name": "橙色"
+                    },
+                    {
+                        "attr_val_id": "131",
+                        "attr_val_name": "灰色加耳机"
+                    },
+                    {
+                        "attr_val_id": "193",
+                        "attr_val_name": "玫瑰金"
+                    },
+                    {
+                        "attr_val_id": "336",
+                        "attr_val_name": "摩卡金"
+                    },
+                    {
+                        "attr_val_id": "344",
+                        "attr_val_name": "亮黑色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            },
+            {
+                "key": 500,
+                "name": "500-1000元"
+            },
+            {
+                "key": 1000,
+                "name": "1000-1500元"
+            },
+            {
+                "key": 1500,
+                "name": "1500-2000元"
+            },
+            {
+                "key": 2000,
+                "name": "2000-3000元"
+            },
+            {
+                "key": 3000,
+                "name": "3000元以上"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1601,
+                "name": "全新"
+            },
+            {
+                "key": 1602,
+                "name": "99成新"
+            },
+            {
+                "key": 1603,
+                "name": "95成新"
+            },
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1609,
+                "name": "85成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "1",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "22992",
+                "product_name": "金立 【金钢（GN5001S）】  金色 移动联通 4G/3G/2G 16 G 国行9成新&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "金立 【金钢（GN5001S）】  金色 移动联通 4G/3G/2G 16 G 国行",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t014b4c1f01dac780e2.jpg",
+                    "big": "http://p0.qhmsg.com/t013b3770ad16b4ab8d.jpg",
+                    "mid": "http://p0.qhmsg.com/t0178f6b339a4601a43.jpg",
+                    "min": "http://p0.qhmsg.com/t01b9f31429ea4e66ca.jpg"
+                },
+                "price": 499,
+                "brand_id": "12",
+                "model_id": "561",
+                "view_volume": "2169",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,74,165,168",
+                "product_type": "10",
+                "imei": "869*****171",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "12",
+                "name": "金立",
+                "sums": "1"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "30",
+                        "attr_val_name": "金色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "561",
+                "model_name": "金钢（GN5001S）"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1604,
+                "name": "9成新"
+            }
+        ]
+    }
+}

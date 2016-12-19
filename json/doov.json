@@ -1,0 +1,101 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "1",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "26188",
+                "product_name": "朵唯 【L3】 移动联通 4G/3G/2G 金色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "朵唯 【L3】 移动联通 4G/3G/2G 金色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e30e4ebb3ebbd028.png",
+                    "big": "http://p0.qhmsg.com/t01963f484defcc9704.png",
+                    "mid": "http://p0.qhmsg.com/t0112cde727111e7df4.png",
+                    "min": "http://p0.qhmsg.com/t013b69a244596ba455.png"
+                },
+                "price": 899,
+                "brand_id": "15",
+                "model_id": "710",
+                "view_volume": "962",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,74,165,168",
+                "product_type": "10",
+                "imei": "866*****070",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "15",
+                "name": "朵唯",
+                "sums": "1"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "30",
+                        "attr_val_name": "金色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "710",
+                "model_name": "L3"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 500,
+                "name": "500-1000元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1604,
+                "name": "9成新"
+            }
+        ]
+    }
+}

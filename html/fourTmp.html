@@ -1,0 +1,29 @@
+<script type="text/html" id="navigation">
+	<div>
+		<h3>品牌</h3>
+	    <ul class="allPhone">
+			<li>全部</li>
+			<%for(var n=0;n<result.brand_list.length;n++){%>
+				<li><a href="#"><%=result.brand_list[n].name%></a><span>（<%=result.brand_list[n].sums%>）</span></li>
+			<%}%>
+		</ul>
+	</div>
+	<div>
+		<h3>成色</h3>
+		<ul>
+			<li>全部</li>
+			<%for(var n=0;n<result.chengse_list.length;n++){%>
+				<li><a href="#"><%=result.chengse_list[n].name%></a></li>
+			<%}%>
+		</ul>
+	</div>
+	<div>
+		<h3>价格</h3>
+		<ul>
+			<li>全部</li>
+			<%for(var n=0;n<result.price_list.length;n++){%>
+				<li><a href="#"><%=result.price_list[n].name%></a></li>
+			<%}%>
+		</ul>
+	</div>	
+</script>

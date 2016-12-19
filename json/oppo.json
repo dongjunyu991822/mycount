@@ -1,0 +1,752 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "50",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "27278",
+                "product_name": "oppo 【R9plus】 玫瑰金 全网通 64 G 国行 9成新 真机实拍&nbsp;全国联保",
+                "model_attr_name": "oppo 【R9plus】 玫瑰金 全网通 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c218c0cbcd3a1564.png",
+                    "big": "http://p0.qhmsg.com/t011bd8a2182454a8eb.png",
+                    "mid": "http://p0.qhmsg.com/t019fe28e7bd834d1c2.png",
+                    "min": "http://p0.qhmsg.com/t01dc53cea12cf8681c.png"
+                },
+                "price": 2199,
+                "brand_id": "22",
+                "model_id": "524",
+                "view_volume": "507",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "76,141,165,193",
+                "product_type": "10",
+                "imei": "862*****993",
+                "chengse": "1604",
+                "com_price": "3299",
+                "discount": 6.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27262",
+                "product_name": "oppo 【R9】 粉色 64 G 国行 全网通 95成新 真机实拍&nbsp;全国联保",
+                "model_attr_name": "oppo 【R9】 粉色 64 G 国行 全网通 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01b638b68d1df438c7.jpg",
+                    "big": "http://p0.qhmsg.com/t01936be71fd9b76578.jpg",
+                    "mid": "http://p0.qhmsg.com/t0151ef9a5c0a511af3.jpg",
+                    "min": "http://p0.qhmsg.com/t01039ac19e3860c385.jpg"
+                },
+                "price": 1699,
+                "brand_id": "22",
+                "model_id": "523",
+                "view_volume": "357",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "31,76,141,165",
+                "product_type": "10",
+                "imei": "863*****537",
+                "chengse": "1603",
+                "com_price": "2999",
+                "discount": 5.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27366",
+                "product_name": "oppo 【R7s plus】 移动 4G/3G/2G 金色 64 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "oppo 【R7s plus】 移动 4G/3G/2G 金色 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t010519fa9a91863af4.jpg",
+                    "big": "http://p0.qhmsg.com/t01d0c57bfe90233312.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f1db8474db388c16.jpg",
+                    "min": "http://p0.qhmsg.com/t0191324b15171f963a.jpg"
+                },
+                "price": 1199,
+                "brand_id": "22",
+                "model_id": "472",
+                "view_volume": "458",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,30,76,165",
+                "product_type": "10",
+                "imei": "868*****216",
+                "chengse": "1604",
+                "com_price": "1999",
+                "discount": 6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "27342",
+                "product_name": "oppo【N1】联通 3G/2G 白色 16 G 国行 9成新 真机实拍",
+                "model_attr_name": "oppo【N1】联通 3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0181cf02bf72ef05a7.png",
+                    "big": "http://p0.qhmsg.com/t014b557d09b4777e41.png",
+                    "mid": "http://p0.qhmsg.com/t01d923e17cd256816a.png",
+                    "min": "http://p0.qhmsg.com/t01d60d108e15f8815f.png"
+                },
+                "price": 550,
+                "brand_id": "22",
+                "model_id": "243",
+                "view_volume": "459",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "9,28,74,165",
+                "product_type": "10",
+                "imei": "863*****666",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27221",
+                "product_name": "oppo 【A33】 移动 4G/3G/2G 白色 16 G 国行 95成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "oppo 【A33】 移动 4G/3G/2G 白色 16 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01186ab727a9abf3c8.jpg",
+                    "big": "http://p0.qhmsg.com/t01b37416432c287766.jpg",
+                    "mid": "http://p0.qhmsg.com/t016d280b07966e289a.jpg",
+                    "min": "http://p0.qhmsg.com/t010279e21c11edbd22.jpg"
+                },
+                "price": 439,
+                "brand_id": "22",
+                "model_id": "620",
+                "view_volume": "493",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "861*****319",
+                "chengse": "1603",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27201",
+                "product_name": "oppo 【R7 Plus】 移动 4G/3G/2G 金色 32 G 国行 9成新 真机实拍&nbsp;全国联保",
+                "model_attr_name": "oppo 【R7 Plus】 移动 4G/3G/2G 金色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t018c465044af7f9b9d.png",
+                    "big": "http://p0.qhmsg.com/t01a2f6f145757ca76b.png",
+                    "mid": "http://p0.qhmsg.com/t01eb8f00e34aeeccb3.png",
+                    "min": "http://p0.qhmsg.com/t01f0aa31fa57834041.png"
+                },
+                "price": 2199,
+                "brand_id": "22",
+                "model_id": "208",
+                "view_volume": "391",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,30,75,165",
+                "product_type": "10",
+                "imei": "868*****692",
+                "chengse": "1604",
+                "com_price": "2499",
+                "discount": 8.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26402",
+                "product_name": "oppo 【R9】 粉色 64 G 国行 全网通 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "oppo 【R9】 粉色 64 G 国行 全网通 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01b638b68d1df438c7.jpg",
+                    "big": "http://p0.qhmsg.com/t01936be71fd9b76578.jpg",
+                    "mid": "http://p0.qhmsg.com/t0151ef9a5c0a511af3.jpg",
+                    "min": "http://p0.qhmsg.com/t01039ac19e3860c385.jpg"
+                },
+                "price": 1650,
+                "brand_id": "22",
+                "model_id": "523",
+                "view_volume": "1266",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "31,76,141,165",
+                "product_type": "10",
+                "imei": "861*****939",
+                "chengse": "1604",
+                "com_price": "2999",
+                "discount": 5.5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26908",
+                "product_name": "oppo 【R9plus】 金色 全网通 64 G 国行 95成新 真机实拍&nbsp;全国联保",
+                "model_attr_name": "oppo 【R9plus】 金色 全网通 64 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t015918cc0a80ccefc1.jpg",
+                    "big": "http://p0.qhmsg.com/t0198eb5df48a762671.jpg",
+                    "mid": "http://p0.qhmsg.com/t01d8ace9d4b0b28933.jpg",
+                    "min": "http://p0.qhmsg.com/t0160eaab16f9bec4c0.jpg"
+                },
+                "price": 2199,
+                "brand_id": "22",
+                "model_id": "524",
+                "view_volume": "788",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "863*****131",
+                "chengse": "1603",
+                "com_price": "3299",
+                "discount": 6.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26416",
+                "product_name": "oppo 【R9plus】 金色 全网通 64 G 国行 95成新 真机实拍&nbsp;全国联保",
+                "model_attr_name": "oppo 【R9plus】 金色 全网通 64 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t015918cc0a80ccefc1.jpg",
+                    "big": "http://p0.qhmsg.com/t0198eb5df48a762671.jpg",
+                    "mid": "http://p0.qhmsg.com/t01d8ace9d4b0b28933.jpg",
+                    "min": "http://p0.qhmsg.com/t0160eaab16f9bec4c0.jpg"
+                },
+                "price": 2199,
+                "brand_id": "22",
+                "model_id": "524",
+                "view_volume": "782",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "862*****615",
+                "chengse": "1603",
+                "com_price": "3299",
+                "discount": 6.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25598",
+                "product_name": "oppo 【A33】 移动 4G/3G/2G 黑色 16 G 国行 8成新 真机实拍",
+                "model_attr_name": "oppo 【A33】 移动 4G/3G/2G 黑色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01a08151447691c689.jpg",
+                    "big": "http://p0.qhmsg.com/t01fbe7e15fb9f71ca3.jpg",
+                    "mid": "http://p0.qhmsg.com/t01a3d8181b9e672e20.jpg",
+                    "min": "http://p0.qhmsg.com/t01e59a3c489a25cbfb.jpg"
+                },
+                "price": 480,
+                "brand_id": "22",
+                "model_id": "620",
+                "view_volume": "845",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,29,74,165",
+                "product_type": "10",
+                "imei": "860*****270",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25878",
+                "product_name": "oppo 【U3】 移动 4G/3G/2G 16 G 国行 黑色 85成新 真机实拍",
+                "model_attr_name": "oppo 【U3】 移动 4G/3G/2G 16 G 国行 黑色 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0114b7acea9e22f764.png",
+                    "big": "http://p0.qhmsg.com/t01af5f41e0a00a69d4.png",
+                    "mid": "http://p0.qhmsg.com/t01b479641bbb5f5d84.png",
+                    "min": "http://p0.qhmsg.com/t01ebc538bd52e8f1ac.png"
+                },
+                "price": 780,
+                "brand_id": "22",
+                "model_id": "428",
+                "view_volume": "871",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,29,74,165",
+                "product_type": "10",
+                "imei": "866*****679",
+                "chengse": "1609",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25220",
+                "product_name": "oppo 【R8207】 移动 4G/3G/2G 黑色 16 G 国行 8成新 真机实拍",
+                "model_attr_name": "oppo 【R8207】 移动 4G/3G/2G 黑色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t014a60b4f3f2de7ca9.jpg",
+                    "big": "http://p0.qhmsg.com/t0154916263e0ffc776.jpg",
+                    "mid": "http://p0.qhmsg.com/t018ffa8e176dd09ecb.jpg",
+                    "min": "http://p0.qhmsg.com/t01f6f895495892f3f2.jpg"
+                },
+                "price": 528,
+                "brand_id": "22",
+                "model_id": "190",
+                "view_volume": "530",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,29,74,165",
+                "product_type": "10",
+                "imei": "865*****813",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "24342",
+                "product_name": "oppo 【A59】 金色 全网通 32 G 国行 95成新 真机实拍&nbsp;&nbsp;实物是粉色",
+                "model_attr_name": "oppo 【A59】 金色 全网通 32 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c7cdf7dc53838470.jpg",
+                    "big": "http://p0.qhmsg.com/t015d0b22be32db3ddc.jpg",
+                    "mid": "http://p0.qhmsg.com/t01c98aecb220adbaf6.jpg",
+                    "min": "http://p0.qhmsg.com/t01c1db5955f44c9c9f.jpg"
+                },
+                "price": 1299,
+                "brand_id": "22",
+                "model_id": "644",
+                "view_volume": "1310",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,75,141,165",
+                "product_type": "10",
+                "imei": "A00*****041",
+                "chengse": "1603",
+                "com_price": "1799",
+                "discount": 7.2,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "24467",
+                "product_name": "oppo 【R8207】 移动 4G/3G/2G 黑色 16 G 国行 7成新 真机实拍",
+                "model_attr_name": "oppo 【R8207】 移动 4G/3G/2G 黑色 16 G 国行 7成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t014a60b4f3f2de7ca9.jpg",
+                    "big": "http://p0.qhmsg.com/t0154916263e0ffc776.jpg",
+                    "mid": "http://p0.qhmsg.com/t018ffa8e176dd09ecb.jpg",
+                    "min": "http://p0.qhmsg.com/t01f6f895495892f3f2.jpg"
+                },
+                "price": 518,
+                "brand_id": "22",
+                "model_id": "190",
+                "view_volume": "722",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,29,74,165",
+                "product_type": "10",
+                "imei": "865*****733",
+                "chengse": "1606",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "24168",
+                "product_name": "oppo 【R7s】 全网通 金色 32 G 国行 9成新 真机实拍",
+                "model_attr_name": "oppo 【R7s】 全网通 金色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01be88fe9e67fea137.png",
+                    "big": "http://p0.qhmsg.com/t01074776dbca0bc248.png",
+                    "mid": "http://p0.qhmsg.com/t01c1430a9da7c7bd68.png",
+                    "min": "http://p0.qhmsg.com/t01a4f35bafd8cd7bb4.png"
+                },
+                "price": 1260,
+                "brand_id": "22",
+                "model_id": "491",
+                "view_volume": "1407",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,75,141,165",
+                "product_type": "10",
+                "imei": "867*****350",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "23551",
+                "product_name": "oppo 【A37】  全网通 16 G 国行 金色八五成新  真机实拍",
+                "model_attr_name": "oppo 【A37】  全网通 16 G 国行 金色",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t010fec34fbf91df8b2.jpg",
+                    "big": "http://p0.qhmsg.com/t01689488885ab68f90.jpg",
+                    "mid": "http://p0.qhmsg.com/t01a9cbaef6da9b54f2.jpg",
+                    "min": "http://p0.qhmsg.com/t013b4ce8eca7af2942.jpg"
+                },
+                "price": 899,
+                "brand_id": "22",
+                "model_id": "617",
+                "view_volume": "725",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,74,141,165",
+                "product_type": "10",
+                "imei": "861*****210",
+                "chengse": "1609",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "22253",
+                "product_name": "oppo 【R8007】  移动 4G/3G/2G 白色 16 G 国行八五成新  真机实拍",
+                "model_attr_name": "oppo 【R8007】  移动 4G/3G/2G 白色 16 G 国行",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c552e042d3834ef8.png",
+                    "big": "http://p0.qhmsg.com/t01bf4ca951dae500b8.png",
+                    "mid": "http://p0.qhmsg.com/t014e1666ebb7a07081.png",
+                    "min": "http://p0.qhmsg.com/t0162cfa28e02b1cdf3.png"
+                },
+                "price": 578,
+                "brand_id": "22",
+                "model_id": "158",
+                "view_volume": "1160",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "864*****528",
+                "chengse": "1609",
+                "com_price": "2499",
+                "discount": 2.3,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26919",
+                "product_name": "oppo 【A31】 白色 电信 4G/3G/2G 8 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "oppo 【A31】 白色 电信 4G/3G/2G 8 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01fdf62c54a95e5b73.jpg",
+                    "big": "http://p0.qhmsg.com/t01384912d95ed87802.jpg",
+                    "mid": "http://p0.qhmsg.com/t0116cdfbe4f1a120da.jpg",
+                    "min": "http://p0.qhmsg.com/t01d491dacbfb6e0fbf.jpg"
+                },
+                "price": 399,
+                "brand_id": "22",
+                "model_id": "570",
+                "view_volume": "541",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,73,165",
+                "product_type": "10",
+                "imei": "867*****611",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26959",
+                "product_name": "oppo 【R7】 移动 4G/3G/2G 银色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "oppo 【R7】 移动 4G/3G/2G 银色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01884c36518c12b897.png",
+                    "big": "http://p0.qhmsg.com/t0109fcb3b5f498d476.png",
+                    "mid": "http://p0.qhmsg.com/t01dc92b70d586f140e.png",
+                    "min": "http://p0.qhmsg.com/t01eade8c18e14d86fb.png"
+                },
+                "price": 899,
+                "brand_id": "22",
+                "model_id": "203",
+                "view_volume": "567",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,74,86,165",
+                "product_type": "10",
+                "imei": "868*****884",
+                "chengse": "1604",
+                "com_price": "1999",
+                "discount": 4.5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26619",
+                "product_name": "oppo 【A31】 黑色 电信 4G/3G/2G 8 G 国行 95成新 真机实拍 保修半年",
+                "model_attr_name": "oppo 【A31】 黑色 电信 4G/3G/2G 8 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t019f1fcc7aac9bf8eb.jpg",
+                    "big": "http://p0.qhmsg.com/t0135ccabaa39872aa1.jpg",
+                    "mid": "http://p0.qhmsg.com/t01c659a3e21ee62159.jpg",
+                    "min": "http://p0.qhmsg.com/t01a1f1bf9163424519.jpg"
+                },
+                "price": 399,
+                "brand_id": "22",
+                "model_id": "570",
+                "view_volume": "622",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,29,73,165",
+                "product_type": "10",
+                "imei": "867*****190",
+                "chengse": "1603",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "22",
+                "name": "oppo",
+                "sums": "50"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "73",
+                        "attr_val_name": "8 G"
+                    },
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    },
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    },
+                    {
+                        "attr_val_id": "76",
+                        "attr_val_name": "64 G"
+                    },
+                    {
+                        "attr_val_id": "241",
+                        "attr_val_name": "2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "8",
+                        "attr_val_name": "移动 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "9",
+                        "attr_val_name": "联通 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "11",
+                        "attr_val_name": "移动 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "12",
+                        "attr_val_name": "电信 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "97",
+                        "attr_val_name": "联通 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    },
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    },
+                    {
+                        "attr_val_id": "30",
+                        "attr_val_name": "金色"
+                    },
+                    {
+                        "attr_val_id": "31",
+                        "attr_val_name": "粉色"
+                    },
+                    {
+                        "attr_val_id": "32",
+                        "attr_val_name": "蓝色"
+                    },
+                    {
+                        "attr_val_id": "86",
+                        "attr_val_name": "银色"
+                    },
+                    {
+                        "attr_val_id": "193",
+                        "attr_val_name": "玫瑰金"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "524",
+                "model_name": "R9plus"
+            },
+            {
+                "model_id": "523",
+                "model_name": "R9"
+            },
+            {
+                "model_id": "472",
+                "model_name": "R7s plus"
+            },
+            {
+                "model_id": "208",
+                "model_name": "R7 Plus"
+            },
+            {
+                "model_id": "491",
+                "model_name": "R7s"
+            },
+            {
+                "model_id": "203",
+                "model_name": "R7"
+            },
+            {
+                "model_id": "526",
+                "model_name": "A53"
+            },
+            {
+                "model_id": "570",
+                "model_name": "A31"
+            },
+            {
+                "model_id": "617",
+                "model_name": "A37"
+            },
+            {
+                "model_id": "620",
+                "model_name": "A33"
+            },
+            {
+                "model_id": "644",
+                "model_name": "A59"
+            },
+            {
+                "model_id": "158",
+                "model_name": "R8007"
+            },
+            {
+                "model_id": "451",
+                "model_name": "R1C"
+            },
+            {
+                "model_id": "428",
+                "model_name": "U3"
+            },
+            {
+                "model_id": "174",
+                "model_name": "R5  R8107"
+            },
+            {
+                "model_id": "190",
+                "model_name": "R8207"
+            },
+            {
+                "model_id": "243",
+                "model_name": "N1"
+            },
+            {
+                "model_id": "260",
+                "model_name": "Find 7 X9000"
+            },
+            {
+                "model_id": "283",
+                "model_name": "3007"
+            },
+            {
+                "model_id": "391",
+                "model_name": "R6007"
+            },
+            {
+                "model_id": "423",
+                "model_name": "R827T"
+            },
+            {
+                "model_id": "425",
+                "model_name": "R8205"
+            },
+            {
+                "model_id": "695",
+                "model_name": "A51"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            },
+            {
+                "key": 500,
+                "name": "500-1000元"
+            },
+            {
+                "key": 1000,
+                "name": "1000-1500元"
+            },
+            {
+                "key": 1500,
+                "name": "1500-2000元"
+            },
+            {
+                "key": 2000,
+                "name": "2000-3000元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1603,
+                "name": "95成新"
+            },
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1609,
+                "name": "85成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

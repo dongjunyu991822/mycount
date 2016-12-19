@@ -1,0 +1,18 @@
+<script type="text/html" id="firstTmp">
+	<%for(var n=0;n<result.good_list.length;n++){%>
+		<li>
+			<p></p>
+			<img src=<%=result.good_list[n].thum_img.big%>>
+			<div>
+				<p><%=result.good_list[n].product_name%></p>
+				<span>￥
+					<span><%=result.good_list[n].price%></span>
+					<span><%=result.good_list[n].discount%>折起</span>
+					<del>￥<%=result.good_list[n].com_price%></del>
+					<a href="#">立即购买</a>
+				</span>
+				<h5><%=result.good_list[n].mer_name%>保修180天</h5>
+			</div>
+		</li>
+	<%}%>
+</script>

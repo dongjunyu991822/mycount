@@ -1,0 +1,332 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "8",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "9280",
+                "product_name": "索尼 【S55】 移动 4G/3G/2G 绿色 8 G 国行 9成新 S55T 移动版 墨绿",
+                "model_attr_name": "索尼 【S55】 移动 4G/3G/2G 绿色 8 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t011d7e183fb79f04ad.png",
+                    "big": "http://p0.qhmsg.com/t01bc64105ec1962923.png",
+                    "mid": "http://p0.qhmsg.com/t0174d3cabbeab3e17e.png",
+                    "min": "http://p0.qhmsg.com/t0178543f4bd96c9c9e.png"
+                },
+                "price": 450,
+                "brand_id": "8",
+                "model_id": "173",
+                "view_volume": "2921",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,34,73,165",
+                "product_type": "10",
+                "imei": "354*****681",
+                "chengse": "1604",
+                "com_price": "1299",
+                "discount": 3.5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27191",
+                "product_name": "索尼 【Xperia T2】 联通 3G/2G 紫色 8 G 港澳台 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "索尼 【Xperia T2】 联通 3G/2G 紫色 8 G 港澳台 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01d0b3523126592bb6.jpg",
+                    "big": "http://p0.qhmsg.com/t0176463c1abb3e2da2.jpg",
+                    "mid": "http://p0.qhmsg.com/t01a7a16b3282943f85.jpg",
+                    "min": "http://p0.qhmsg.com/t01312fcf827e465ed7.jpg"
+                },
+                "price": 499,
+                "brand_id": "8",
+                "model_id": "484",
+                "view_volume": "476",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "9,73,104,159",
+                "product_type": "10",
+                "imei": "351*****995",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27239",
+                "product_name": "索尼 【Z2 L50】 移动 4G/3G/2G 黑色 16 G 国行 85成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "索尼 【Z2 L50】 移动 4G/3G/2G 黑色 16 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0183a729a214307a88.jpg",
+                    "big": "http://p0.qhmsg.com/t0197f7a05c022b6b0b.jpg",
+                    "mid": "http://p0.qhmsg.com/t010d9371c4eff61def.jpg",
+                    "min": "http://p0.qhmsg.com/t0183e2ab7d61121d85.jpg"
+                },
+                "price": 999,
+                "brand_id": "8",
+                "model_id": "183",
+                "view_volume": "531",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,29,74,165",
+                "product_type": "10",
+                "imei": "352*****497",
+                "chengse": "1609",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27127",
+                "product_name": "索尼 【Z2 L50】 移动 4G/3G/2G 黑色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "索尼 【Z2 L50】 移动 4G/3G/2G 黑色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0183a729a214307a88.jpg",
+                    "big": "http://p0.qhmsg.com/t0197f7a05c022b6b0b.jpg",
+                    "mid": "http://p0.qhmsg.com/t010d9371c4eff61def.jpg",
+                    "min": "http://p0.qhmsg.com/t0183e2ab7d61121d85.jpg"
+                },
+                "price": 1250,
+                "brand_id": "8",
+                "model_id": "183",
+                "view_volume": "582",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,29,74,165",
+                "product_type": "10",
+                "imei": "352*****522",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25467",
+                "product_name": "索尼 【Z3】 移动 4G/3G/2G 白色 16 G 国行 8成新 真机实拍",
+                "model_attr_name": "索尼 【Z3】 移动 4G/3G/2G 白色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01b5a6af95043b2dfd.png",
+                    "big": "http://p0.qhmsg.com/t01730256ee3f48525a.png",
+                    "mid": "http://p0.qhmsg.com/t01167b01123e64c582.png",
+                    "min": "http://p0.qhmsg.com/t0118f216cbf74ede68.png"
+                },
+                "price": 950,
+                "brand_id": "8",
+                "model_id": "241",
+                "view_volume": "1797",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "355*****036",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26404",
+                "product_name": "索尼 【S55】 移动 4G/3G/2G 黑色 8 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "索尼 【S55】 移动 4G/3G/2G 黑色 8 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t013a07bbe46694551e.jpg",
+                    "big": "http://p0.qhmsg.com/t0102863bd379cc7715.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f3713f1dc9ad0ca7.jpg",
+                    "min": "http://p0.qhmsg.com/t017e3183b4aa2419bd.jpg"
+                },
+                "price": 499,
+                "brand_id": "8",
+                "model_id": "173",
+                "view_volume": "591",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,29,73,165",
+                "product_type": "10",
+                "imei": "354*****008",
+                "chengse": "1605",
+                "com_price": "1299",
+                "discount": 3.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25360",
+                "product_name": "索尼 【S55】 移动 4G/3G/2G 绿色 8 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "索尼 【S55】 移动 4G/3G/2G 绿色 8 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t011d7e183fb79f04ad.png",
+                    "big": "http://p0.qhmsg.com/t01bc64105ec1962923.png",
+                    "mid": "http://p0.qhmsg.com/t0174d3cabbeab3e17e.png",
+                    "min": "http://p0.qhmsg.com/t0178543f4bd96c9c9e.png"
+                },
+                "price": 450,
+                "brand_id": "8",
+                "model_id": "173",
+                "view_volume": "809",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,34,73,165",
+                "product_type": "10",
+                "imei": "354*****814",
+                "chengse": "1605",
+                "com_price": "1299",
+                "discount": 3.5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "21342",
+                "product_name": "索尼 【L39 Xperia Z1】  联通 3G/2G 紫色 16 G 国行8成新&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "索尼 【L39 Xperia Z1】  联通 3G/2G 紫色 16 G 国行",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e1da1bfb33ec0b46.png",
+                    "big": "http://p0.qhmsg.com/t01d0a49684f5b9885e.png",
+                    "mid": "http://p0.qhmsg.com/t01041f5f000a4f94b6.png",
+                    "min": "http://p0.qhmsg.com/t01fa37ec77a91de823.png"
+                },
+                "price": 599,
+                "brand_id": "8",
+                "model_id": "91",
+                "view_volume": "2480",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "9,74,104,165",
+                "product_type": "10",
+                "imei": "358*****594",
+                "chengse": "1605",
+                "com_price": "2148",
+                "discount": 2.8,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "8",
+                "name": "索尼",
+                "sums": "8"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "73",
+                        "attr_val_name": "8 G"
+                    },
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "159",
+                        "attr_val_name": "港澳台"
+                    },
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "9",
+                        "attr_val_name": "联通 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "11",
+                        "attr_val_name": "移动 4G/3G/2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    },
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    },
+                    {
+                        "attr_val_id": "34",
+                        "attr_val_name": "绿色"
+                    },
+                    {
+                        "attr_val_id": "104",
+                        "attr_val_name": "紫色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "241",
+                "model_name": "Z3"
+            },
+            {
+                "model_id": "91",
+                "model_name": "L39 Xperia Z1"
+            },
+            {
+                "model_id": "173",
+                "model_name": "S55"
+            },
+            {
+                "model_id": "183",
+                "model_name": "Z2 L50"
+            },
+            {
+                "model_id": "484",
+                "model_name": "Xperia T2"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            },
+            {
+                "key": 500,
+                "name": "500-1000元"
+            },
+            {
+                "key": 1000,
+                "name": "1000-1500元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1609,
+                "name": "85成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

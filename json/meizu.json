@@ -1,0 +1,656 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "57",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "27359",
+                "product_name": "魅族 【魅蓝 note 2】 电信 4G/3G/2G 灰色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【魅蓝 note 2】 电信 4G/3G/2G 灰色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e5505a14dca8b22a.png",
+                    "big": "http://p0.qhmsg.com/t01aa2bf5293557e3f6.png",
+                    "mid": "http://p0.qhmsg.com/t01b4ab79678a074440.png",
+                    "min": "http://p0.qhmsg.com/t011565f1111f7c6138.png"
+                },
+                "price": 499,
+                "brand_id": "9",
+                "model_id": "185",
+                "view_volume": "356",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,74,83,165",
+                "product_type": "10",
+                "imei": "869*****797",
+                "chengse": "1604",
+                "com_price": "799",
+                "discount": 6.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27152",
+                "product_name": "魅族 【魅蓝 note 2】 电信 4G/3G/2G 白色 16 G 国行 7成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【魅蓝 note 2】 电信 4G/3G/2G 白色 16 G 国行 7成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0161bf3c171e9ae19b.png",
+                    "big": "http://p0.qhmsg.com/t01a91e60d5e6fa81bf.png",
+                    "mid": "http://p0.qhmsg.com/t010a20d9c961af7f3a.png",
+                    "min": "http://p0.qhmsg.com/t01d8928880b09287df.png"
+                },
+                "price": 450,
+                "brand_id": "9",
+                "model_id": "185",
+                "view_volume": "511",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,74,165",
+                "product_type": "10",
+                "imei": "867*****254",
+                "chengse": "1606",
+                "com_price": "799",
+                "discount": 5.6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27106",
+                "product_name": "魅族 【魅蓝 3】 白色 全网通 国行 16 G 7成新 真机实拍",
+                "model_attr_name": "魅族 【魅蓝 3】 白色 全网通 国行 16 G 7成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01ccf508b361a17498.jpg",
+                    "big": "http://p0.qhmsg.com/t016b935ba079833ee9.jpg",
+                    "mid": "http://p0.qhmsg.com/t0151cc86ad916ffe95.jpg",
+                    "min": "http://p0.qhmsg.com/t01c21e5c1cc064e368.jpg"
+                },
+                "price": 450,
+                "brand_id": "9",
+                "model_id": "547",
+                "view_volume": "599",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,141,165",
+                "product_type": "10",
+                "imei": "861*****502",
+                "chengse": "1606",
+                "com_price": "799",
+                "discount": 5.6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27083",
+                "product_name": "魅族 【MX 4 PRO】 移动 4G/3G/2G 灰色 16 G 国行 9成新 真机实拍",
+                "model_attr_name": "魅族 【MX 4 PRO】 移动 4G/3G/2G 灰色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01629e1d346e10ce74.png",
+                    "big": "http://p0.qhmsg.com/t013d46bdc26cd011bd.png",
+                    "mid": "http://p0.qhmsg.com/t015b9c0d3df515b332.png",
+                    "min": "http://p0.qhmsg.com/t010bae072d37144b8e.png"
+                },
+                "price": 599,
+                "brand_id": "9",
+                "model_id": "110",
+                "view_volume": "590",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,74,83,165",
+                "product_type": "10",
+                "imei": "865*****996",
+                "chengse": "1604",
+                "com_price": "1499",
+                "discount": 4,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27071",
+                "product_name": "魅族 【魅蓝 note 2】 电信 4G/3G/2G 白色 16 G 国行 85成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【魅蓝 note 2】 电信 4G/3G/2G 白色 16 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0161bf3c171e9ae19b.png",
+                    "big": "http://p0.qhmsg.com/t01a91e60d5e6fa81bf.png",
+                    "mid": "http://p0.qhmsg.com/t010a20d9c961af7f3a.png",
+                    "min": "http://p0.qhmsg.com/t01d8928880b09287df.png"
+                },
+                "price": 450,
+                "brand_id": "9",
+                "model_id": "185",
+                "view_volume": "599",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,74,165",
+                "product_type": "10",
+                "imei": "867*****637",
+                "chengse": "1609",
+                "com_price": "799",
+                "discount": 5.6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27069",
+                "product_name": "魅族 【魅蓝 note 2】 移动 4G/3G/2G 灰色 16 G 国行 9成新 真机实拍",
+                "model_attr_name": "魅族 【魅蓝 note 2】 移动 4G/3G/2G 灰色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e5505a14dca8b22a.png",
+                    "big": "http://p0.qhmsg.com/t01aa2bf5293557e3f6.png",
+                    "mid": "http://p0.qhmsg.com/t01b4ab79678a074440.png",
+                    "min": "http://p0.qhmsg.com/t011565f1111f7c6138.png"
+                },
+                "price": 499,
+                "brand_id": "9",
+                "model_id": "185",
+                "view_volume": "501",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,74,83,165",
+                "product_type": "10",
+                "imei": "867*****881",
+                "chengse": "1604",
+                "com_price": "799",
+                "discount": 6.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26910",
+                "product_name": "魅族 【MX5】 移动联通 4G/3G/2G 16 G 国行 灰色 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【MX5】 移动联通 4G/3G/2G 16 G 国行 灰色 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t013a6253cbc1585d2c.png",
+                    "big": "http://p0.qhmsg.com/t01f17c186d6f4ac557.png",
+                    "mid": "http://p0.qhmsg.com/t01f5a66650607d36d2.png",
+                    "min": "http://p0.qhmsg.com/t01b0e4645dfc927164.png"
+                },
+                "price": 750,
+                "brand_id": "9",
+                "model_id": "238",
+                "view_volume": "733",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "74,83,165,168",
+                "product_type": "10",
+                "imei": "868*****147",
+                "chengse": "1604",
+                "com_price": "1699",
+                "discount": 4.4,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25417",
+                "product_name": "魅族 【魅蓝2】 电信 4G/3G/2G 灰色 16 G 国行 全新新 未拆封",
+                "model_attr_name": "魅族 【魅蓝2】 电信 4G/3G/2G 灰色 16 G 国行 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t011a5604c2ae11e3ed.png",
+                    "big": "http://p0.qhmsg.com/t014976edec2efdc6da.png",
+                    "mid": "http://p0.qhmsg.com/t01b50a4c6a97091204.png",
+                    "min": "http://p0.qhmsg.com/t01eeb4e923479ecd60.png"
+                },
+                "price": 498,
+                "brand_id": "9",
+                "model_id": "272",
+                "view_volume": "1761",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,74,83,165",
+                "product_type": "10",
+                "imei": "867*****849",
+                "chengse": "1601",
+                "com_price": "799",
+                "discount": 6.2,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "24540",
+                "product_name": "魅族 【metal】 电信 4G/3G/2G 白色 16 G 国行 95成新 真机实拍",
+                "model_attr_name": "魅族 【metal】 电信 4G/3G/2G 白色 16 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016e73b5b2974c1685.jpg",
+                    "big": "http://p0.qhmsg.com/t015f432e527fe4a6ee.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f6f27e07741e23b2.jpg",
+                    "min": "http://p0.qhmsg.com/t017b19db45fe9c6bca.jpg"
+                },
+                "price": 628,
+                "brand_id": "9",
+                "model_id": "471",
+                "view_volume": "1016",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,74,165",
+                "product_type": "10",
+                "imei": "868*****533",
+                "chengse": "1603",
+                "com_price": "999",
+                "discount": 6.3,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "23861",
+                "product_name": "魅族 【MX 4 PRO】 移动联通 4G/3G/2G 灰色 16 G 国行 85成新 八五成新 真机实拍",
+                "model_attr_name": "魅族 【MX 4 PRO】 移动联通 4G/3G/2G 灰色 16 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01629e1d346e10ce74.png",
+                    "big": "http://p0.qhmsg.com/t013d46bdc26cd011bd.png",
+                    "mid": "http://p0.qhmsg.com/t015b9c0d3df515b332.png",
+                    "min": "http://p0.qhmsg.com/t010bae072d37144b8e.png"
+                },
+                "price": 728,
+                "brand_id": "9",
+                "model_id": "110",
+                "view_volume": "959",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "74,83,165,168",
+                "product_type": "10",
+                "imei": "865*****092",
+                "chengse": "1609",
+                "com_price": "1499",
+                "discount": 4.9,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26924",
+                "product_name": "魅族 【魅蓝 note 2】 移动 4G/3G/2G 白色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【魅蓝 note 2】 移动 4G/3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0161bf3c171e9ae19b.png",
+                    "big": "http://p0.qhmsg.com/t01a91e60d5e6fa81bf.png",
+                    "mid": "http://p0.qhmsg.com/t010a20d9c961af7f3a.png",
+                    "min": "http://p0.qhmsg.com/t01d8928880b09287df.png"
+                },
+                "price": 450,
+                "brand_id": "9",
+                "model_id": "185",
+                "view_volume": "613",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "867*****542",
+                "chengse": "1604",
+                "com_price": "799",
+                "discount": 5.6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "26799",
+                "product_name": "魅族【魅蓝 note 2】电信 4G/3G/2G 白色 16 G 国行 85成新 真机实拍",
+                "model_attr_name": "魅族【魅蓝 note 2】电信 4G/3G/2G 白色 16 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0161bf3c171e9ae19b.png",
+                    "big": "http://p0.qhmsg.com/t01a91e60d5e6fa81bf.png",
+                    "mid": "http://p0.qhmsg.com/t010a20d9c961af7f3a.png",
+                    "min": "http://p0.qhmsg.com/t01d8928880b09287df.png"
+                },
+                "price": 480,
+                "brand_id": "9",
+                "model_id": "185",
+                "view_volume": "570",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,74,165",
+                "product_type": "10",
+                "imei": "990*****304",
+                "chengse": "1609",
+                "com_price": "799",
+                "discount": 6,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26615",
+                "product_name": "魅族 【metal】 电信 4G/3G/2G 白色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【metal】 电信 4G/3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016e73b5b2974c1685.jpg",
+                    "big": "http://p0.qhmsg.com/t015f432e527fe4a6ee.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f6f27e07741e23b2.jpg",
+                    "min": "http://p0.qhmsg.com/t017b19db45fe9c6bca.jpg"
+                },
+                "price": 650,
+                "brand_id": "9",
+                "model_id": "471",
+                "view_volume": "593",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,74,165",
+                "product_type": "10",
+                "imei": "868*****052",
+                "chengse": "1604",
+                "com_price": "999",
+                "discount": 6.5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26448",
+                "product_name": "魅族 【魅蓝 note 2】 电信 4G/3G/2G 灰色 16 G 国行 7成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【魅蓝 note 2】 电信 4G/3G/2G 灰色 16 G 国行 7成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e5505a14dca8b22a.png",
+                    "big": "http://p0.qhmsg.com/t01aa2bf5293557e3f6.png",
+                    "mid": "http://p0.qhmsg.com/t01b4ab79678a074440.png",
+                    "min": "http://p0.qhmsg.com/t011565f1111f7c6138.png"
+                },
+                "price": 399,
+                "brand_id": "9",
+                "model_id": "185",
+                "view_volume": "625",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,74,83,165",
+                "product_type": "10",
+                "imei": "868*****852",
+                "chengse": "1606",
+                "com_price": "799",
+                "discount": 5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26302",
+                "product_name": "魅族 【魅蓝 note 2】 电信 4G/3G/2G 白色 16 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【魅蓝 note 2】 电信 4G/3G/2G 白色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0161bf3c171e9ae19b.png",
+                    "big": "http://p0.qhmsg.com/t01a91e60d5e6fa81bf.png",
+                    "mid": "http://p0.qhmsg.com/t010a20d9c961af7f3a.png",
+                    "min": "http://p0.qhmsg.com/t01d8928880b09287df.png"
+                },
+                "price": 499,
+                "brand_id": "9",
+                "model_id": "185",
+                "view_volume": "400",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,74,165",
+                "product_type": "10",
+                "imei": "867*****339",
+                "chengse": "1605",
+                "com_price": "799",
+                "discount": 6.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26283",
+                "product_name": "魅族 【metal】 移动联通 4G/3G/2G 白色 16 G 国行 85成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【metal】 移动联通 4G/3G/2G 白色 16 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016e73b5b2974c1685.jpg",
+                    "big": "http://p0.qhmsg.com/t015f432e527fe4a6ee.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f6f27e07741e23b2.jpg",
+                    "min": "http://p0.qhmsg.com/t017b19db45fe9c6bca.jpg"
+                },
+                "price": 599,
+                "brand_id": "9",
+                "model_id": "471",
+                "view_volume": "539",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,165,168",
+                "product_type": "10",
+                "imei": "868*****107",
+                "chengse": "1609",
+                "com_price": "999",
+                "discount": 6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26259",
+                "product_name": "魅族 【魅蓝 note 2】 移动联通 4G/3G/2G 白色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【魅蓝 note 2】 移动联通 4G/3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0161bf3c171e9ae19b.png",
+                    "big": "http://p0.qhmsg.com/t01a91e60d5e6fa81bf.png",
+                    "mid": "http://p0.qhmsg.com/t010a20d9c961af7f3a.png",
+                    "min": "http://p0.qhmsg.com/t01d8928880b09287df.png"
+                },
+                "price": 450,
+                "brand_id": "9",
+                "model_id": "185",
+                "view_volume": "582",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,165,168",
+                "product_type": "10",
+                "imei": "867*****747",
+                "chengse": "1604",
+                "com_price": "799",
+                "discount": 5.6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "24334",
+                "product_name": "魅族 【MX5】 移动联通 4G/3G/2G 16 G 国行 灰色 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【MX5】 移动联通 4G/3G/2G 16 G 国行 灰色 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t013a6253cbc1585d2c.png",
+                    "big": "http://p0.qhmsg.com/t01f17c186d6f4ac557.png",
+                    "mid": "http://p0.qhmsg.com/t01f5a66650607d36d2.png",
+                    "min": "http://p0.qhmsg.com/t01b0e4645dfc927164.png"
+                },
+                "price": 750,
+                "brand_id": "9",
+                "model_id": "238",
+                "view_volume": "1043",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "74,83,165,168",
+                "product_type": "10",
+                "imei": "867*****420",
+                "chengse": "1604",
+                "com_price": "1699",
+                "discount": 4.4,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "21302",
+                "product_name": "魅族 【MX5】  移动联通 4G/3G/2G 16 G 国行 灰色9成新&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【MX5】  移动联通 4G/3G/2G 16 G 国行 灰色",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t013a6253cbc1585d2c.png",
+                    "big": "http://p0.qhmsg.com/t01f17c186d6f4ac557.png",
+                    "mid": "http://p0.qhmsg.com/t01f5a66650607d36d2.png",
+                    "min": "http://p0.qhmsg.com/t01b0e4645dfc927164.png"
+                },
+                "price": 750,
+                "brand_id": "9",
+                "model_id": "238",
+                "view_volume": "1515",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "74,83,165,168",
+                "product_type": "10",
+                "imei": "867*****860",
+                "chengse": "1604",
+                "com_price": "1699",
+                "discount": 4.4,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26124",
+                "product_name": "魅族 【魅蓝 note 2】 电信 4G/3G/2G 白色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "魅族 【魅蓝 note 2】 电信 4G/3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0161bf3c171e9ae19b.png",
+                    "big": "http://p0.qhmsg.com/t01a91e60d5e6fa81bf.png",
+                    "mid": "http://p0.qhmsg.com/t010a20d9c961af7f3a.png",
+                    "min": "http://p0.qhmsg.com/t01d8928880b09287df.png"
+                },
+                "price": 499,
+                "brand_id": "9",
+                "model_id": "185",
+                "view_volume": "541",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,74,165",
+                "product_type": "10",
+                "imei": "868*****498",
+                "chengse": "1604",
+                "com_price": "799",
+                "discount": 6.2,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "9",
+                "name": "魅族",
+                "sums": "57"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "9",
+                        "attr_val_name": "联通 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "11",
+                        "attr_val_name": "移动 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "12",
+                        "attr_val_name": "电信 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "97",
+                        "attr_val_name": "联通 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    },
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    },
+                    {
+                        "attr_val_id": "31",
+                        "attr_val_name": "粉色"
+                    },
+                    {
+                        "attr_val_id": "32",
+                        "attr_val_name": "蓝色"
+                    },
+                    {
+                        "attr_val_id": "83",
+                        "attr_val_name": "灰色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "238",
+                "model_name": "MX5"
+            },
+            {
+                "model_id": "110",
+                "model_name": "MX 4 PRO"
+            },
+            {
+                "model_id": "81",
+                "model_name": "MX3"
+            },
+            {
+                "model_id": "471",
+                "model_name": "metal"
+            },
+            {
+                "model_id": "185",
+                "model_name": "魅蓝 note 2"
+            },
+            {
+                "model_id": "636",
+                "model_name": "魅蓝 3s"
+            },
+            {
+                "model_id": "547",
+                "model_name": "魅蓝 3"
+            },
+            {
+                "model_id": "272",
+                "model_name": "魅蓝2"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            },
+            {
+                "key": 500,
+                "name": "500-1000元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1601,
+                "name": "全新"
+            },
+            {
+                "key": 1603,
+                "name": "95成新"
+            },
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1609,
+                "name": "85成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

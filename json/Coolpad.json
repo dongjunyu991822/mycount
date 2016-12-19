@@ -1,0 +1,192 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "4",
+        "good_list": [
+            {
+                "mer_id": "9",
+                "product_id": "27333",
+                "product_name": "酷派【8675-A】白色 16 G 全网通 国行 85成新 真机实拍",
+                "model_attr_name": "酷派【8675-A】白色 16 G 全网通 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016033f764baecc407.png",
+                    "big": "http://p0.qhmsg.com/t013dcd572efc4a0e33.png",
+                    "mid": "http://p0.qhmsg.com/t014dca0d40b8f147d6.png",
+                    "min": "http://p0.qhmsg.com/t0142ba855838a65f81.png"
+                },
+                "price": 420,
+                "brand_id": "7",
+                "model_id": "199",
+                "view_volume": "381",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,141,165",
+                "product_type": "10",
+                "imei": "866*****254",
+                "chengse": "1609",
+                "com_price": "818",
+                "discount": 5.1,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "24487",
+                "product_name": "酷派 【8675-A】 全网通 白色 16 G 国行 9成新 真机实拍",
+                "model_attr_name": "酷派 【8675-A】 全网通 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016033f764baecc407.png",
+                    "big": "http://p0.qhmsg.com/t013dcd572efc4a0e33.png",
+                    "mid": "http://p0.qhmsg.com/t014dca0d40b8f147d6.png",
+                    "min": "http://p0.qhmsg.com/t0142ba855838a65f81.png"
+                },
+                "price": 460,
+                "brand_id": "7",
+                "model_id": "199",
+                "view_volume": "1006",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,141,165",
+                "product_type": "10",
+                "imei": "866*****560",
+                "chengse": "1604",
+                "com_price": "818",
+                "discount": 5.6,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "23843",
+                "product_name": "酷派 【酷派锋尚】 白色 电信 4G/3G/2G 8 G 国行 7成新 真机实拍",
+                "model_attr_name": "酷派 【酷派锋尚】 白色 电信 4G/3G/2G 8 G 国行 7成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0116dd1b79ba3d3c06.jpg",
+                    "big": "http://p0.qhmsg.com/t01e4e0e0af07d9ac30.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f26b79943fed7858.jpg",
+                    "min": "http://p0.qhmsg.com/t0198c19a71e8fbde36.jpg"
+                },
+                "price": 318,
+                "brand_id": "7",
+                "model_id": "542",
+                "view_volume": "1287",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,73,165",
+                "product_type": "10",
+                "imei": "867*****727",
+                "chengse": "1606",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "20747",
+                "product_name": "酷派 【酷派锋尚】  白色 电信 4G/3G/2G 8 G 国行八五成新   真机实拍",
+                "model_attr_name": "酷派 【酷派锋尚】  白色 电信 4G/3G/2G 8 G 国行",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0116dd1b79ba3d3c06.jpg",
+                    "big": "http://p0.qhmsg.com/t01e4e0e0af07d9ac30.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f26b79943fed7858.jpg",
+                    "min": "http://p0.qhmsg.com/t0198c19a71e8fbde36.jpg"
+                },
+                "price": 359,
+                "brand_id": "7",
+                "model_id": "542",
+                "view_volume": "2748",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,73,165",
+                "product_type": "10",
+                "imei": "867*****451",
+                "chengse": "1609",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "7",
+                "name": "酷派",
+                "sums": "4"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "73",
+                        "attr_val_name": "8 G"
+                    },
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "12",
+                        "attr_val_name": "电信 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "199",
+                "model_name": "8675-A"
+            },
+            {
+                "model_id": "542",
+                "model_name": "酷派锋尚"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1609,
+                "name": "85成新"
+            }
+        ]
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "6",
+        "good_list": [
+            {
+                "mer_id": "9",
+                "product_id": "25227",
+                "product_name": "美图秀秀 【M4】 移动联通 4G/3G/2G 红色 32 G 国行 9成新 真机实拍",
+                "model_attr_name": "美图秀秀 【M4】 移动联通 4G/3G/2G 红色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0145bb6e949bbe7b3f.jpg",
+                    "big": "http://p0.qhmsg.com/t01bf0623b58814afd7.jpg",
+                    "mid": "http://p0.qhmsg.com/t017c92f23293203bf9.jpg",
+                    "min": "http://p0.qhmsg.com/t014e4b6ce8f90b1a40.jpg"
+                },
+                "price": 1160,
+                "brand_id": "28",
+                "model_id": "285",
+                "view_volume": "689",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "75,93,165,168",
+                "product_type": "10",
+                "imei": "865*****754",
+                "chengse": "1604",
+                "com_price": "2299",
+                "discount": 5,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26864",
+                "product_name": "美图秀秀 【M4】 移动联通 4G/3G/2G 红色 32 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "美图秀秀 【M4】 移动联通 4G/3G/2G 红色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0145bb6e949bbe7b3f.jpg",
+                    "big": "http://p0.qhmsg.com/t01bf0623b58814afd7.jpg",
+                    "mid": "http://p0.qhmsg.com/t017c92f23293203bf9.jpg",
+                    "min": "http://p0.qhmsg.com/t014e4b6ce8f90b1a40.jpg"
+                },
+                "price": 1199,
+                "brand_id": "28",
+                "model_id": "285",
+                "view_volume": "405",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "75,93,165,168",
+                "product_type": "10",
+                "imei": "865*****571",
+                "chengse": "1604",
+                "com_price": "2299",
+                "discount": 5.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "26219",
+                "product_name": "美图秀秀【M4】白色 32 G 国行 移动联通 4G/3G/2G 9成新 原包装配件齐&nbsp;&nbsp;真机实拍",
+                "model_attr_name": "美图秀秀【M4】白色 32 G 国行 移动联通 4G/3G/2G 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01b67ecdc63eb0bb02.jpg",
+                    "big": "http://p0.qhmsg.com/t0161ba3cc87910baa9.jpg",
+                    "mid": "http://p0.qhmsg.com/t01915f70c095ef3133.jpg",
+                    "min": "http://p0.qhmsg.com/t014c595c73779a5a5e.jpg"
+                },
+                "price": 1180,
+                "brand_id": "28",
+                "model_id": "285",
+                "view_volume": "644",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,75,165,168",
+                "product_type": "10",
+                "imei": "865*****124",
+                "chengse": "1604",
+                "com_price": "2299",
+                "discount": 5.1,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25355",
+                "product_name": "美图秀秀 【M4】 移动联通 4G/3G/2G 绿色 32 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "美图秀秀 【M4】 移动联通 4G/3G/2G 绿色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t014061e8c4c27379b7.jpg",
+                    "big": "http://p0.qhmsg.com/t012acc24be379071c3.jpg",
+                    "mid": "http://p0.qhmsg.com/t0124a4595b5a4ab773.jpg",
+                    "min": "http://p0.qhmsg.com/t01b89610ef5b997da0.jpg"
+                },
+                "price": 1150,
+                "brand_id": "28",
+                "model_id": "285",
+                "view_volume": "740",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "34,75,165,168",
+                "product_type": "10",
+                "imei": "865*****435",
+                "chengse": "1604",
+                "com_price": "2299",
+                "discount": 5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25938",
+                "product_name": "美图秀秀 【M4】 移动联通 4G/3G/2G 红色 32 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "美图秀秀 【M4】 移动联通 4G/3G/2G 红色 32 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0145bb6e949bbe7b3f.jpg",
+                    "big": "http://p0.qhmsg.com/t01bf0623b58814afd7.jpg",
+                    "mid": "http://p0.qhmsg.com/t017c92f23293203bf9.jpg",
+                    "min": "http://p0.qhmsg.com/t014e4b6ce8f90b1a40.jpg"
+                },
+                "price": 1050,
+                "brand_id": "28",
+                "model_id": "285",
+                "view_volume": "684",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "75,93,165,168",
+                "product_type": "10",
+                "imei": "865*****111",
+                "chengse": "1605",
+                "com_price": "2299",
+                "discount": 4.6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25340",
+                "product_name": "美图秀秀 【M4】 移动联通 4G/3G/2G 红色 32 G 国行 95成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "美图秀秀 【M4】 移动联通 4G/3G/2G 红色 32 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0145bb6e949bbe7b3f.jpg",
+                    "big": "http://p0.qhmsg.com/t01bf0623b58814afd7.jpg",
+                    "mid": "http://p0.qhmsg.com/t017c92f23293203bf9.jpg",
+                    "min": "http://p0.qhmsg.com/t014e4b6ce8f90b1a40.jpg"
+                },
+                "price": 1188,
+                "brand_id": "28",
+                "model_id": "285",
+                "view_volume": "652",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "75,93,165,168",
+                "product_type": "10",
+                "imei": "865*****629",
+                "chengse": "1603",
+                "com_price": "2299",
+                "discount": 5.2,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "28",
+                "name": "美图秀秀",
+                "sums": "6"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    },
+                    {
+                        "attr_val_id": "34",
+                        "attr_val_name": "绿色"
+                    },
+                    {
+                        "attr_val_id": "93",
+                        "attr_val_name": "红色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "285",
+                "model_name": "M4"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1000,
+                "name": "1000-1500元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1603,
+                "name": "95成新"
+            },
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

@@ -1,0 +1,386 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "10",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "27171",
+                "product_name": "努比亚 【nubia Z9 mini】 移动 4G/3G/2G 白色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "努比亚 【nubia Z9 mini】 移动 4G/3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0183766a3c00b9b8f9.jpg",
+                    "big": "http://p0.qhmsg.com/t01d9893aa62c6b8ea2.jpg",
+                    "mid": "http://p0.qhmsg.com/t01606362a515c36334.jpg",
+                    "min": "http://p0.qhmsg.com/t017b9ac78948b6d84a.jpg"
+                },
+                "price": 599,
+                "brand_id": "13",
+                "model_id": "165",
+                "view_volume": "455",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "867*****070",
+                "chengse": "1604",
+                "com_price": "1672",
+                "discount": 3.6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26972",
+                "product_name": "努比亚 【nubia Z9 MAX】 移动联通 4G/3G/2G 黑色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "努比亚 【nubia Z9 MAX】 移动联通 4G/3G/2G 黑色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t012cf510b1fb42d46f.jpg",
+                    "big": "http://p0.qhmsg.com/t01ff0df676bf5f1b9d.jpg",
+                    "mid": "http://p0.qhmsg.com/t0145c6266a827ce7e3.jpg",
+                    "min": "http://p0.qhmsg.com/t017f7fe9f5994db881.jpg"
+                },
+                "price": 899,
+                "brand_id": "13",
+                "model_id": "167",
+                "view_volume": "590",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,74,165,168",
+                "product_type": "10",
+                "imei": "866*****950",
+                "chengse": "1604",
+                "com_price": "1999",
+                "discount": 4.5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26692",
+                "product_name": "努比亚【Z11 mini】黑色 64 G 全网通 国行 95成新 ",
+                "model_attr_name": "努比亚【Z11 mini】黑色 64 G 全网通 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e1fc15ad5f066f3c.png",
+                    "big": "http://p0.qhmsg.com/t01b225c06294d27b23.png",
+                    "mid": "http://p0.qhmsg.com/t01c209dd0539393d98.png",
+                    "min": "http://p0.qhmsg.com/t017ed7c45ecf7fa9bd.png"
+                },
+                "price": 1199,
+                "brand_id": "13",
+                "model_id": "690",
+                "view_volume": "826",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,76,141,165",
+                "product_type": "10",
+                "imei": "869*****731",
+                "chengse": "1603",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "22571",
+                "product_name": "努比亚 【nubia My 布拉格】  移动联通 4G/3G/2G 金色 32 G 国行9成新&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "努比亚 【nubia My 布拉格】  移动联通 4G/3G/2G 金色 32 G 国行",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01f14462fffce7585f.png",
+                    "big": "http://p0.qhmsg.com/t0149e49a597386b252.png",
+                    "mid": "http://p0.qhmsg.com/t018cc373b61b37a1fd.png",
+                    "min": "http://p0.qhmsg.com/t019ac78b93cc3f869e.png"
+                },
+                "price": 899,
+                "brand_id": "13",
+                "model_id": "284",
+                "view_volume": "1224",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,75,165,168",
+                "product_type": "10",
+                "imei": "868*****513",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25539",
+                "product_name": "努比亚 【nubia My 布拉格】 移动联通 4G/3G/2G 金色 32 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "努比亚 【nubia My 布拉格】 移动联通 4G/3G/2G 金色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01f14462fffce7585f.png",
+                    "big": "http://p0.qhmsg.com/t0149e49a597386b252.png",
+                    "mid": "http://p0.qhmsg.com/t018cc373b61b37a1fd.png",
+                    "min": "http://p0.qhmsg.com/t019ac78b93cc3f869e.png"
+                },
+                "price": 899,
+                "brand_id": "13",
+                "model_id": "284",
+                "view_volume": "702",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,75,165,168",
+                "product_type": "10",
+                "imei": "868*****774",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25031",
+                "product_name": "努比亚 【nubia Z7 Mini】 移动联通 4G/3G/2G 黑色 16 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "努比亚 【nubia Z7 Mini】 移动联通 4G/3G/2G 黑色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016a158d437a695075.png",
+                    "big": "http://p0.qhmsg.com/t01c08ed11d41782145.png",
+                    "mid": "http://p0.qhmsg.com/t017b0a4376352c0d26.png",
+                    "min": "http://p0.qhmsg.com/t0134a31f259129601b.png"
+                },
+                "price": 499,
+                "brand_id": "13",
+                "model_id": "80",
+                "view_volume": "880",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,74,165,168",
+                "product_type": "10",
+                "imei": "863*****395",
+                "chengse": "1605",
+                "com_price": "1499",
+                "discount": 3.3,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25025",
+                "product_name": "努比亚 【nubia Z7 Mini】 移动联通 4G/3G/2G 白色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "努比亚 【nubia Z7 Mini】 移动联通 4G/3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t014ebebcd196857419.png",
+                    "big": "http://p0.qhmsg.com/t018d06479f108162f8.png",
+                    "mid": "http://p0.qhmsg.com/t01f9c97332dfa9f4d1.png",
+                    "min": "http://p0.qhmsg.com/t01e8f1e0c2273f98c0.png"
+                },
+                "price": 699,
+                "brand_id": "13",
+                "model_id": "80",
+                "view_volume": "682",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,165,168",
+                "product_type": "10",
+                "imei": "863*****550",
+                "chengse": "1604",
+                "com_price": "1499",
+                "discount": 4.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "22583",
+                "product_name": "努比亚 【nubia Z9 mini】  全网通 白色 16 G 国行95成新&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "努比亚 【nubia Z9 mini】  全网通 白色 16 G 国行",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0183766a3c00b9b8f9.jpg",
+                    "big": "http://p0.qhmsg.com/t01d9893aa62c6b8ea2.jpg",
+                    "mid": "http://p0.qhmsg.com/t01606362a515c36334.jpg",
+                    "min": "http://p0.qhmsg.com/t017b9ac78948b6d84a.jpg"
+                },
+                "price": 750,
+                "brand_id": "13",
+                "model_id": "165",
+                "view_volume": "1488",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,141,165",
+                "product_type": "10",
+                "imei": "866*****810",
+                "chengse": "1603",
+                "com_price": "1672",
+                "discount": 4.5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "22036",
+                "product_name": "努比亚 【nubia My 布拉格】  全网通 金色 32 G 国行85成新&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "努比亚 【nubia My 布拉格】  全网通 金色 32 G 国行",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01f14462fffce7585f.png",
+                    "big": "http://p0.qhmsg.com/t0149e49a597386b252.png",
+                    "mid": "http://p0.qhmsg.com/t018cc373b61b37a1fd.png",
+                    "min": "http://p0.qhmsg.com/t019ac78b93cc3f869e.png"
+                },
+                "price": 799,
+                "brand_id": "13",
+                "model_id": "284",
+                "view_volume": "2195",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,75,141,165",
+                "product_type": "10",
+                "imei": "868*****637",
+                "chengse": "1609",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "24161",
+                "product_name": "努比亚 【nubia Z7 Mini】 移动联通 4G/3G/2G 黑色 16 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "努比亚 【nubia Z7 Mini】 移动联通 4G/3G/2G 黑色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016a158d437a695075.png",
+                    "big": "http://p0.qhmsg.com/t01c08ed11d41782145.png",
+                    "mid": "http://p0.qhmsg.com/t017b0a4376352c0d26.png",
+                    "min": "http://p0.qhmsg.com/t0134a31f259129601b.png"
+                },
+                "price": 499,
+                "brand_id": "13",
+                "model_id": "80",
+                "view_volume": "1208",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,74,165,168",
+                "product_type": "10",
+                "imei": "863*****395",
+                "chengse": "1605",
+                "com_price": "1499",
+                "discount": 3.3,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "13",
+                "name": "努比亚",
+                "sums": "10"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    },
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    },
+                    {
+                        "attr_val_id": "76",
+                        "attr_val_name": "64 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "11",
+                        "attr_val_name": "移动 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    },
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    },
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    },
+                    {
+                        "attr_val_id": "30",
+                        "attr_val_name": "金色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "690",
+                "model_name": "Z11 mini"
+            },
+            {
+                "model_id": "167",
+                "model_name": "nubia Z9 MAX"
+            },
+            {
+                "model_id": "165",
+                "model_name": "nubia Z9 mini"
+            },
+            {
+                "model_id": "284",
+                "model_name": "nubia My 布拉格"
+            },
+            {
+                "model_id": "80",
+                "model_name": "nubia Z7 Mini"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            },
+            {
+                "key": 500,
+                "name": "500-1000元"
+            },
+            {
+                "key": 1000,
+                "name": "1000-1500元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1603,
+                "name": "95成新"
+            },
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1609,
+                "name": "85成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

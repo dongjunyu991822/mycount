@@ -1,0 +1,163 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "3",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "27253",
+                "product_name": "微软 【640XL】 移动联通 4G/3G/2G 黑色 8 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "微软 【640XL】 移动联通 4G/3G/2G 黑色 8 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0171c71ef12740fc11.png",
+                    "big": "http://p0.qhmsg.com/t01c5035ae4ac3c629c.png",
+                    "mid": "http://p0.qhmsg.com/t01caa9e04db619f66b.png",
+                    "min": "http://p0.qhmsg.com/t01f2b3a685878b8655.png"
+                },
+                "price": 499,
+                "brand_id": "48",
+                "model_id": "709",
+                "view_volume": "541",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,73,165,168",
+                "product_type": "10",
+                "imei": "357*****844",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "26238",
+                "product_name": "微软【Lumia 640】黑色 8 G 国行 移动联通 4G/3G/2G 85成新 真机实拍",
+                "model_attr_name": "微软【Lumia 640】黑色 8 G 国行 移动联通 4G/3G/2G 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0171c71ef12740fc11.png",
+                    "big": "http://p0.qhmsg.com/t01d6022c8327c84621.png",
+                    "mid": "http://p0.qhmsg.com/t0141acad75f2925c60.png",
+                    "min": "http://p0.qhmsg.com/t014d7d3540f06db4e7.png"
+                },
+                "price": 380,
+                "brand_id": "48",
+                "model_id": "458",
+                "view_volume": "730",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,73,165,168",
+                "product_type": "10",
+                "imei": "357*****084",
+                "chengse": "1609",
+                "com_price": "749",
+                "discount": 5.1,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "24724",
+                "product_name": "微软 【Lumia 640】 移动联通 4G/3G/2G 黑色 8 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "微软 【Lumia 640】 移动联通 4G/3G/2G 黑色 8 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0171c71ef12740fc11.png",
+                    "big": "http://p0.qhmsg.com/t01d6022c8327c84621.png",
+                    "mid": "http://p0.qhmsg.com/t0141acad75f2925c60.png",
+                    "min": "http://p0.qhmsg.com/t014d7d3540f06db4e7.png"
+                },
+                "price": 399,
+                "brand_id": "48",
+                "model_id": "458",
+                "view_volume": "1056",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,73,165,168",
+                "product_type": "10",
+                "imei": "357*****648",
+                "chengse": "1604",
+                "com_price": "749",
+                "discount": 5.3,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "48",
+                "name": "微软",
+                "sums": "3"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "73",
+                        "attr_val_name": "8 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "458",
+                "model_name": "Lumia 640"
+            },
+            {
+                "model_id": "709",
+                "model_name": "640XL"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1609,
+                "name": "85成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

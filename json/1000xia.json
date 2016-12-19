@@ -1,0 +1,733 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "415",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "27277",
+                "product_name": "vivo 【Y31】 全网通 黑色 16 G 国行 9成新 大内存&nbsp;保修半年",
+                "model_attr_name": "vivo 【Y31】 全网通 黑色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e2e31a40eccbe7f8.png",
+                    "big": "http://p0.qhmsg.com/t0126de52b3a12770f4.png",
+                    "mid": "http://p0.qhmsg.com/t019e2b23b4589569dd.png",
+                    "min": "http://p0.qhmsg.com/t01de38d9dce75d3d4c.png"
+                },
+                "price": 650,
+                "brand_id": "21",
+                "model_id": "712",
+                "view_volume": "572",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,74,141,165",
+                "product_type": "10",
+                "imei": "862*****015",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27260",
+                "product_name": "360手机 【奇酷旗舰版】 全网通 银色 32 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "360手机 【奇酷旗舰版】 全网通 银色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01edfa4b3ab3784cad.jpg",
+                    "big": "http://p0.qhmsg.com/t0144f901d71da5eea1.jpg",
+                    "mid": "http://p0.qhmsg.com/t012259001c5d7a7684.jpg",
+                    "min": "http://p0.qhmsg.com/t01f65c098f09da1f21.jpg"
+                },
+                "price": 850,
+                "brand_id": "27",
+                "model_id": "227",
+                "view_volume": "455",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "75,86,141,165",
+                "product_type": "10",
+                "imei": "867*****906",
+                "chengse": "1604",
+                "com_price": "2499",
+                "discount": 3.4,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27256",
+                "product_name": "小米 【红米 note3】 移动联通 4G/3G/2G 银色 32 G 国行 85成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "小米 【红米 note3】 移动联通 4G/3G/2G 银色 32 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01186ad22c6cffe5cc.png",
+                    "big": "http://p0.qhmsg.com/t01d3f7afccc39c69c3.png",
+                    "mid": "http://p0.qhmsg.com/t01db589f80730dae8e.png",
+                    "min": "http://p0.qhmsg.com/t013c84d828bbd531c4.png"
+                },
+                "price": 680,
+                "brand_id": "3",
+                "model_id": "461",
+                "view_volume": "562",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "75,86,165,168",
+                "product_type": "10",
+                "imei": "860*****526",
+                "chengse": "1609",
+                "com_price": "1199",
+                "discount": 5.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27346",
+                "product_name": "华为 【荣耀7】 电信 4G/3G/2G 灰色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "华为 【荣耀7】 电信 4G/3G/2G 灰色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01fa7cd29d1ccd4593.png",
+                    "big": "http://p0.qhmsg.com/t0108b632bdb7cd4d6e.png",
+                    "mid": "http://p0.qhmsg.com/t010806f95bd86c8a2c.png",
+                    "min": "http://p0.qhmsg.com/t01d7d8680dec13f1a3.png"
+                },
+                "price": 799,
+                "brand_id": "4",
+                "model_id": "187",
+                "view_volume": "525",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,74,83,165",
+                "product_type": "10",
+                "imei": "866*****050",
+                "chengse": "1604",
+                "com_price": "1999",
+                "discount": 4,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27371",
+                "product_name": "华为 【P8】 电信 4G/3G/2G 银色 16 G 国行 8成新 3G运行内存&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "华为 【P8】 电信 4G/3G/2G 银色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0117071df7a24bad02.png",
+                    "big": "http://p0.qhmsg.com/t017410aff052efd1cc.png",
+                    "mid": "http://p0.qhmsg.com/t01dc9e3b1797f87188.png",
+                    "min": "http://p0.qhmsg.com/t01df68331b2a4741f8.png"
+                },
+                "price": 899,
+                "brand_id": "4",
+                "model_id": "170",
+                "view_volume": "427",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,74,86,165",
+                "product_type": "10",
+                "imei": "866*****851",
+                "chengse": "1605",
+                "com_price": "3999",
+                "discount": 2.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27348",
+                "product_name": "vivo 【Y51】 白色 移动 4G/3G/2G 国行 16 G 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "vivo 【Y51】 白色 移动 4G/3G/2G 国行 16 G 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016541c055b573ece2.jpg",
+                    "big": "http://p0.qhmsg.com/t01f1e9fb12ea45a3be.jpg",
+                    "mid": "http://p0.qhmsg.com/t0146a5a29b5699f7fd.jpg",
+                    "min": "http://p0.qhmsg.com/t018944f575c6172d8a.jpg"
+                },
+                "price": 580,
+                "brand_id": "21",
+                "model_id": "529",
+                "view_volume": "528",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "860*****763",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27353",
+                "product_name": "vivo 【Y51】 白色 全网通 国行 16 G 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "vivo 【Y51】 白色 全网通 国行 16 G 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016541c055b573ece2.jpg",
+                    "big": "http://p0.qhmsg.com/t01f1e9fb12ea45a3be.jpg",
+                    "mid": "http://p0.qhmsg.com/t0146a5a29b5699f7fd.jpg",
+                    "min": "http://p0.qhmsg.com/t018944f575c6172d8a.jpg"
+                },
+                "price": 550,
+                "brand_id": "21",
+                "model_id": "529",
+                "view_volume": "361",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,141,165",
+                "product_type": "10",
+                "imei": "860*****791",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "27342",
+                "product_name": "oppo【N1】联通 3G/2G 白色 16 G 国行 9成新 真机实拍",
+                "model_attr_name": "oppo【N1】联通 3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0181cf02bf72ef05a7.png",
+                    "big": "http://p0.qhmsg.com/t014b557d09b4777e41.png",
+                    "mid": "http://p0.qhmsg.com/t01d923e17cd256816a.png",
+                    "min": "http://p0.qhmsg.com/t01d60d108e15f8815f.png"
+                },
+                "price": 550,
+                "brand_id": "22",
+                "model_id": "243",
+                "view_volume": "496",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "9,28,74,165",
+                "product_type": "10",
+                "imei": "863*****666",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27331",
+                "product_name": "三星 【J5】 移动 4G/3G/2G 金色 16 G 国行 95成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "三星 【J5】 移动 4G/3G/2G 金色 16 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c282ffb99125e791.jpg",
+                    "big": "http://p0.qhmsg.com/t011c955c1586845428.jpg",
+                    "mid": "http://p0.qhmsg.com/t014e88fe0d51144783.jpg",
+                    "min": "http://p0.qhmsg.com/t019a8661504f43737b.jpg"
+                },
+                "price": 799,
+                "brand_id": "1",
+                "model_id": "175",
+                "view_volume": "377",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,30,74,165",
+                "product_type": "10",
+                "imei": "357*****847",
+                "chengse": "1603",
+                "com_price": "1398",
+                "discount": 5.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "26216",
+                "product_name": "vivo 【Xshot】 移动 4G/3G/2G 黑色 16 G 国行 9成新 真机实拍",
+                "model_attr_name": "vivo 【Xshot】 移动 4G/3G/2G 黑色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0197b2b7357cab3f34.png",
+                    "big": "http://p0.qhmsg.com/t01a003133d347e3406.png",
+                    "mid": "http://p0.qhmsg.com/t0164e554bda14e62c8.png",
+                    "min": "http://p0.qhmsg.com/t0199cbdb33ee507619.png"
+                },
+                "price": 699,
+                "brand_id": "21",
+                "model_id": "254",
+                "view_volume": "537",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,29,74,165",
+                "product_type": "10",
+                "imei": "864*****911",
+                "chengse": "1604",
+                "com_price": "2498",
+                "discount": 2.8,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27181",
+                "product_name": "华为 【华为荣耀畅玩5X】 银色 移动 4G/3G/2G 16 G 国行 9成新 2G运行内存",
+                "model_attr_name": "华为 【华为荣耀畅玩5X】 银色 移动 4G/3G/2G 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01147d53c344d8b2e3.jpg",
+                    "big": "http://p0.qhmsg.com/t0180c1e7b27c3e4a2f.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f340bcba6f3a0a39.jpg",
+                    "min": "http://p0.qhmsg.com/t01453121fc0a2649c3.jpg"
+                },
+                "price": 699,
+                "brand_id": "4",
+                "model_id": "475",
+                "view_volume": "463",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,74,86,165",
+                "product_type": "10",
+                "imei": "867*****254",
+                "chengse": "1604",
+                "com_price": "1399",
+                "discount": 5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27246",
+                "product_name": "华为 【华为荣耀畅玩5X】 银色 电信 4G/3G/2G 16 G 国行 9成新 运行内存2GB",
+                "model_attr_name": "华为 【华为荣耀畅玩5X】 银色 电信 4G/3G/2G 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01147d53c344d8b2e3.jpg",
+                    "big": "http://p0.qhmsg.com/t0180c1e7b27c3e4a2f.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f340bcba6f3a0a39.jpg",
+                    "min": "http://p0.qhmsg.com/t01453121fc0a2649c3.jpg"
+                },
+                "price": 680,
+                "brand_id": "4",
+                "model_id": "475",
+                "view_volume": "399",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,74,86,165",
+                "product_type": "10",
+                "imei": "867*****526",
+                "chengse": "1604",
+                "com_price": "1399",
+                "discount": 4.9,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27234",
+                "product_name": "华为 【华为荣耀畅玩5X】 银色 移动 4G/3G/2G 16 G 国行 9成新 运行内存2GB",
+                "model_attr_name": "华为 【华为荣耀畅玩5X】 银色 移动 4G/3G/2G 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01147d53c344d8b2e3.jpg",
+                    "big": "http://p0.qhmsg.com/t0180c1e7b27c3e4a2f.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f340bcba6f3a0a39.jpg",
+                    "min": "http://p0.qhmsg.com/t01453121fc0a2649c3.jpg"
+                },
+                "price": 680,
+                "brand_id": "4",
+                "model_id": "475",
+                "view_volume": "451",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,74,86,165",
+                "product_type": "10",
+                "imei": "867*****511",
+                "chengse": "1604",
+                "com_price": "1399",
+                "discount": 4.9,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27239",
+                "product_name": "索尼 【Z2 L50】 移动 4G/3G/2G 黑色 16 G 国行 85成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "索尼 【Z2 L50】 移动 4G/3G/2G 黑色 16 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0183a729a214307a88.jpg",
+                    "big": "http://p0.qhmsg.com/t0197f7a05c022b6b0b.jpg",
+                    "mid": "http://p0.qhmsg.com/t010d9371c4eff61def.jpg",
+                    "min": "http://p0.qhmsg.com/t0183e2ab7d61121d85.jpg"
+                },
+                "price": 999,
+                "brand_id": "8",
+                "model_id": "183",
+                "view_volume": "548",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,29,74,165",
+                "product_type": "10",
+                "imei": "352*****497",
+                "chengse": "1609",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27231",
+                "product_name": "华为 【华为荣耀畅玩5X】 银色 移动 4G/3G/2G 16 G 国行 85成新 运行内存2GB",
+                "model_attr_name": "华为 【华为荣耀畅玩5X】 银色 移动 4G/3G/2G 16 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01147d53c344d8b2e3.jpg",
+                    "big": "http://p0.qhmsg.com/t0180c1e7b27c3e4a2f.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f340bcba6f3a0a39.jpg",
+                    "min": "http://p0.qhmsg.com/t01453121fc0a2649c3.jpg"
+                },
+                "price": 699,
+                "brand_id": "4",
+                "model_id": "475",
+                "view_volume": "428",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,74,86,165",
+                "product_type": "10",
+                "imei": "867*****442",
+                "chengse": "1609",
+                "com_price": "1399",
+                "discount": 5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27174",
+                "product_name": "小米 【4】 电信 3G/2G 白色 16 G 国行 9成新 3G运行内存",
+                "model_attr_name": "小米 【4】 电信 3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e7f74c542cb80d6b.png",
+                    "big": "http://p0.qhmsg.com/t012463df8be08a1f8b.png",
+                    "mid": "http://p0.qhmsg.com/t0143dba980888a788d.png",
+                    "min": "http://p0.qhmsg.com/t0106ccbb3e53d05242.png"
+                },
+                "price": 550,
+                "brand_id": "3",
+                "model_id": "21",
+                "view_volume": "441",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "10,28,74,165",
+                "product_type": "10",
+                "imei": "865*****294",
+                "chengse": "1604",
+                "com_price": "1999",
+                "discount": 2.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "27235",
+                "product_name": "华为【麦芒4】金色 32 G 全网通 国行 9成新 真机实拍",
+                "model_attr_name": "华为【麦芒4】金色 32 G 全网通 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0176494eaacfe7e047.png",
+                    "big": "http://p0.qhmsg.com/t013a0663c87217632c.png",
+                    "mid": "http://p0.qhmsg.com/t01ba94fada51182c4c.png",
+                    "min": "http://p0.qhmsg.com/t01b15b98ff5fe54730.png"
+                },
+                "price": 998,
+                "brand_id": "4",
+                "model_id": "234",
+                "view_volume": "358",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,75,141,165",
+                "product_type": "10",
+                "imei": "866*****664",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27171",
+                "product_name": "努比亚 【nubia Z9 mini】 移动 4G/3G/2G 白色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "努比亚 【nubia Z9 mini】 移动 4G/3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0183766a3c00b9b8f9.jpg",
+                    "big": "http://p0.qhmsg.com/t01d9893aa62c6b8ea2.jpg",
+                    "mid": "http://p0.qhmsg.com/t01606362a515c36334.jpg",
+                    "min": "http://p0.qhmsg.com/t017b9ac78948b6d84a.jpg"
+                },
+                "price": 599,
+                "brand_id": "13",
+                "model_id": "165",
+                "view_volume": "479",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "867*****070",
+                "chengse": "1604",
+                "com_price": "1672",
+                "discount": 3.6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27164",
+                "product_name": "华为 【Mate 7】 联通 4G/3G/2G 银色 16 G 国行 85成新 2G运行内存",
+                "model_attr_name": "华为 【Mate 7】 联通 4G/3G/2G 银色 16 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01856f40f8b1b056a0.jpg",
+                    "big": "http://p0.qhmsg.com/t01d9b6b1872cbebff5.jpg",
+                    "mid": "http://p0.qhmsg.com/t01ad01e3cf70f98b70.jpg",
+                    "min": "http://p0.qhmsg.com/t01db10b747be50e050.jpg"
+                },
+                "price": 850,
+                "brand_id": "4",
+                "model_id": "159",
+                "view_volume": "512",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "74,86,97,165",
+                "product_type": "10",
+                "imei": "865*****734",
+                "chengse": "1609",
+                "com_price": "2100",
+                "discount": 4,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27158",
+                "product_name": "小米 【红米3S】 金色 移动 4G/3G/2G 32 G 国行 8成新 运行内存3GB",
+                "model_attr_name": "小米 【红米3S】 金色 移动 4G/3G/2G 32 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01b2fad3e332a43f25.jpg",
+                    "big": "http://p0.qhmsg.com/t01c33c7ddee96c6239.jpg",
+                    "mid": "http://p0.qhmsg.com/t01c34aaf6835e13b6a.jpg",
+                    "min": "http://p0.qhmsg.com/t016d39fad87f107553.jpg"
+                },
+                "price": 599,
+                "brand_id": "3",
+                "model_id": "573",
+                "view_volume": "378",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,30,75,165",
+                "product_type": "10",
+                "imei": "862*****061",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "2",
+                "name": "苹果",
+                "sums": "3"
+            },
+            {
+                "key": "1",
+                "name": "三星",
+                "sums": "101"
+            },
+            {
+                "key": "4",
+                "name": "华为",
+                "sums": "126"
+            },
+            {
+                "key": "3",
+                "name": "小米",
+                "sums": "47"
+            },
+            {
+                "key": "22",
+                "name": "oppo",
+                "sums": "27"
+            },
+            {
+                "key": "21",
+                "name": "vivo",
+                "sums": "55"
+            },
+            {
+                "key": "9",
+                "name": "魅族",
+                "sums": "20"
+            },
+            {
+                "key": "24",
+                "name": "乐视",
+                "sums": "8"
+            },
+            {
+                "key": "6",
+                "name": "诺基亚",
+                "sums": "2"
+            },
+            {
+                "key": "8",
+                "name": "索尼",
+                "sums": "3"
+            },
+            {
+                "key": "27",
+                "name": "360手机",
+                "sums": "8"
+            },
+            {
+                "key": "13",
+                "name": "努比亚",
+                "sums": "7"
+            },
+            {
+                "key": "11",
+                "name": "联想",
+                "sums": "1"
+            },
+            {
+                "key": "5",
+                "name": "HTC",
+                "sums": "6"
+            },
+            {
+                "key": "15",
+                "name": "朵唯",
+                "sums": "1"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "73",
+                        "attr_val_name": "8 G"
+                    },
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    },
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    },
+                    {
+                        "attr_val_id": "76",
+                        "attr_val_name": "64 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "8",
+                        "attr_val_name": "移动 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "9",
+                        "attr_val_name": "联通 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "10",
+                        "attr_val_name": "电信 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "11",
+                        "attr_val_name": "移动 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "12",
+                        "attr_val_name": "电信 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "97",
+                        "attr_val_name": "联通 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    },
+                    {
+                        "attr_val_id": "157",
+                        "attr_val_name": "联通 3G/2G 移动2G"
+                    },
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    },
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    },
+                    {
+                        "attr_val_id": "30",
+                        "attr_val_name": "金色"
+                    },
+                    {
+                        "attr_val_id": "31",
+                        "attr_val_name": "粉色"
+                    },
+                    {
+                        "attr_val_id": "32",
+                        "attr_val_name": "蓝色"
+                    },
+                    {
+                        "attr_val_id": "83",
+                        "attr_val_name": "灰色"
+                    },
+                    {
+                        "attr_val_id": "86",
+                        "attr_val_name": "银色"
+                    },
+                    {
+                        "attr_val_id": "104",
+                        "attr_val_name": "紫色"
+                    },
+                    {
+                        "attr_val_id": "105",
+                        "attr_val_name": "橙色"
+                    },
+                    {
+                        "attr_val_id": "193",
+                        "attr_val_name": "玫瑰金"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [],
+        "price_list": [
+            {
+                "key": 500,
+                "name": "500-1000元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1603,
+                "name": "95成新"
+            },
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1609,
+                "name": "85成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

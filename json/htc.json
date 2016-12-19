@@ -1,0 +1,455 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "12",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "26655",
+                "product_name": "HTC 【one e9】 移动 4G/3G/2G 黑色 16 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "HTC 【one e9】 移动 4G/3G/2G 黑色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01f73b33e61a292cb7.png",
+                    "big": "http://p0.qhmsg.com/t0103f6041011c5e044.png",
+                    "mid": "http://p0.qhmsg.com/t0122e67b9890902ceb.png",
+                    "min": "http://p0.qhmsg.com/t015ec2e38993219560.png"
+                },
+                "price": 1099,
+                "brand_id": "5",
+                "model_id": "647",
+                "view_volume": "783",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,29,74,165",
+                "product_type": "10",
+                "imei": "358*****600",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25751",
+                "product_name": "HTC 【one m8 eye】 移动 4G/3G/2G 16 G 国行 灰色 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "HTC 【one m8 eye】 移动 4G/3G/2G 16 G 国行 灰色 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01de968a5cdd0a69f4.jpg",
+                    "big": "http://p0.qhmsg.com/t01cd9c77873c9c4969.jpg",
+                    "mid": "http://p0.qhmsg.com/t01245c9b8d76101259.jpg",
+                    "min": "http://p0.qhmsg.com/t0128c5b69ccf3d8b97.jpg"
+                },
+                "price": 799,
+                "brand_id": "5",
+                "model_id": "314",
+                "view_volume": "696",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,74,83,165",
+                "product_type": "10",
+                "imei": "355*****371",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25463",
+                "product_name": "HTC【one m8 eye】移动 4G/3G/2G 16 G 银色 国行 8成新 ",
+                "model_attr_name": "HTC【one m8 eye】移动 4G/3G/2G 16 G 银色 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01ffec12b79ee19a22.jpg",
+                    "big": "http://p0.qhmsg.com/t01b61a7c4042ee9f85.jpg",
+                    "mid": "http://p0.qhmsg.com/t01c463d651989b1ced.jpg",
+                    "min": "http://p0.qhmsg.com/t01fb7886af6396cf33.jpg"
+                },
+                "price": 799,
+                "brand_id": "5",
+                "model_id": "314",
+                "view_volume": "755",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,74,86,165",
+                "product_type": "10",
+                "imei": "355*****133",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "23013",
+                "product_name": "HTC 【D728W】  移动联通 4G/3G/2G 白色 16 G 国行8成新&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "HTC 【D728W】  移动联通 4G/3G/2G 白色 16 G 国行",
+                "thum_img": "http://p0.qhimg.com/t01571d6104c04c7beb.jpg",
+                "price": 599,
+                "brand_id": "5",
+                "model_id": "689",
+                "view_volume": "1095",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,165,168",
+                "product_type": "10",
+                "imei": "351*****377",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "23001",
+                "product_name": "HTC 【D816】  联通 3G/2G 白色 8 G 国行85成新&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "HTC 【D816】  联通 3G/2G 白色 8 G 国行",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0192b58349d92b9a88.jpg",
+                    "big": "http://p0.qhmsg.com/t01a3f193cc19b2c3b8.jpg",
+                    "mid": "http://p0.qhmsg.com/t0128824d54e044b59b.jpg",
+                    "min": "http://p0.qhmsg.com/t01a514760fa6bf49ee.jpg"
+                },
+                "price": 380,
+                "brand_id": "5",
+                "model_id": "153",
+                "view_volume": "842",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "9,28,73,165",
+                "product_type": "10",
+                "imei": "352*****981",
+                "chengse": "1604",
+                "com_price": "1169",
+                "discount": 3.3,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "22971",
+                "product_name": "HTC 【D826】  电信 4G/3G/2G 白色 16 G 国行9成新&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "HTC 【D826】  电信 4G/3G/2G 白色 16 G 国行",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01d6227f0d0d0829e5.png",
+                    "big": "http://p0.qhmsg.com/t01c4694d7224dbfd36.png",
+                    "mid": "http://p0.qhmsg.com/t01b7c02583bd6fb532.png",
+                    "min": "http://p0.qhmsg.com/t01ec3a14d7a3113365.png"
+                },
+                "price": 550,
+                "brand_id": "5",
+                "model_id": "316",
+                "view_volume": "1326",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,74,165",
+                "product_type": "10",
+                "imei": "356*****672",
+                "chengse": "1604",
+                "com_price": "2299",
+                "discount": 2.4,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "20630",
+                "product_name": "HTC 【one e9】  移动联通 4G/3G/2G 黑色 16 G 国行9成新&nbsp;真机实拍",
+                "model_attr_name": "HTC 【one e9】  移动联通 4G/3G/2G 黑色 16 G 国行",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01f73b33e61a292cb7.png",
+                    "big": "http://p0.qhmsg.com/t0103f6041011c5e044.png",
+                    "mid": "http://p0.qhmsg.com/t0122e67b9890902ceb.png",
+                    "min": "http://p0.qhmsg.com/t015ec2e38993219560.png"
+                },
+                "price": 680,
+                "brand_id": "5",
+                "model_id": "647",
+                "view_volume": "3143",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,74,165,168",
+                "product_type": "10",
+                "imei": "358*****896",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "24792",
+                "product_name": "HTC 【D816 9新或以上】 联通 3G/2G 白色 8 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "HTC 【D816 9新或以上】 联通 3G/2G 白色 8 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c82fcfe631a17c78.png",
+                    "big": "http://p0.qhmsg.com/t01fdd94f1da0858470.png",
+                    "mid": "http://p0.qhmsg.com/t0186f2af314528e491.png",
+                    "min": "http://p0.qhmsg.com/t0139e059add1219654.png"
+                },
+                "price": 399,
+                "brand_id": "5",
+                "model_id": "401",
+                "view_volume": "737",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "9,28,73,165",
+                "product_type": "10",
+                "imei": "356*****794",
+                "chengse": "1604",
+                "com_price": "1199",
+                "discount": 3.3,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "24762",
+                "product_name": "HTC【one m8】16 G 灰色 联通 4G/3G/2G 国行 8成新 ",
+                "model_attr_name": "HTC【one m8】16 G 灰色 联通 4G/3G/2G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t012d886a0749b9822a.png",
+                    "big": "http://p0.qhmsg.com/t01eba0431b26a9acec.png",
+                    "mid": "http://p0.qhmsg.com/t01cb8ffae3b17e8ab9.png",
+                    "min": "http://p0.qhmsg.com/t017e89532febc5b148.png"
+                },
+                "price": 699,
+                "brand_id": "5",
+                "model_id": "220",
+                "view_volume": "1145",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "74,83,97,165",
+                "product_type": "10",
+                "imei": "351*****180",
+                "chengse": "1605",
+                "com_price": "2599",
+                "discount": 2.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "24569",
+                "product_name": "HTC 【D820mt】 移动 4G/3G/2G 灰色 8 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "HTC 【D820mt】 移动 4G/3G/2G 灰色 8 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t013538a2f8f0941cad.png",
+                    "big": "http://p0.qhmsg.com/t017166ee5a315acbea.png",
+                    "mid": "http://p0.qhmsg.com/t01e2ba98c6a9bf253f.png",
+                    "min": "http://p0.qhmsg.com/t01b2dc751b7d321b28.png"
+                },
+                "price": 399,
+                "brand_id": "5",
+                "model_id": "700",
+                "view_volume": "797",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,73,83,165",
+                "product_type": "10",
+                "imei": "352*****709",
+                "chengse": "1604",
+                "com_price": "699",
+                "discount": 5.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "23916",
+                "product_name": "HTC 【D816】 联通 3G/2G 移动2G 白色 8 G 国行 8成新 8成新&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "HTC 【D816】 联通 3G/2G 移动2G 白色 8 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0192b58349d92b9a88.jpg",
+                    "big": "http://p0.qhmsg.com/t01a3f193cc19b2c3b8.jpg",
+                    "mid": "http://p0.qhmsg.com/t0128824d54e044b59b.jpg",
+                    "min": "http://p0.qhmsg.com/t01a514760fa6bf49ee.jpg"
+                },
+                "price": 450,
+                "brand_id": "5",
+                "model_id": "153",
+                "view_volume": "574",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,73,157,165",
+                "product_type": "10",
+                "imei": "352*****458",
+                "chengse": "1605",
+                "com_price": "1169",
+                "discount": 3.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "23918",
+                "product_name": "HTC【D820mu】白色 8 G 国行 移动联通 4G/3G/2G 85成新 ",
+                "model_attr_name": "HTC【D820mu】白色 8 G 国行 移动联通 4G/3G/2G 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t010545d189dab92194.png",
+                    "big": "http://p0.qhmsg.com/t015e0c1e91d6dd0251.png",
+                    "mid": "http://p0.qhmsg.com/t011613da0148a2d9b9.png",
+                    "min": "http://p0.qhmsg.com/t014db3041e3c05fbdc.png"
+                },
+                "price": 399,
+                "brand_id": "5",
+                "model_id": "270",
+                "view_volume": "890",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,73,165,168",
+                "product_type": "10",
+                "imei": "354*****596",
+                "chengse": "1609",
+                "com_price": "1499",
+                "discount": 2.7,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "5",
+                "name": "HTC",
+                "sums": "12"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "73",
+                        "attr_val_name": "8 G"
+                    },
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "9",
+                        "attr_val_name": "联通 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "11",
+                        "attr_val_name": "移动 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "12",
+                        "attr_val_name": "电信 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "97",
+                        "attr_val_name": "联通 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "157",
+                        "attr_val_name": "联通 3G/2G 移动2G"
+                    },
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    },
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    },
+                    {
+                        "attr_val_id": "83",
+                        "attr_val_name": "灰色"
+                    },
+                    {
+                        "attr_val_id": "86",
+                        "attr_val_name": "银色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "153",
+                "model_name": "D816"
+            },
+            {
+                "model_id": "220",
+                "model_name": "one m8"
+            },
+            {
+                "model_id": "270",
+                "model_name": "D820mu"
+            },
+            {
+                "model_id": "314",
+                "model_name": "one m8 eye"
+            },
+            {
+                "model_id": "316",
+                "model_name": "D826"
+            },
+            {
+                "model_id": "401",
+                "model_name": "D816 9新或以上"
+            },
+            {
+                "model_id": "647",
+                "model_name": "one e9"
+            },
+            {
+                "model_id": "689",
+                "model_name": "D728W"
+            },
+            {
+                "model_id": "700",
+                "model_name": "D820mt"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            },
+            {
+                "key": 500,
+                "name": "500-1000元"
+            },
+            {
+                "key": 1000,
+                "name": "1000-1500元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1609,
+                "name": "85成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "2",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "26869",
+                "product_name": "苹果【iPhone 6s】64 G 银色 全网通 国行99新 99成新 99新 真机实拍 保修半年",
+                "model_attr_name": "苹果【iPhone 6s】64 G 银色 全网通 国行99新 99成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0147cf39951f21db81.jpg",
+                    "big": "http://p0.qhmsg.com/t018deb6d1cb6b189eb.jpg",
+                    "mid": "http://p0.qhmsg.com/t0166dc8c420e6b28a0.jpg",
+                    "min": "http://p0.qhmsg.com/t017b00c81cf0c75135.jpg"
+                },
+                "price": 3799,
+                "brand_id": "2",
+                "model_id": "261",
+                "view_volume": "2165",
+                "stock_nums": "2",
+                "juhe_type": "1",
+                "attr_val_ids": "76,86,141,333",
+                "product_type": "1",
+                "imei": "201*****007",
+                "chengse": "1602",
+                "com_price": "6088",
+                "discount": 6.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27203",
+                "product_name": "华为 【荣耀7i】 全网通 蓝色 32 G 国行 99成新 3G运行内存&nbsp;真机实拍",
+                "model_attr_name": "华为 【荣耀7i】 全网通 蓝色 32 G 国行 99成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01851d0e34eb0fee63.png",
+                    "big": "http://p0.qhmsg.com/t01fb32b33b608b3fa6.png",
+                    "mid": "http://p0.qhmsg.com/t01e3c305d15bbdfafd.png",
+                    "min": "http://p0.qhmsg.com/t01a966bc359412fd1f.png"
+                },
+                "price": 1050,
+                "brand_id": "4",
+                "model_id": "449",
+                "view_volume": "526",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "32,75,141,165",
+                "product_type": "10",
+                "imei": "860*****992",
+                "chengse": "1602",
+                "com_price": "1799",
+                "discount": 5.8,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "2",
+                "name": "苹果",
+                "sums": "1"
+            },
+            {
+                "key": "4",
+                "name": "华为",
+                "sums": "1"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    },
+                    {
+                        "attr_val_id": "76",
+                        "attr_val_name": "64 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "161",
+                        "attr_val_name": "美国"
+                    },
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    },
+                    {
+                        "attr_val_id": "332",
+                        "attr_val_name": "国行95新"
+                    },
+                    {
+                        "attr_val_id": "333",
+                        "attr_val_name": "国行99新"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    },
+                    {
+                        "attr_val_id": "210",
+                        "attr_val_name": "电信联通4G 移动2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "32",
+                        "attr_val_name": "蓝色"
+                    },
+                    {
+                        "attr_val_id": "83",
+                        "attr_val_name": "灰色"
+                    },
+                    {
+                        "attr_val_id": "86",
+                        "attr_val_name": "银色"
+                    },
+                    {
+                        "attr_val_id": "193",
+                        "attr_val_name": "玫瑰金"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [],
+        "price_list": [
+            {
+                "key": 1000,
+                "name": "1000-1500元"
+            },
+            {
+                "key": 3000,
+                "name": "3000元以上"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1602,
+                "name": "99成新"
+            }
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": [
+        {
+            "comment_id": "5783",
+            "comment_mobile": "181****306",
+            "comment_content": "很新，是正品，速度很快，手机一点都不卡。很值",
+            "comment_level": "5",
+            "comment_create_time": "2016-11-18",
+            "is_img": false,
+            "product_name": "三星 【Note 4 N9109W】 电信 4G/3G/2G 黑色 16 G 国行 9成新 真机实拍 保修半年 双卡双待",
+            "product_img": "http://p0.qhmsg.com/t01d68dfe8c35afb8da.png",
+            "show_buyer_mobile": "181****306",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t01d68dfe8c35afb8da.png"
+            }
+        },
+        {
+            "comment_id": "5778",
+            "comment_mobile": "132****698",
+            "comment_content": "手机收到后感觉比想象中的还要好，从同城帮买手机感觉太值了",
+            "comment_level": "5",
+            "comment_create_time": "2016-11-18",
+            "is_img": false,
+            "product_name": "vivo 【X5 Max+】  移动 4G/3G/2G 金色 16 G 国行9成新 真机实拍 保修半年",
+            "product_img": "http://p0.qhmsg.com/t0166c7e5dffc949e0d.png",
+            "show_buyer_mobile": "132****698",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t0166c7e5dffc949e0d.png"
+            }
+        },
+        {
+            "comment_id": "5398",
+            "comment_mobile": "185****365",
+            "comment_content": "真的很不错，跟新的一样，在这里买了三个手机了，希望优惠还能再多一些，以后还会在这里买，推荐",
+            "comment_level": "5",
+            "comment_create_time": "2016-10-27",
+            "is_img": true,
+            "product_name": "三星 【Note 3 联通版】 联通 3G/2G 黑色 16 G 国行 95成新 95成新 真机实拍 双卡双待 N9002",
+            "product_img": "http://p0.qhmsg.com/t0127e58e709f96219a.jpg",
+            "imgs": [
+                {
+                    "img_id": "t013a0266bc7dce2d5e.jpg",
+                    "mini_url": "http://p3.qhmsg.com/dr/120_120_100/t013a0266bc7dce2d5e.jpg",
+                    "big_url": "http://p3.qhmsg.com/t013a0266bc7dce2d5e.jpg"
+                },
+                {
+                    "img_id": "t011b4bf8ad61b7567a.jpg",
+                    "mini_url": "http://p3.qhmsg.com/dr/120_120_100/t011b4bf8ad61b7567a.jpg",
+                    "big_url": "http://p3.qhmsg.com/t011b4bf8ad61b7567a.jpg"
+                }
+            ],
+            "show_buyer_mobile": "185****365",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t0127e58e709f96219a.jpg"
+            }
+        },
+        {
+            "comment_id": "5396",
+            "comment_mobile": "135****520",
+            "comment_content": "现在用着呢&nbsp;&nbsp;一点问题都没有&nbsp;&nbsp;非常好",
+            "comment_level": "5",
+            "comment_create_time": "2016-10-27",
+            "is_img": false,
+            "product_name": "小米 【红米 note2】  移动 4G/3G/2G 白色 16 G 国行2G运行内存  9成新",
+            "product_img": "http://p0.qhmsg.com/t01717d615ce1837b18.png",
+            "show_buyer_mobile": "135****520",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t01717d615ce1837b18.png"
+            }
+        },
+        {
+            "comment_id": "5392",
+            "comment_mobile": "155****093",
+            "comment_content": "手机真的不错，希望下次再来有更好的商品。",
+            "comment_level": "5",
+            "comment_create_time": "2016-10-27",
+            "is_img": false,
+            "product_name": "三星 【Galaxy S7 edge g9350】  黑色 32 G 国行 全网通9成新 全国联保2017-3-28",
+            "product_img": "http://p0.qhmsg.com/t01d2ab71837c7874a1.png",
+            "show_buyer_mobile": "155****093",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t01d2ab71837c7874a1.png"
+            }
+        },
+        {
+            "comment_id": "5389",
+            "comment_mobile": "132****358",
+            "comment_content": "宝贝不错，成色很好，在360买二手手机是不错的选择。",
+            "comment_level": "5",
+            "comment_create_time": "2016-10-26",
+            "is_img": false,
+            "product_name": "金立 【金钢（GN5001S）】  金色 全网通 16 G 国行95成新 真机实拍 保修半年",
+            "product_img": "http://p0.qhmsg.com/t014b4c1f01dac780e2.jpg",
+            "show_buyer_mobile": "132****358",
+            "product_info": {
+                "product_img": "http://p0.qhmsg.com/t014b4c1f01dac780e2.jpg"
+            }
+        }
+    ]
+}

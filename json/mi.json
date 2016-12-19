@@ -1,0 +1,732 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "78",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "27264",
+                "product_name": "小米 【红米2】 移动 4G/3G/2G 白色 16 G 国行 85成新 运行内存2GB&nbsp;真机实拍",
+                "model_attr_name": "小米 【红米2】 移动 4G/3G/2G 白色 16 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e4256e15cee27ace.png",
+                    "big": "http://p0.qhmsg.com/t01c0cbbd7ede76f5bf.png",
+                    "mid": "http://p0.qhmsg.com/t010ba794fd21d1e622.png",
+                    "min": "http://p0.qhmsg.com/t01abfef5d294acbc90.png"
+                },
+                "price": 339,
+                "brand_id": "3",
+                "model_id": "194",
+                "view_volume": "434",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "867*****622",
+                "chengse": "1609",
+                "com_price": "699",
+                "discount": 4.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27256",
+                "product_name": "小米 【红米 note3】 移动联通 4G/3G/2G 银色 32 G 国行 85成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "小米 【红米 note3】 移动联通 4G/3G/2G 银色 32 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01186ad22c6cffe5cc.png",
+                    "big": "http://p0.qhmsg.com/t01d3f7afccc39c69c3.png",
+                    "mid": "http://p0.qhmsg.com/t01db589f80730dae8e.png",
+                    "min": "http://p0.qhmsg.com/t013c84d828bbd531c4.png"
+                },
+                "price": 680,
+                "brand_id": "3",
+                "model_id": "461",
+                "view_volume": "516",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "75,86,165,168",
+                "product_type": "10",
+                "imei": "860*****526",
+                "chengse": "1609",
+                "com_price": "1199",
+                "discount": 5.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27315",
+                "product_name": "小米 【红米 Pro】 银色 全网通 32 G 国行 95成新 3G运行内存&nbsp;真机实拍",
+                "model_attr_name": "小米 【红米 Pro】 银色 全网通 32 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0112bf71db37bd44fe.png",
+                    "big": "http://p0.qhmsg.com/t01eed82a649c7ae918.png",
+                    "mid": "http://p0.qhmsg.com/t01a1a79437f4109b90.png",
+                    "min": "http://p0.qhmsg.com/t015eaa0007e907abec.png"
+                },
+                "price": 1050,
+                "brand_id": "3",
+                "model_id": "659",
+                "view_volume": "537",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "75,86,141,165",
+                "product_type": "10",
+                "imei": "861*****348",
+                "chengse": "1603",
+                "com_price": "1499",
+                "discount": 7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27364",
+                "product_name": "小米 【红米2A】 移动 4G/3G/2G 白色 8 G 国行 8成新 1G运行内存&nbsp;真机实拍&nbsp;保修半年",
+                "model_attr_name": "小米 【红米2A】 移动 4G/3G/2G 白色 8 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0108adad54926f06a2.jpg",
+                    "big": "http://p0.qhmsg.com/t013733ea2a97914d50.jpg",
+                    "mid": "http://p0.qhmsg.com/t01c4c00a868c1548fd.jpg",
+                    "min": "http://p0.qhmsg.com/t014fbf8663eb995637.jpg"
+                },
+                "price": 299,
+                "brand_id": "3",
+                "model_id": "250",
+                "view_volume": "393",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,73,165",
+                "product_type": "10",
+                "imei": "867*****091",
+                "chengse": "1605",
+                "com_price": "699",
+                "discount": 4.3,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "27329",
+                "product_name": "小米【红米 note2】白色 16 G 国行 移动联通 4G/3G/2G 8成新 真机实拍",
+                "model_attr_name": "小米【红米 note2】白色 16 G 国行 移动联通 4G/3G/2G 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01717d615ce1837b18.png",
+                    "big": "http://p0.qhmsg.com/t0143bd7e90af3bf4e6.png",
+                    "mid": "http://p0.qhmsg.com/t0100f3172c112fc88d.png",
+                    "min": "http://p0.qhmsg.com/t0137da8ff617878935.png"
+                },
+                "price": 480,
+                "brand_id": "3",
+                "model_id": "232",
+                "view_volume": "506",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,165,168",
+                "product_type": "10",
+                "imei": "867*****290",
+                "chengse": "1605",
+                "com_price": "999",
+                "discount": 4.8,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "27317",
+                "product_name": "小米 【红米 3】 金色 全网通 16 G 国行 8成新 真机实拍",
+                "model_attr_name": "小米 【红米 3】 金色 全网通 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01372d0348832f8760.jpg",
+                    "big": "http://p0.qhmsg.com/t01d056f047de62290d.jpg",
+                    "mid": "http://p0.qhmsg.com/t0179a7311b88eab816.jpg",
+                    "min": "http://p0.qhmsg.com/t011f5d7e2698f0af12.jpg"
+                },
+                "price": 450,
+                "brand_id": "3",
+                "model_id": "482",
+                "view_volume": "509",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,74,141,165",
+                "product_type": "10",
+                "imei": "990*****296",
+                "chengse": "1605",
+                "com_price": "899",
+                "discount": 5,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27179",
+                "product_name": "小米 【小米5】 白色 全网通 32 G 国行 全新新 真机实拍&nbsp;原封未激活",
+                "model_attr_name": "小米 【小米5】 白色 全网通 32 G 国行 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01682e8a13777e8532.jpg",
+                    "big": "http://p0.qhmsg.com/t012cdb739b99e8fb88.jpg",
+                    "mid": "http://p0.qhmsg.com/t0107d695a0af68c209.jpg",
+                    "min": "http://p0.qhmsg.com/t01a202c4896ead7b31.jpg"
+                },
+                "price": 1550,
+                "brand_id": "3",
+                "model_id": "490",
+                "view_volume": "591",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,75,141,165",
+                "product_type": "10",
+                "imei": "862*****346",
+                "chengse": "1601",
+                "com_price": "2499",
+                "discount": 6.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27174",
+                "product_name": "小米 【4】 电信 3G/2G 白色 16 G 国行 9成新 3G运行内存",
+                "model_attr_name": "小米 【4】 电信 3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e7f74c542cb80d6b.png",
+                    "big": "http://p0.qhmsg.com/t012463df8be08a1f8b.png",
+                    "mid": "http://p0.qhmsg.com/t0143dba980888a788d.png",
+                    "min": "http://p0.qhmsg.com/t0106ccbb3e53d05242.png"
+                },
+                "price": 550,
+                "brand_id": "3",
+                "model_id": "21",
+                "view_volume": "414",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "10,28,74,165",
+                "product_type": "10",
+                "imei": "865*****294",
+                "chengse": "1604",
+                "com_price": "1999",
+                "discount": 2.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27158",
+                "product_name": "小米 【红米3S】 金色 移动 4G/3G/2G 32 G 国行 8成新 运行内存3GB",
+                "model_attr_name": "小米 【红米3S】 金色 移动 4G/3G/2G 32 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01b2fad3e332a43f25.jpg",
+                    "big": "http://p0.qhmsg.com/t01c33c7ddee96c6239.jpg",
+                    "mid": "http://p0.qhmsg.com/t01c34aaf6835e13b6a.jpg",
+                    "min": "http://p0.qhmsg.com/t016d39fad87f107553.jpg"
+                },
+                "price": 599,
+                "brand_id": "3",
+                "model_id": "573",
+                "view_volume": "363",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,30,75,165",
+                "product_type": "10",
+                "imei": "862*****061",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "27227",
+                "product_name": "小米 【4C】 全网通 蓝色 32 G 国行 9成新 真机实拍",
+                "model_attr_name": "小米 【4C】 全网通 蓝色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01eb07b01259f4b392.png",
+                    "big": "http://p0.qhmsg.com/t01325d9882d73f14e5.png",
+                    "mid": "http://p0.qhmsg.com/t013b389c7453a18f8d.png",
+                    "min": "http://p0.qhmsg.com/t01deeb30d18c07137e.png"
+                },
+                "price": 750,
+                "brand_id": "3",
+                "model_id": "274",
+                "view_volume": "362",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "32,75,141,165",
+                "product_type": "10",
+                "imei": "869*****986",
+                "chengse": "1604",
+                "com_price": "1299",
+                "discount": 5.8,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "27225",
+                "product_name": "小米【4S】金色 64 G 全网通 国行 85成新 真机实拍",
+                "model_attr_name": "小米【4S】金色 64 G 全网通 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0118706453c040b4da.jpg",
+                    "big": "http://p0.qhmsg.com/t01c7472362c74d29af.jpg",
+                    "mid": "http://p0.qhmsg.com/t01ae71567404b9d75d.jpg",
+                    "min": "http://p0.qhmsg.com/t01e7c70b2d46da22d1.jpg"
+                },
+                "price": 880,
+                "brand_id": "3",
+                "model_id": "486",
+                "view_volume": "475",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "868*****901",
+                "chengse": "1609",
+                "com_price": "1799",
+                "discount": 4.9,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "27208",
+                "product_name": "小米【红米 note3】金色 16 G 全网通 国行 85成新 真机实拍",
+                "model_attr_name": "小米【红米 note3】金色 16 G 全网通 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01a12ae34fd7348373.jpg",
+                    "big": "http://p0.qhmsg.com/t01f2444429dd3d5a52.jpg",
+                    "mid": "http://p0.qhmsg.com/t0109a54cce7d5cd29e.jpg",
+                    "min": "http://p0.qhmsg.com/t01a5f4b84210db51e8.jpg"
+                },
+                "price": 650,
+                "brand_id": "3",
+                "model_id": "461",
+                "view_volume": "370",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,74,141,165",
+                "product_type": "10",
+                "imei": "862*****150",
+                "chengse": "1609",
+                "com_price": "1199",
+                "discount": 5.4,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27097",
+                "product_name": "小米 【红米 note3】 移动联通 4G/3G/2G 灰色 32 G 国行 9成新 运行内存3GB&nbsp;真机实拍",
+                "model_attr_name": "小米 【红米 note3】 移动联通 4G/3G/2G 灰色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0102b846ef1b5e10a8.jpg",
+                    "big": "http://p0.qhmsg.com/t01f1818374e51ee677.jpg",
+                    "mid": "http://p0.qhmsg.com/t0191c25758008a40bd.jpg",
+                    "min": "http://p0.qhmsg.com/t019f894cc685cf9d39.jpg"
+                },
+                "price": 699,
+                "brand_id": "3",
+                "model_id": "461",
+                "view_volume": "695",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "75,83,165,168",
+                "product_type": "10",
+                "imei": "868*****135",
+                "chengse": "1604",
+                "com_price": "1199",
+                "discount": 5.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27089",
+                "product_name": "小米 【4】 移动 4G/3G/2G 白色 16 G 国行 9成新 2G运行内存&nbsp;真机实拍",
+                "model_attr_name": "小米 【4】 移动 4G/3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e7f74c542cb80d6b.png",
+                    "big": "http://p0.qhmsg.com/t012463df8be08a1f8b.png",
+                    "mid": "http://p0.qhmsg.com/t0143dba980888a788d.png",
+                    "min": "http://p0.qhmsg.com/t0106ccbb3e53d05242.png"
+                },
+                "price": 599,
+                "brand_id": "3",
+                "model_id": "21",
+                "view_volume": "500",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "867*****476",
+                "chengse": "1604",
+                "com_price": "1999",
+                "discount": 3,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27111",
+                "product_name": "小米 【note】 移动联通 4G/3G/2G 白色 16 G 国行 9成新 运行内存3GB",
+                "model_attr_name": "小米 【note】 移动联通 4G/3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t018553bbd4274323bf.png",
+                    "big": "http://p0.qhmsg.com/t0192fc6698c113bb70.png",
+                    "mid": "http://p0.qhmsg.com/t01bed5d68b9a89062b.png",
+                    "min": "http://p0.qhmsg.com/t0168912c52603fa661.png"
+                },
+                "price": 699,
+                "brand_id": "3",
+                "model_id": "143",
+                "view_volume": "627",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,165,168",
+                "product_type": "10",
+                "imei": "865*****620",
+                "chengse": "1604",
+                "com_price": "2999",
+                "discount": 2.3,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27074",
+                "product_name": "小米 【平板2】 粉色 16 G 国行 95成新 2G运行内存&nbsp;真机实拍&nbsp;全国联保",
+                "model_attr_name": "小米 【平板2】 粉色 16 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01162e066ab4135e65.png",
+                    "big": "http://p0.qhmsg.com/t01447dba406f0a07cf.png",
+                    "mid": "http://p0.qhmsg.com/t01c99f4aff35499b95.png",
+                    "min": "http://p0.qhmsg.com/t01f420b26d0a9440d4.png"
+                },
+                "price": 750,
+                "brand_id": "3",
+                "model_id": "483",
+                "view_volume": "646",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "31,74,165",
+                "product_type": "10",
+                "imei": "A3P*****CD5",
+                "chengse": "1603",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27139",
+                "product_name": "小米 【小米5】 白色 全网通 32 G 国行 9成新 运行内存3GB",
+                "model_attr_name": "小米 【小米5】 白色 全网通 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01682e8a13777e8532.jpg",
+                    "big": "http://p0.qhmsg.com/t012cdb739b99e8fb88.jpg",
+                    "mid": "http://p0.qhmsg.com/t0107d695a0af68c209.jpg",
+                    "min": "http://p0.qhmsg.com/t01a202c4896ead7b31.jpg"
+                },
+                "price": 1350,
+                "brand_id": "3",
+                "model_id": "490",
+                "view_volume": "642",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,75,141,165",
+                "product_type": "10",
+                "imei": "869*****023",
+                "chengse": "1604",
+                "com_price": "2499",
+                "discount": 5.4,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27126",
+                "product_name": "小米 【4C】 移动 4G/3G/2G 白色 32 G 国行 8成新 运行内存3GB",
+                "model_attr_name": "小米 【4C】 移动 4G/3G/2G 白色 32 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01eed7bfedc9cc17e4.png",
+                    "big": "http://p0.qhmsg.com/t01b4b3dacaa161b391.png",
+                    "mid": "http://p0.qhmsg.com/t01cf96e0d2fb62922c.png",
+                    "min": "http://p0.qhmsg.com/t01fec988b18372081a.png"
+                },
+                "price": 630,
+                "brand_id": "3",
+                "model_id": "274",
+                "view_volume": "460",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,75,165",
+                "product_type": "10",
+                "imei": "867*****131",
+                "chengse": "1605",
+                "com_price": "1299",
+                "discount": 4.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27133",
+                "product_name": "小米 【note】 移动 4G/3G/2G 白色 16 G 国行 9成新 运行内存3GB",
+                "model_attr_name": "小米 【note】 移动 4G/3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t018553bbd4274323bf.png",
+                    "big": "http://p0.qhmsg.com/t0192fc6698c113bb70.png",
+                    "mid": "http://p0.qhmsg.com/t01bed5d68b9a89062b.png",
+                    "min": "http://p0.qhmsg.com/t0168912c52603fa661.png"
+                },
+                "price": 699,
+                "brand_id": "3",
+                "model_id": "143",
+                "view_volume": "528",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "866*****230",
+                "chengse": "1604",
+                "com_price": "2999",
+                "discount": 2.3,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27079",
+                "product_name": "小米 【红米 Note4】 金色 全网通 16 G 国行 9成新 2G运行内存",
+                "model_attr_name": "小米 【红米 Note4】 金色 全网通 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t011ae6df60c995fefe.png",
+                    "big": "http://p0.qhmsg.com/t0117e81288aa41c8a0.png",
+                    "mid": "http://p0.qhmsg.com/t01f59f1c03d95ad5f2.png",
+                    "min": "http://p0.qhmsg.com/t014242421e5cc535a9.png"
+                },
+                "price": 850,
+                "brand_id": "3",
+                "model_id": "670",
+                "view_volume": "493",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,74,141,165",
+                "product_type": "10",
+                "imei": "863*****146",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "3",
+                "name": "小米",
+                "sums": "78"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "73",
+                        "attr_val_name": "8 G"
+                    },
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    },
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    },
+                    {
+                        "attr_val_id": "76",
+                        "attr_val_name": "64 G"
+                    },
+                    {
+                        "attr_val_id": "130",
+                        "attr_val_name": "128G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "9",
+                        "attr_val_name": "联通 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "10",
+                        "attr_val_name": "电信 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "11",
+                        "attr_val_name": "移动 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "12",
+                        "attr_val_name": "电信 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    },
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    },
+                    {
+                        "attr_val_id": "30",
+                        "attr_val_name": "金色"
+                    },
+                    {
+                        "attr_val_id": "31",
+                        "attr_val_name": "粉色"
+                    },
+                    {
+                        "attr_val_id": "32",
+                        "attr_val_name": "蓝色"
+                    },
+                    {
+                        "attr_val_id": "33",
+                        "attr_val_name": "黄色"
+                    },
+                    {
+                        "attr_val_id": "83",
+                        "attr_val_name": "灰色"
+                    },
+                    {
+                        "attr_val_id": "86",
+                        "attr_val_name": "银色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "681",
+                "model_name": "5S"
+            },
+            {
+                "model_id": "490",
+                "model_name": "小米5"
+            },
+            {
+                "model_id": "486",
+                "model_name": "4S"
+            },
+            {
+                "model_id": "659",
+                "model_name": "红米 Pro"
+            },
+            {
+                "model_id": "573",
+                "model_name": "红米3S"
+            },
+            {
+                "model_id": "482",
+                "model_name": "红米 3"
+            },
+            {
+                "model_id": "670",
+                "model_name": "红米 Note4"
+            },
+            {
+                "model_id": "461",
+                "model_name": "红米 note3"
+            },
+            {
+                "model_id": "232",
+                "model_name": "红米 note2"
+            },
+            {
+                "model_id": "87",
+                "model_name": "红米 NOTE"
+            },
+            {
+                "model_id": "194",
+                "model_name": "红米2"
+            },
+            {
+                "model_id": "250",
+                "model_name": "红米2A"
+            },
+            {
+                "model_id": "88",
+                "model_name": "3"
+            },
+            {
+                "model_id": "483",
+                "model_name": "平板2"
+            },
+            {
+                "model_id": "274",
+                "model_name": "4C"
+            },
+            {
+                "model_id": "143",
+                "model_name": "note"
+            },
+            {
+                "model_id": "21",
+                "model_name": "4"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            },
+            {
+                "key": 500,
+                "name": "500-1000元"
+            },
+            {
+                "key": 1000,
+                "name": "1000-1500元"
+            },
+            {
+                "key": 1500,
+                "name": "1500-2000元"
+            },
+            {
+                "key": 2000,
+                "name": "2000-3000元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1601,
+                "name": "全新"
+            },
+            {
+                "key": 1603,
+                "name": "95成新"
+            },
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1609,
+                "name": "85成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

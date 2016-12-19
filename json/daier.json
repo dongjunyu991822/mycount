@@ -1,0 +1,265 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "5",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "14753",
+                "product_name": "戴尔【XPS 15 9550】银色 官方翻新机/国行 i7六代/512G SSD/16 全新新 保修一年 戴尔官方直供",
+                "model_attr_name": "戴尔【XPS 15 9550】银色 官方翻新机/国行 i7六代/512G SSD/16 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01efffa36d427ba85f.jpg",
+                    "big": "http://p0.qhmsg.com/t01dc6e1a6a127f90e3.jpg",
+                    "mid": "http://p0.qhmsg.com/t016fbff5ab79d02ad0.jpg",
+                    "min": "http://p0.qhmsg.com/t01fe4f94f3d6f0c66f.jpg"
+                },
+                "price": 8288,
+                "brand_id": "50",
+                "model_id": "566",
+                "view_volume": "10954",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "86,240,274",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "14999",
+                "discount": 5.5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "15854",
+                "product_name": "戴尔【XPS 9350】银色 官方翻新机/国行 酷睿i5-6200U/13寸 256G固态硬盘/8G内存/In 全新新 官方直供 全国联保 官翻",
+                "model_attr_name": "戴尔【XPS 9350】银色 官方翻新机/国行 酷睿i5-6200U/13寸 256G固态硬盘/8G内存/In 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e07bd0236053a73e.jpg",
+                    "big": "http://p0.qhmsg.com/t01e68c32333027b084.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f13f613a66d344bf.jpg",
+                    "min": "http://p0.qhmsg.com/t0159bb499a349bc6e0.jpg"
+                },
+                "price": 5499,
+                "brand_id": "50",
+                "model_id": "555",
+                "view_volume": "13534",
+                "stock_nums": "13",
+                "juhe_type": "1",
+                "attr_val_ids": "86,240,256,299",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "9288",
+                "discount": 5.9,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25254",
+                "product_name": "戴尔【DELL 灵越 7559】黑色 酷睿i7-6700HQ/15寸 628G硬盘/4G内存/独显4G 全新新 官方直供 全国联保 官翻",
+                "model_attr_name": "戴尔【DELL 灵越 7559】黑色 酷睿i7-6700HQ/15寸 628G硬盘/4G内存/独显4G 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t011f5d11a33b977c5e.jpg",
+                    "big": "http://p0.qhmsg.com/t0130dc95b446c3404c.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f071d5c044087bb0.jpg",
+                    "min": "http://p0.qhmsg.com/t01285bf23cda6e9232.jpg"
+                },
+                "price": 5399,
+                "brand_id": "50",
+                "model_id": "676",
+                "view_volume": "1533",
+                "stock_nums": "15",
+                "juhe_type": "1",
+                "attr_val_ids": "29,272,339",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "5999",
+                "discount": 9,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "22050",
+                "product_name": "戴尔【DELL 成就 3459】黑色 i5六代/500G/4G/2G 酷睿i5-6200U/14寸 全新新 官方直供 全国联保 官翻",
+                "model_attr_name": "戴尔【DELL 成就 3459】黑色 i5六代/500G/4G/2G 酷睿i5-6200U/14寸 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01b8d030da344675b0.jpg",
+                    "big": "http://p0.qhmsg.com/t01caff7f73f77b307c.jpg",
+                    "mid": "http://p0.qhmsg.com/t0109a3ac235855f8c8.jpg",
+                    "min": "http://p0.qhmsg.com/t01cf9af299f8f0e197.jpg"
+                },
+                "price": 2399,
+                "brand_id": "50",
+                "model_id": "677",
+                "view_volume": "4972",
+                "stock_nums": "6",
+                "juhe_type": "1",
+                "attr_val_ids": "29,239,298",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "3959",
+                "discount": 6.1,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "15850",
+                "product_name": "戴尔【DELL  灵越5557】银色 官方翻新机/国行 酷睿i7-6500U/15寸 8G/独显4G 全新新 戴尔官方直供 全国联保 官翻",
+                "model_attr_name": "戴尔【DELL  灵越5557】银色 官方翻新机/国行 酷睿i7-6500U/15寸 8G/独显4G 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e0994a480f7e992b.jpg",
+                    "big": "http://p0.qhmsg.com/t0140c6ef7b1275ad2b.jpg",
+                    "mid": "http://p0.qhmsg.com/t014c2dafd5bb9d79ab.jpg",
+                    "min": "http://p0.qhmsg.com/t017234a298f38a45f5.jpg"
+                },
+                "price": 4399,
+                "brand_id": "50",
+                "model_id": "588",
+                "view_volume": "9769",
+                "stock_nums": "6",
+                "juhe_type": "1",
+                "attr_val_ids": "86,240,282,288",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "6149",
+                "discount": 7.2,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "50",
+                "name": "戴尔",
+                "sums": "5"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "239",
+                        "attr_val_name": "i5六代/500G/4G/2G"
+                    },
+                    {
+                        "attr_val_id": "274",
+                        "attr_val_name": "i7六代/512G SSD/16"
+                    },
+                    {
+                        "attr_val_id": "288",
+                        "attr_val_name": "8G/独显4G"
+                    },
+                    {
+                        "attr_val_id": "299",
+                        "attr_val_name": "256G固态硬盘/8G内存/In"
+                    },
+                    {
+                        "attr_val_id": "339",
+                        "attr_val_name": "628G硬盘/4G内存/独显4G"
+                    },
+                    {
+                        "attr_val_id": "347",
+                        "attr_val_name": "128Gssd 500G/4G/"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "240",
+                        "attr_val_name": "官方翻新机/国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "256",
+                        "attr_val_name": "酷睿i5-6200U/13寸"
+                    },
+                    {
+                        "attr_val_id": "272",
+                        "attr_val_name": "酷睿i7-6700HQ/15寸"
+                    },
+                    {
+                        "attr_val_id": "282",
+                        "attr_val_name": "酷睿i7-6500U/15寸"
+                    },
+                    {
+                        "attr_val_id": "298",
+                        "attr_val_name": "酷睿i5-6200U/14寸"
+                    },
+                    {
+                        "attr_val_id": "346",
+                        "attr_val_name": "酷睿i5-7200U/14寸"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    },
+                    {
+                        "attr_val_id": "83",
+                        "attr_val_name": "灰色"
+                    },
+                    {
+                        "attr_val_id": "86",
+                        "attr_val_name": "银色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "555",
+                "model_name": "XPS 9350"
+            },
+            {
+                "model_id": "566",
+                "model_name": "XPS 15 9550"
+            },
+            {
+                "model_id": "588",
+                "model_name": "DELL  灵越5557"
+            },
+            {
+                "model_id": "676",
+                "model_name": "DELL 灵越 7559"
+            },
+            {
+                "model_id": "677",
+                "model_name": "DELL 成就 3459"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 2000,
+                "name": "2000-3000元"
+            },
+            {
+                "key": 3000,
+                "name": "3000元以上"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1601,
+                "name": "全新"
+            }
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+<script type="text/html" id="threeTmp">
+	<%for(var n=0;n<result.length;n++){%>
+		<li>
+			<img src="<%=result[n].product_info.product_img%>">
+			<div>
+				<p><%=result[n].comment_mobile%></p>
+				<p><%=result[n].comment_content%></p>
+			</div>
+		</li>
+	<%}%>
+</script>

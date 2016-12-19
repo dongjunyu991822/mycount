@@ -1,0 +1,546 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "14",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "27341",
+                "product_name": "苹果 【iPhone 7】 亮黑色 全网通 128G 国行 全新新 原封未激活&nbsp;真机实拍&nbsp;全国联保",
+                "model_attr_name": "苹果 【iPhone 7】 亮黑色 全网通 128G 国行 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01cf9b272d406acb1f.jpg",
+                    "big": "http://p0.qhmsg.com/t01f7f8f8971f3cedcb.jpg",
+                    "mid": "http://p0.qhmsg.com/t01a5af3d970d4346f8.jpg",
+                    "min": "http://p0.qhmsg.com/t010af65ca6fe732eb6.jpg"
+                },
+                "price": 5688,
+                "brand_id": "2",
+                "model_id": "660",
+                "view_volume": "371",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "130,141,165,344",
+                "product_type": "10",
+                "imei": "359*****308",
+                "chengse": "1601",
+                "com_price": "6888",
+                "discount": 8.3,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27179",
+                "product_name": "小米 【小米5】 白色 全网通 32 G 国行 全新新 真机实拍&nbsp;原封未激活",
+                "model_attr_name": "小米 【小米5】 白色 全网通 32 G 国行 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01682e8a13777e8532.jpg",
+                    "big": "http://p0.qhmsg.com/t012cdb739b99e8fb88.jpg",
+                    "mid": "http://p0.qhmsg.com/t0107d695a0af68c209.jpg",
+                    "min": "http://p0.qhmsg.com/t01a202c4896ead7b31.jpg"
+                },
+                "price": 1550,
+                "brand_id": "3",
+                "model_id": "490",
+                "view_volume": "598",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,75,141,165",
+                "product_type": "10",
+                "imei": "862*****346",
+                "chengse": "1601",
+                "com_price": "2499",
+                "discount": 6.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "27215",
+                "product_name": "三星 【GALAXY Grand Prime】 电信 4G/3G/2G 白色 16 G 国行 全新新 真机实拍",
+                "model_attr_name": "三星 【GALAXY Grand Prime】 电信 4G/3G/2G 白色 16 G 国行 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016ccba0da42c7043a.png",
+                    "big": "http://p0.qhmsg.com/t01b355c09d4e7d8c98.png",
+                    "mid": "http://p0.qhmsg.com/t01338d20405c0d9db5.png",
+                    "min": "http://p0.qhmsg.com/t0174485e64ea3ba30a.png"
+                },
+                "price": 480,
+                "brand_id": "1",
+                "model_id": "454",
+                "view_volume": "449",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,74,165",
+                "product_type": "10",
+                "imei": "354*****219",
+                "chengse": "1601",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "27217",
+                "product_name": "三星 【GALAXY Grand Prime】 电信 4G/3G/2G 白色 16 G 国行 全新新 真机实拍",
+                "model_attr_name": "三星 【GALAXY Grand Prime】 电信 4G/3G/2G 白色 16 G 国行 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016ccba0da42c7043a.png",
+                    "big": "http://p0.qhmsg.com/t01b355c09d4e7d8c98.png",
+                    "mid": "http://p0.qhmsg.com/t01338d20405c0d9db5.png",
+                    "min": "http://p0.qhmsg.com/t0174485e64ea3ba30a.png"
+                },
+                "price": 480,
+                "brand_id": "1",
+                "model_id": "454",
+                "view_volume": "434",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,74,165",
+                "product_type": "10",
+                "imei": "354*****853",
+                "chengse": "1601",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "27212",
+                "product_name": "360手机【奇酷旗舰版】32 G 银色 全网通 国行 全新新 真机实拍",
+                "model_attr_name": "360手机【奇酷旗舰版】32 G 银色 全网通 国行 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01edfa4b3ab3784cad.jpg",
+                    "big": "http://p0.qhmsg.com/t0144f901d71da5eea1.jpg",
+                    "mid": "http://p0.qhmsg.com/t012259001c5d7a7684.jpg",
+                    "min": "http://p0.qhmsg.com/t01f65c098f09da1f21.jpg"
+                },
+                "price": 1680,
+                "brand_id": "27",
+                "model_id": "227",
+                "view_volume": "528",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "75,86,141,165",
+                "product_type": "10",
+                "imei": "867*****988",
+                "chengse": "1601",
+                "com_price": "2499",
+                "discount": 6.7,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25417",
+                "product_name": "魅族 【魅蓝2】 电信 4G/3G/2G 灰色 16 G 国行 全新新 未拆封",
+                "model_attr_name": "魅族 【魅蓝2】 电信 4G/3G/2G 灰色 16 G 国行 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t011a5604c2ae11e3ed.png",
+                    "big": "http://p0.qhmsg.com/t014976edec2efdc6da.png",
+                    "mid": "http://p0.qhmsg.com/t01b50a4c6a97091204.png",
+                    "min": "http://p0.qhmsg.com/t01eeb4e923479ecd60.png"
+                },
+                "price": 498,
+                "brand_id": "9",
+                "model_id": "272",
+                "view_volume": "1761",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,74,83,165",
+                "product_type": "10",
+                "imei": "867*****849",
+                "chengse": "1601",
+                "com_price": "799",
+                "discount": 6.2,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "14753",
+                "product_name": "戴尔【XPS 15 9550】银色 官方翻新机/国行 i7六代/512G SSD/16 全新新 保修一年 戴尔官方直供",
+                "model_attr_name": "戴尔【XPS 15 9550】银色 官方翻新机/国行 i7六代/512G SSD/16 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01efffa36d427ba85f.jpg",
+                    "big": "http://p0.qhmsg.com/t01dc6e1a6a127f90e3.jpg",
+                    "mid": "http://p0.qhmsg.com/t016fbff5ab79d02ad0.jpg",
+                    "min": "http://p0.qhmsg.com/t01fe4f94f3d6f0c66f.jpg"
+                },
+                "price": 8288,
+                "brand_id": "50",
+                "model_id": "566",
+                "view_volume": "10954",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "86,240,274",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "14999",
+                "discount": 5.5,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "15854",
+                "product_name": "戴尔【XPS 9350】银色 官方翻新机/国行 酷睿i5-6200U/13寸 256G固态硬盘/8G内存/In 全新新 官方直供 全国联保 官翻",
+                "model_attr_name": "戴尔【XPS 9350】银色 官方翻新机/国行 酷睿i5-6200U/13寸 256G固态硬盘/8G内存/In 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e07bd0236053a73e.jpg",
+                    "big": "http://p0.qhmsg.com/t01e68c32333027b084.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f13f613a66d344bf.jpg",
+                    "min": "http://p0.qhmsg.com/t0159bb499a349bc6e0.jpg"
+                },
+                "price": 5499,
+                "brand_id": "50",
+                "model_id": "555",
+                "view_volume": "13534",
+                "stock_nums": "13",
+                "juhe_type": "1",
+                "attr_val_ids": "86,240,256,299",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "9288",
+                "discount": 5.9,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25254",
+                "product_name": "戴尔【DELL 灵越 7559】黑色 酷睿i7-6700HQ/15寸 628G硬盘/4G内存/独显4G 全新新 官方直供 全国联保 官翻",
+                "model_attr_name": "戴尔【DELL 灵越 7559】黑色 酷睿i7-6700HQ/15寸 628G硬盘/4G内存/独显4G 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t011f5d11a33b977c5e.jpg",
+                    "big": "http://p0.qhmsg.com/t0130dc95b446c3404c.jpg",
+                    "mid": "http://p0.qhmsg.com/t01f071d5c044087bb0.jpg",
+                    "min": "http://p0.qhmsg.com/t01285bf23cda6e9232.jpg"
+                },
+                "price": 5399,
+                "brand_id": "50",
+                "model_id": "676",
+                "view_volume": "1533",
+                "stock_nums": "15",
+                "juhe_type": "1",
+                "attr_val_ids": "29,272,339",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "5999",
+                "discount": 9,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "22050",
+                "product_name": "戴尔【DELL 成就 3459】黑色 i5六代/500G/4G/2G 酷睿i5-6200U/14寸 全新新 官方直供 全国联保 官翻",
+                "model_attr_name": "戴尔【DELL 成就 3459】黑色 i5六代/500G/4G/2G 酷睿i5-6200U/14寸 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01b8d030da344675b0.jpg",
+                    "big": "http://p0.qhmsg.com/t01caff7f73f77b307c.jpg",
+                    "mid": "http://p0.qhmsg.com/t0109a3ac235855f8c8.jpg",
+                    "min": "http://p0.qhmsg.com/t01cf9af299f8f0e197.jpg"
+                },
+                "price": 2399,
+                "brand_id": "50",
+                "model_id": "677",
+                "view_volume": "4972",
+                "stock_nums": "6",
+                "juhe_type": "1",
+                "attr_val_ids": "29,239,298",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "3959",
+                "discount": 6.1,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "15850",
+                "product_name": "戴尔【DELL  灵越5557】银色 官方翻新机/国行 酷睿i7-6500U/15寸 8G/独显4G 全新新 戴尔官方直供 全国联保 官翻",
+                "model_attr_name": "戴尔【DELL  灵越5557】银色 官方翻新机/国行 酷睿i7-6500U/15寸 8G/独显4G 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e0994a480f7e992b.jpg",
+                    "big": "http://p0.qhmsg.com/t0140c6ef7b1275ad2b.jpg",
+                    "mid": "http://p0.qhmsg.com/t014c2dafd5bb9d79ab.jpg",
+                    "min": "http://p0.qhmsg.com/t017234a298f38a45f5.jpg"
+                },
+                "price": 4399,
+                "brand_id": "50",
+                "model_id": "588",
+                "view_volume": "9769",
+                "stock_nums": "6",
+                "juhe_type": "1",
+                "attr_val_ids": "86,240,282,288",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "6149",
+                "discount": 7.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "11614",
+                "product_name": "360手机【奇酷旗舰版】32 G 银色 全网通 国行 全国联保 原封未激活 全新",
+                "model_attr_name": "360手机【奇酷旗舰版】32 G 银色 全网通 国行 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01edfa4b3ab3784cad.jpg",
+                    "big": "http://p0.qhmsg.com/t0144f901d71da5eea1.jpg",
+                    "mid": "http://p0.qhmsg.com/t012259001c5d7a7684.jpg",
+                    "min": "http://p0.qhmsg.com/t01f65c098f09da1f21.jpg"
+                },
+                "price": 1699,
+                "brand_id": "27",
+                "model_id": "227",
+                "view_volume": "12705",
+                "stock_nums": "3",
+                "juhe_type": "1",
+                "attr_val_ids": "75,86,141,165",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "2499",
+                "discount": 6.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "9396",
+                "product_name": "苹果【原装配件3】白色 国行 原装耳机 数据线 充电头 无 全新耳机+数据线+充电头",
+                "model_attr_name": "苹果【原装配件3】白色 国行 原装耳机 数据线 充电头 无 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01a8d9f65dcc17fa7a.jpg",
+                    "big": "http://p0.qhmsg.com/t01938bce12ec91c113.jpg",
+                    "mid": "http://p0.qhmsg.com/t01795ef9110d44ea2a.jpg",
+                    "min": "http://p0.qhmsg.com/t01ab2942a2351b6949.jpg"
+                },
+                "price": 199,
+                "brand_id": "2",
+                "model_id": "507",
+                "view_volume": "13091",
+                "stock_nums": "37",
+                "juhe_type": "1",
+                "attr_val_ids": "28,165,213,216",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "526",
+                "discount": 3.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "9398",
+                "product_name": "苹果【原装配件1】白色 国行 原装数据线 充电头 无 全新原装数据线+充电头 适用5/5S/5C/6/6S",
+                "model_attr_name": "苹果【原装配件1】白色 国行 原装数据线 充电头 无 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e8378180fb2e8d24.jpg",
+                    "big": "http://p0.qhmsg.com/t013705d9950180d055.jpg",
+                    "mid": "http://p0.qhmsg.com/t0115231c3dca38ccea.jpg",
+                    "min": "http://p0.qhmsg.com/t0176d2cd1b33cd1532.jpg"
+                },
+                "price": 119,
+                "brand_id": "2",
+                "model_id": "506",
+                "view_volume": "11314",
+                "stock_nums": "17",
+                "juhe_type": "1",
+                "attr_val_ids": "28,165,212,216",
+                "product_type": "1",
+                "imei": "",
+                "chengse": "1601",
+                "com_price": "298",
+                "discount": 4,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "2",
+                "name": "苹果",
+                "sums": "3"
+            },
+            {
+                "key": "1",
+                "name": "三星",
+                "sums": "2"
+            },
+            {
+                "key": "3",
+                "name": "小米",
+                "sums": "1"
+            },
+            {
+                "key": "9",
+                "name": "魅族",
+                "sums": "1"
+            },
+            {
+                "key": "27",
+                "name": "360手机",
+                "sums": "2"
+            },
+            {
+                "key": "50",
+                "name": "戴尔",
+                "sums": "5"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    },
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    },
+                    {
+                        "attr_val_id": "130",
+                        "attr_val_name": "128G"
+                    },
+                    {
+                        "attr_val_id": "216",
+                        "attr_val_name": "无"
+                    },
+                    {
+                        "attr_val_id": "239",
+                        "attr_val_name": "i5六代/500G/4G/2G"
+                    },
+                    {
+                        "attr_val_id": "274",
+                        "attr_val_name": "i7六代/512G SSD/16"
+                    },
+                    {
+                        "attr_val_id": "288",
+                        "attr_val_name": "8G/独显4G"
+                    },
+                    {
+                        "attr_val_id": "299",
+                        "attr_val_name": "256G固态硬盘/8G内存/In"
+                    },
+                    {
+                        "attr_val_id": "339",
+                        "attr_val_name": "628G硬盘/4G内存/独显4G"
+                    },
+                    {
+                        "attr_val_id": "347",
+                        "attr_val_name": "128Gssd 500G/4G/"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    },
+                    {
+                        "attr_val_id": "240",
+                        "attr_val_name": "官方翻新机/国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "12",
+                        "attr_val_name": "电信 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    },
+                    {
+                        "attr_val_id": "212",
+                        "attr_val_name": "原装数据线 充电头"
+                    },
+                    {
+                        "attr_val_id": "213",
+                        "attr_val_name": "原装耳机 数据线 充电头"
+                    },
+                    {
+                        "attr_val_id": "256",
+                        "attr_val_name": "酷睿i5-6200U/13寸"
+                    },
+                    {
+                        "attr_val_id": "272",
+                        "attr_val_name": "酷睿i7-6700HQ/15寸"
+                    },
+                    {
+                        "attr_val_id": "282",
+                        "attr_val_name": "酷睿i7-6500U/15寸"
+                    },
+                    {
+                        "attr_val_id": "298",
+                        "attr_val_name": "酷睿i5-6200U/14寸"
+                    },
+                    {
+                        "attr_val_id": "346",
+                        "attr_val_name": "酷睿i5-7200U/14寸"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    },
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    },
+                    {
+                        "attr_val_id": "83",
+                        "attr_val_name": "灰色"
+                    },
+                    {
+                        "attr_val_id": "86",
+                        "attr_val_name": "银色"
+                    },
+                    {
+                        "attr_val_id": "344",
+                        "attr_val_name": "亮黑色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            },
+            {
+                "key": 1500,
+                "name": "1500-2000元"
+            },
+            {
+                "key": 2000,
+                "name": "2000-3000元"
+            },
+            {
+                "key": 3000,
+                "name": "3000元以上"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1601,
+                "name": "全新"
+            }
+        ]
+    }
+}

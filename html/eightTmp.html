@@ -1,0 +1,63 @@
+<script type="text/html" id="eightTmp">
+	<p>
+		已选条件 >
+		<span class=" brand">价格
+			<span class="name"></span>
+			<span class="close">X</span>
+		</span>
+	</p>
+	<div>
+		<h3>品牌</h3>
+		<ul>
+			<li>全部</li>
+			<%for(var n=0;n<result.brand_list.length;n++){%>
+				<li><a href="#"><%=result.brand_list[n].name%></a><span>（<%=result.brand_list[n].key%>）</span></li>
+			<%}%>
+		</ul>
+	</div>
+	<div>
+		<h3>成色</h3>
+		<ul>
+			<li>全部</li>
+			<%for(var n=0;n<result.chengse_list.length;n++){%>
+				<li><a href="#"><%=result.chengse_list[n].name%></a></li>
+			<%}%>
+		</ul>
+	</div>
+	<div>
+		<h3>容量</h3>
+		<ul>
+			<li>全部</li>
+			<%for(var n=0;n<result.attr_list[0].list.length;n++){%>
+				<li><a href="#"><%=result.attr_list[0].list[n].attr_val_name%></a></li>
+			<%}%>
+		</ul>
+	</div>
+	<div>
+		<h3>渠道</h3>
+		<ul>
+			<li>全部</li>
+			<%for(var n=0;n<result.attr_list[1].list.length;n++){%>
+				<li><a href="#"><%=result.attr_list[1].list[n].attr_val_name%></a></li>
+			<%}%>
+		</ul>
+	</div>
+	<div>
+		<h3>网络</h3>
+		<ul>
+			<li>全部</li>
+			<%for(var n=0;n<result.attr_list[2].list.length;n++){%>
+				<li><a href="#"><%=result.attr_list[2].list[n].attr_val_name%></a></li>
+			<%}%>
+		</ul>
+	</div>
+	<div>
+		<h3>颜色</h3>
+		<ul>
+			<li>全部</li>
+			<%for(var n=0;n<result.attr_list[3].list.length;n++){%>
+				<li><a href="#"><%=result.attr_list[3].list[n].attr_val_name%></a></li>
+			<%}%>
+		</ul>
+	</div>
+</script>

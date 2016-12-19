@@ -1,0 +1,179 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "3",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "26911",
+                "product_name": "诺基亚 【Lumia 930】 联通 3G/2G 移动2G 橙色 32 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "诺基亚 【Lumia 930】 联通 3G/2G 移动2G 橙色 32 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0158bdae67c26673c3.jpg",
+                    "big": "http://p0.qhmsg.com/t01b7710c301c53cce9.jpg",
+                    "mid": "http://p0.qhmsg.com/t01301c47b31526afcf.jpg",
+                    "min": "http://p0.qhmsg.com/t01ce80568ade357adc.jpg"
+                },
+                "price": 799,
+                "brand_id": "6",
+                "model_id": "251",
+                "view_volume": "589",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "75,105,157,165",
+                "product_type": "10",
+                "imei": "354*****289",
+                "chengse": "1605",
+                "com_price": "2155",
+                "discount": 3.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "25320",
+                "product_name": "诺基亚 【Lumia 930】 联通 3G/2G 移动2G 黑色 32 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "诺基亚 【Lumia 930】 联通 3G/2G 移动2G 黑色 32 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01432e2ef5eda1c276.jpg",
+                    "big": "http://p0.qhmsg.com/t01ffdfb1251114338b.jpg",
+                    "mid": "http://p0.qhmsg.com/t01dad53fc00d50efe4.jpg",
+                    "min": "http://p0.qhmsg.com/t01a5c24f02bb02d526.jpg"
+                },
+                "price": 699,
+                "brand_id": "6",
+                "model_id": "251",
+                "view_volume": "1681",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,75,157,165",
+                "product_type": "10",
+                "imei": "354*****515",
+                "chengse": "1604",
+                "com_price": "2155",
+                "discount": 3.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "24752",
+                "product_name": "诺基亚 【Lumia 1320】 联通 3G/2G 黄色 8 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "诺基亚 【Lumia 1320】 联通 3G/2G 黄色 8 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0121a91d513dfc5947.png",
+                    "big": "http://p0.qhmsg.com/t017a2c79e3eb1bf3a3.png",
+                    "mid": "http://p0.qhmsg.com/t016944b2e2e79c873e.png",
+                    "min": "http://p0.qhmsg.com/t01c723d770b34b1ade.png"
+                },
+                "price": 380,
+                "brand_id": "6",
+                "model_id": "136",
+                "view_volume": "1584",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "9,33,73,165",
+                "product_type": "10",
+                "imei": "359*****865",
+                "chengse": "1604",
+                "com_price": "1370",
+                "discount": 2.8,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "6",
+                "name": "诺基亚",
+                "sums": "3"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "73",
+                        "attr_val_name": "8 G"
+                    },
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "9",
+                        "attr_val_name": "联通 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "157",
+                        "attr_val_name": "联通 3G/2G 移动2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    },
+                    {
+                        "attr_val_id": "33",
+                        "attr_val_name": "黄色"
+                    },
+                    {
+                        "attr_val_id": "105",
+                        "attr_val_name": "橙色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "136",
+                "model_name": "Lumia 1320"
+            },
+            {
+                "model_id": "251",
+                "model_name": "Lumia 930"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            },
+            {
+                "key": 500,
+                "name": "500-1000元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

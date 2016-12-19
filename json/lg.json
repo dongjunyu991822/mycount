@@ -1,0 +1,101 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "1",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "22601",
+                "product_name": "LG 【G5】 金色 全网通 32 G 国行 95成新 95成新 真机实拍 全国联保",
+                "model_attr_name": "LG 【G5】 金色 全网通 32 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01cf13ce735f6eb424.jpg",
+                    "big": "http://p0.qhmsg.com/t018c62dae097929ff6.jpg",
+                    "mid": "http://p0.qhmsg.com/t0163652f569969fcb3.jpg",
+                    "min": "http://p0.qhmsg.com/t01303f48ece98d85e6.jpg"
+                },
+                "price": 2699,
+                "brand_id": "20",
+                "model_id": "556",
+                "view_volume": "3416",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,75,141,165",
+                "product_type": "10",
+                "imei": "357*****709",
+                "chengse": "1603",
+                "com_price": "4888",
+                "discount": 5.5,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "20",
+                "name": "LG",
+                "sums": "1"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "30",
+                        "attr_val_name": "金色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "556",
+                "model_name": "G5"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 2000,
+                "name": "2000-3000元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1603,
+                "name": "95成新"
+            }
+        ]
+    }
+}

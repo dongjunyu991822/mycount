@@ -1,0 +1,714 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "100",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "27273",
+                "product_name": "苹果 【iPhone 6s】 全网通 玫瑰金 64 G 国行 85成新 真机实拍&nbsp;大内存",
+                "model_attr_name": "苹果 【iPhone 6s】 全网通 玫瑰金 64 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01ac7e90dc7b722260.jpg",
+                    "big": "http://p0.qhmsg.com/t01424493481b305dfc.jpg",
+                    "mid": "http://p0.qhmsg.com/t01e89c9ebdece92e9d.jpg",
+                    "min": "http://p0.qhmsg.com/t0156b5af6f05d75325.jpg"
+                },
+                "price": 3499,
+                "brand_id": "2",
+                "model_id": "261",
+                "view_volume": "386",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "76,141,165,193",
+                "product_type": "10",
+                "imei": "353*****505",
+                "chengse": "1609",
+                "com_price": "6088",
+                "discount": 5.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27274",
+                "product_name": "苹果 【iPhone 6s Plus】 全网通 粉色 16 G 国行 9成新 真机实拍&nbsp;全国联保2017-4-14",
+                "model_attr_name": "苹果 【iPhone 6s Plus】 全网通 粉色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01986aefac2d533e24.png",
+                    "big": "http://p0.qhmsg.com/t01e7d2936280973156.png",
+                    "mid": "http://p0.qhmsg.com/t01eda5b67e54e73366.png",
+                    "min": "http://p0.qhmsg.com/t014f2c7d69cef272aa.png"
+                },
+                "price": 3399,
+                "brand_id": "2",
+                "model_id": "276",
+                "view_volume": "430",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "31,74,141,165",
+                "product_type": "10",
+                "imei": "359*****275",
+                "chengse": "1604",
+                "com_price": "6888",
+                "discount": 4.9,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27269",
+                "product_name": "苹果 【iPhone 6 Plus】 全网通 金色 64 G 国行 9成新 真机实拍&nbsp;保修半年&nbsp;A1524",
+                "model_attr_name": "苹果 【iPhone 6 Plus】 全网通 金色 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t015987d004d761d59c.jpg",
+                    "big": "http://p0.qhmsg.com/t012356c64c53a61eb9.jpg",
+                    "mid": "http://p0.qhmsg.com/t010401a0742ed28d54.jpg",
+                    "min": "http://p0.qhmsg.com/t01797683ee55e0cafa.jpg"
+                },
+                "price": 3199,
+                "brand_id": "2",
+                "model_id": "98",
+                "view_volume": "551",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "352*****979",
+                "chengse": "1604",
+                "com_price": "6088",
+                "discount": 5.3,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27287",
+                "product_name": "苹果 【iPhone 6s Plus】 全网通 金色 64 G 国行 8成新 真机实拍&nbsp;大内存&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6s Plus】 全网通 金色 64 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t013281eb8e65529e88.png",
+                    "big": "http://p0.qhmsg.com/t0154334fb1e04a0934.png",
+                    "mid": "http://p0.qhmsg.com/t019c506f94ff42d7e0.png",
+                    "min": "http://p0.qhmsg.com/t0103844d6d7c921411.png"
+                },
+                "price": 3999,
+                "brand_id": "2",
+                "model_id": "276",
+                "view_volume": "429",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "359*****855",
+                "chengse": "1605",
+                "com_price": "6888",
+                "discount": 5.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26933",
+                "product_name": "苹果 【iPhone 6s Plus】 全网通 粉色 64 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6s Plus】 全网通 粉色 64 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01986aefac2d533e24.png",
+                    "big": "http://p0.qhmsg.com/t01e7d2936280973156.png",
+                    "mid": "http://p0.qhmsg.com/t01eda5b67e54e73366.png",
+                    "min": "http://p0.qhmsg.com/t014f2c7d69cef272aa.png"
+                },
+                "price": 3999,
+                "brand_id": "2",
+                "model_id": "276",
+                "view_volume": "499",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "31,76,141,165",
+                "product_type": "10",
+                "imei": "353*****604",
+                "chengse": "1605",
+                "com_price": "6888",
+                "discount": 5.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27280",
+                "product_name": "苹果 【iPhone 6s Plus】 全网通 银色 16 G 美国 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6s Plus】 全网通 银色 16 G 美国 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01089fc2d38db7ebd5.png",
+                    "big": "http://p0.qhmsg.com/t0157c2491785c4ddf0.png",
+                    "mid": "http://p0.qhmsg.com/t011712e4e28f2a62aa.png",
+                    "min": "http://p0.qhmsg.com/t01d39a0b2dec8242f6.png"
+                },
+                "price": 3299,
+                "brand_id": "2",
+                "model_id": "276",
+                "view_volume": "483",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "74,86,141,161",
+                "product_type": "10",
+                "imei": "353*****204",
+                "chengse": "1604",
+                "com_price": "6888",
+                "discount": 4.8,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27281",
+                "product_name": "苹果 【iPhone 6s Plus】 全网通 黑色 64 G 国行 85成新 全国联保2017-4-3",
+                "model_attr_name": "苹果 【iPhone 6s Plus】 全网通 黑色 64 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01bb82ced2a1049d0d.png",
+                    "big": "http://p0.qhmsg.com/t01c7aa6c83c407511c.png",
+                    "mid": "http://p0.qhmsg.com/t01a60bc489865a210c.png",
+                    "min": "http://p0.qhmsg.com/t0170139313f4c85c8a.png"
+                },
+                "price": 4299,
+                "brand_id": "2",
+                "model_id": "276",
+                "view_volume": "477",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,76,141,165",
+                "product_type": "10",
+                "imei": "354*****421",
+                "chengse": "1609",
+                "com_price": "6888",
+                "discount": 6.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27345",
+                "product_name": "苹果 【iPhone7 plus】 全网通 黑色 32 G 国行 95成新 真机实拍&nbsp;全国联保2017-11-1",
+                "model_attr_name": "苹果 【iPhone7 plus】 全网通 黑色 32 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0185a25edc6191fefe.png",
+                    "big": "http://p0.qhmsg.com/t01f869512f390ac71e.png",
+                    "mid": "http://p0.qhmsg.com/t012ce7946ccea171cb.png",
+                    "min": "http://p0.qhmsg.com/t0186df2dd60ad5ca59.png"
+                },
+                "price": 5699,
+                "brand_id": "2",
+                "model_id": "678",
+                "view_volume": "608",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,75,141,165",
+                "product_type": "10",
+                "imei": "359*****639",
+                "chengse": "1603",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27341",
+                "product_name": "苹果 【iPhone 7】 亮黑色 全网通 128G 国行 全新新 原封未激活&nbsp;真机实拍&nbsp;全国联保",
+                "model_attr_name": "苹果 【iPhone 7】 亮黑色 全网通 128G 国行 全新新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01cf9b272d406acb1f.jpg",
+                    "big": "http://p0.qhmsg.com/t01f7f8f8971f3cedcb.jpg",
+                    "mid": "http://p0.qhmsg.com/t01a5af3d970d4346f8.jpg",
+                    "min": "http://p0.qhmsg.com/t010af65ca6fe732eb6.jpg"
+                },
+                "price": 5688,
+                "brand_id": "2",
+                "model_id": "660",
+                "view_volume": "437",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "130,141,165,344",
+                "product_type": "10",
+                "imei": "359*****308",
+                "chengse": "1601",
+                "com_price": "6888",
+                "discount": 8.3,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27312",
+                "product_name": "苹果 【iPhone 6s Plus】 全网通 粉色 16 G 国行 9成新 真机实拍&nbsp;全国联保2017-4-30",
+                "model_attr_name": "苹果 【iPhone 6s Plus】 全网通 粉色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01986aefac2d533e24.png",
+                    "big": "http://p0.qhmsg.com/t01e7d2936280973156.png",
+                    "mid": "http://p0.qhmsg.com/t01eda5b67e54e73366.png",
+                    "min": "http://p0.qhmsg.com/t014f2c7d69cef272aa.png"
+                },
+                "price": 3499,
+                "brand_id": "2",
+                "model_id": "276",
+                "view_volume": "377",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "31,74,141,165",
+                "product_type": "10",
+                "imei": "353*****954",
+                "chengse": "1604",
+                "com_price": "6888",
+                "discount": 5.1,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27320",
+                "product_name": "苹果 【iPhone 6s Plus】 全网通 黑色 64 G 国行 7成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6s Plus】 全网通 黑色 64 G 国行 7成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01bb82ced2a1049d0d.png",
+                    "big": "http://p0.qhmsg.com/t01c7aa6c83c407511c.png",
+                    "mid": "http://p0.qhmsg.com/t01a60bc489865a210c.png",
+                    "min": "http://p0.qhmsg.com/t0170139313f4c85c8a.png"
+                },
+                "price": 3899,
+                "brand_id": "2",
+                "model_id": "276",
+                "view_volume": "557",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,76,141,165",
+                "product_type": "10",
+                "imei": "354*****069",
+                "chengse": "1606",
+                "com_price": "6888",
+                "discount": 5.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "27316",
+                "product_name": "苹果【iPhone 6s Plus】64 G 银色 全网通 国行 9成新 截止官保时间2017-01-09",
+                "model_attr_name": "苹果【iPhone 6s Plus】64 G 银色 全网通 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01089fc2d38db7ebd5.png",
+                    "big": "http://p0.qhmsg.com/t0157c2491785c4ddf0.png",
+                    "mid": "http://p0.qhmsg.com/t011712e4e28f2a62aa.png",
+                    "min": "http://p0.qhmsg.com/t01d39a0b2dec8242f6.png"
+                },
+                "price": 4299,
+                "brand_id": "2",
+                "model_id": "276",
+                "view_volume": "519",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "76,86,141,165",
+                "product_type": "10",
+                "imei": "359*****974",
+                "chengse": "1604",
+                "com_price": "6888",
+                "discount": 6.2,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27251",
+                "product_name": "苹果 【iPhone 6 Plus】 全网通 金色 64 G 国行 95成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6 Plus】 全网通 金色 64 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t015987d004d761d59c.jpg",
+                    "big": "http://p0.qhmsg.com/t012356c64c53a61eb9.jpg",
+                    "mid": "http://p0.qhmsg.com/t010401a0742ed28d54.jpg",
+                    "min": "http://p0.qhmsg.com/t01797683ee55e0cafa.jpg"
+                },
+                "price": 3199,
+                "brand_id": "2",
+                "model_id": "98",
+                "view_volume": "546",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "354*****617",
+                "chengse": "1603",
+                "com_price": "6088",
+                "discount": 5.3,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26869",
+                "product_name": "苹果【iPhone 6s】64 G 银色 全网通 国行99新 99成新 99新 真机实拍 保修半年",
+                "model_attr_name": "苹果【iPhone 6s】64 G 银色 全网通 国行99新 99成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0147cf39951f21db81.jpg",
+                    "big": "http://p0.qhmsg.com/t018deb6d1cb6b189eb.jpg",
+                    "mid": "http://p0.qhmsg.com/t0166dc8c420e6b28a0.jpg",
+                    "min": "http://p0.qhmsg.com/t017b00c81cf0c75135.jpg"
+                },
+                "price": 3799,
+                "brand_id": "2",
+                "model_id": "261",
+                "view_volume": "2544",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "76,86,141,333",
+                "product_type": "1",
+                "imei": "201*****007",
+                "chengse": "1602",
+                "com_price": "6088",
+                "discount": 6.2,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27224",
+                "product_name": "苹果 【iPhone 6s】 全网通 金色 64 G 国行 85成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6s】 全网通 金色 64 G 国行 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c6513b053e67f2e2.jpg",
+                    "big": "http://p0.qhmsg.com/t0187b033dbdd10668d.jpg",
+                    "mid": "http://p0.qhmsg.com/t01ecc14261a7523947.jpg",
+                    "min": "http://p0.qhmsg.com/t01b46e3f7eea05304a.jpg"
+                },
+                "price": 3499,
+                "brand_id": "2",
+                "model_id": "261",
+                "view_volume": "575",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "352*****314",
+                "chengse": "1609",
+                "com_price": "6088",
+                "discount": 5.7,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27244",
+                "product_name": "苹果 【iPhone 6s】 全网通 玫瑰金 64 G 国行 95成新 真机实拍&nbsp;大内存&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6s】 全网通 玫瑰金 64 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01ac7e90dc7b722260.jpg",
+                    "big": "http://p0.qhmsg.com/t01424493481b305dfc.jpg",
+                    "mid": "http://p0.qhmsg.com/t01e89c9ebdece92e9d.jpg",
+                    "min": "http://p0.qhmsg.com/t0156b5af6f05d75325.jpg"
+                },
+                "price": 3599,
+                "brand_id": "2",
+                "model_id": "261",
+                "view_volume": "548",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "76,141,165,193",
+                "product_type": "10",
+                "imei": "352*****876",
+                "chengse": "1603",
+                "com_price": "6088",
+                "discount": 5.9,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27243",
+                "product_name": "苹果 【iPhone 6s Plus】 全网通 粉色 64 G 国行 9成新 真机实拍&nbsp;大内存&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6s Plus】 全网通 粉色 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01986aefac2d533e24.png",
+                    "big": "http://p0.qhmsg.com/t01e7d2936280973156.png",
+                    "mid": "http://p0.qhmsg.com/t01eda5b67e54e73366.png",
+                    "min": "http://p0.qhmsg.com/t014f2c7d69cef272aa.png"
+                },
+                "price": 4099,
+                "brand_id": "2",
+                "model_id": "276",
+                "view_volume": "436",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "31,76,141,165",
+                "product_type": "10",
+                "imei": "359*****632",
+                "chengse": "1604",
+                "com_price": "6888",
+                "discount": 6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27160",
+                "product_name": "苹果 【iPhone 6 Plus】 全网通 金色 64 G 国行 9成新 真机实拍&nbsp;A1524&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6 Plus】 全网通 金色 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t015987d004d761d59c.jpg",
+                    "big": "http://p0.qhmsg.com/t012356c64c53a61eb9.jpg",
+                    "mid": "http://p0.qhmsg.com/t010401a0742ed28d54.jpg",
+                    "min": "http://p0.qhmsg.com/t01797683ee55e0cafa.jpg"
+                },
+                "price": 3099,
+                "brand_id": "2",
+                "model_id": "98",
+                "view_volume": "557",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "356*****925",
+                "chengse": "1604",
+                "com_price": "6088",
+                "discount": 5.1,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26857",
+                "product_name": "苹果 【iPhone 6s】 全网通 金色 64 G 国行 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6s】 全网通 金色 64 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01c6513b053e67f2e2.jpg",
+                    "big": "http://p0.qhmsg.com/t0187b033dbdd10668d.jpg",
+                    "mid": "http://p0.qhmsg.com/t01ecc14261a7523947.jpg",
+                    "min": "http://p0.qhmsg.com/t01b46e3f7eea05304a.jpg"
+                },
+                "price": 3399,
+                "brand_id": "2",
+                "model_id": "261",
+                "view_volume": "556",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "352*****853",
+                "chengse": "1605",
+                "com_price": "6088",
+                "discount": 5.6,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27154",
+                "product_name": "苹果 【iPhone 6s Plus】 全网通 金色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "苹果 【iPhone 6s Plus】 全网通 金色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t013281eb8e65529e88.png",
+                    "big": "http://p0.qhmsg.com/t0154334fb1e04a0934.png",
+                    "mid": "http://p0.qhmsg.com/t019c506f94ff42d7e0.png",
+                    "min": "http://p0.qhmsg.com/t0103844d6d7c921411.png"
+                },
+                "price": 3399,
+                "brand_id": "2",
+                "model_id": "276",
+                "view_volume": "461",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,74,141,165",
+                "product_type": "10",
+                "imei": "359*****814",
+                "chengse": "1604",
+                "com_price": "6888",
+                "discount": 4.9,
+                "mer_name": "同城帮自营"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "2",
+                "name": "苹果",
+                "sums": "93"
+            },
+            {
+                "key": "1",
+                "name": "三星",
+                "sums": "1"
+            },
+            {
+                "key": "4",
+                "name": "华为",
+                "sums": "1"
+            },
+            {
+                "key": "50",
+                "name": "戴尔",
+                "sums": "5"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    },
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    },
+                    {
+                        "attr_val_id": "76",
+                        "attr_val_name": "64 G"
+                    },
+                    {
+                        "attr_val_id": "130",
+                        "attr_val_name": "128G"
+                    },
+                    {
+                        "attr_val_id": "274",
+                        "attr_val_name": "i7六代/512G SSD/16"
+                    },
+                    {
+                        "attr_val_id": "288",
+                        "attr_val_name": "8G/独显4G"
+                    },
+                    {
+                        "attr_val_id": "299",
+                        "attr_val_name": "256G固态硬盘/8G内存/In"
+                    },
+                    {
+                        "attr_val_id": "339",
+                        "attr_val_name": "628G硬盘/4G内存/独显4G"
+                    },
+                    {
+                        "attr_val_id": "347",
+                        "attr_val_name": "128Gssd 500G/4G/"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "159",
+                        "attr_val_name": "港澳台"
+                    },
+                    {
+                        "attr_val_id": "161",
+                        "attr_val_name": "美国"
+                    },
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    },
+                    {
+                        "attr_val_id": "240",
+                        "attr_val_name": "官方翻新机/国行"
+                    },
+                    {
+                        "attr_val_id": "332",
+                        "attr_val_name": "国行95新"
+                    },
+                    {
+                        "attr_val_id": "333",
+                        "attr_val_name": "国行99新"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "97",
+                        "attr_val_name": "联通 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    },
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "210",
+                        "attr_val_name": "电信联通4G 移动2G"
+                    },
+                    {
+                        "attr_val_id": "256",
+                        "attr_val_name": "酷睿i5-6200U/13寸"
+                    },
+                    {
+                        "attr_val_id": "272",
+                        "attr_val_name": "酷睿i7-6700HQ/15寸"
+                    },
+                    {
+                        "attr_val_id": "282",
+                        "attr_val_name": "酷睿i7-6500U/15寸"
+                    },
+                    {
+                        "attr_val_id": "346",
+                        "attr_val_name": "酷睿i5-7200U/14寸"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    },
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    },
+                    {
+                        "attr_val_id": "30",
+                        "attr_val_name": "金色"
+                    },
+                    {
+                        "attr_val_id": "31",
+                        "attr_val_name": "粉色"
+                    },
+                    {
+                        "attr_val_id": "83",
+                        "attr_val_name": "灰色"
+                    },
+                    {
+                        "attr_val_id": "86",
+                        "attr_val_name": "银色"
+                    },
+                    {
+                        "attr_val_id": "193",
+                        "attr_val_name": "玫瑰金"
+                    },
+                    {
+                        "attr_val_id": "344",
+                        "attr_val_name": "亮黑色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [],
+        "price_list": [
+            {
+                "key": 3000,
+                "name": "3000元以上"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1601,
+                "name": "全新"
+            },
+            {
+                "key": 1602,
+                "name": "99成新"
+            },
+            {
+                "key": 1603,
+                "name": "95成新"
+            },
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1609,
+                "name": "85成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

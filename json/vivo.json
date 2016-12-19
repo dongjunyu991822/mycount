@@ -1,0 +1,728 @@
+{
+    "errno": 0,
+    "errmsg": "ok",
+    "result": {
+        "goods_count": "81",
+        "good_list": [
+            {
+                "mer_id": "8",
+                "product_id": "27277",
+                "product_name": "vivo 【Y31】 全网通 黑色 16 G 国行 9成新 大内存&nbsp;保修半年",
+                "model_attr_name": "vivo 【Y31】 全网通 黑色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01e2e31a40eccbe7f8.png",
+                    "big": "http://p0.qhmsg.com/t0126de52b3a12770f4.png",
+                    "mid": "http://p0.qhmsg.com/t019e2b23b4589569dd.png",
+                    "min": "http://p0.qhmsg.com/t01de38d9dce75d3d4c.png"
+                },
+                "price": 650,
+                "brand_id": "21",
+                "model_id": "712",
+                "view_volume": "454",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "29,74,141,165",
+                "product_type": "10",
+                "imei": "862*****015",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27348",
+                "product_name": "vivo 【Y51】 白色 移动 4G/3G/2G 国行 16 G 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "vivo 【Y51】 白色 移动 4G/3G/2G 国行 16 G 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016541c055b573ece2.jpg",
+                    "big": "http://p0.qhmsg.com/t01f1e9fb12ea45a3be.jpg",
+                    "mid": "http://p0.qhmsg.com/t0146a5a29b5699f7fd.jpg",
+                    "min": "http://p0.qhmsg.com/t018944f575c6172d8a.jpg"
+                },
+                "price": 580,
+                "brand_id": "21",
+                "model_id": "529",
+                "view_volume": "509",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "860*****763",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27353",
+                "product_name": "vivo 【Y51】 白色 全网通 国行 16 G 8成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "vivo 【Y51】 白色 全网通 国行 16 G 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016541c055b573ece2.jpg",
+                    "big": "http://p0.qhmsg.com/t01f1e9fb12ea45a3be.jpg",
+                    "mid": "http://p0.qhmsg.com/t0146a5a29b5699f7fd.jpg",
+                    "min": "http://p0.qhmsg.com/t018944f575c6172d8a.jpg"
+                },
+                "price": 550,
+                "brand_id": "21",
+                "model_id": "529",
+                "view_volume": "345",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,141,165",
+                "product_type": "10",
+                "imei": "860*****791",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27340",
+                "product_name": "vivo 【x7 plus】 全网通 金色 64 G 国行 95成新 真机实拍&nbsp;全国联保",
+                "model_attr_name": "vivo 【x7 plus】 全网通 金色 64 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01248610017c70ee75.png",
+                    "big": "http://p0.qhmsg.com/t01f3cceca7357d4f3e.png",
+                    "mid": "http://p0.qhmsg.com/t01d277eb8a8e8c16f3.png",
+                    "min": "http://p0.qhmsg.com/t010a94f7056bb7f045.png"
+                },
+                "price": 2299,
+                "brand_id": "21",
+                "model_id": "701",
+                "view_volume": "509",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "863*****227",
+                "chengse": "1603",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27257",
+                "product_name": "vivo 【x7 plus】 全网通 金色 64 G 国行 9成新 真机实拍&nbsp;全国联保",
+                "model_attr_name": "vivo 【x7 plus】 全网通 金色 64 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01248610017c70ee75.png",
+                    "big": "http://p0.qhmsg.com/t01f3cceca7357d4f3e.png",
+                    "mid": "http://p0.qhmsg.com/t01d277eb8a8e8c16f3.png",
+                    "min": "http://p0.qhmsg.com/t010a94f7056bb7f045.png"
+                },
+                "price": 2250,
+                "brand_id": "21",
+                "model_id": "701",
+                "view_volume": "410",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "862*****258",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "26216",
+                "product_name": "vivo 【Xshot】 移动 4G/3G/2G 黑色 16 G 国行 9成新 真机实拍",
+                "model_attr_name": "vivo 【Xshot】 移动 4G/3G/2G 黑色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0197b2b7357cab3f34.png",
+                    "big": "http://p0.qhmsg.com/t01a003133d347e3406.png",
+                    "mid": "http://p0.qhmsg.com/t0164e554bda14e62c8.png",
+                    "min": "http://p0.qhmsg.com/t0199cbdb33ee507619.png"
+                },
+                "price": 699,
+                "brand_id": "21",
+                "model_id": "254",
+                "view_volume": "521",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,29,74,165",
+                "product_type": "10",
+                "imei": "864*****911",
+                "chengse": "1604",
+                "com_price": "2498",
+                "discount": 2.8,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27229",
+                "product_name": "vivo 【x7 plus】 全网通 金色 64 G 国行 8成新 真机实拍&nbsp;全国联保",
+                "model_attr_name": "vivo 【x7 plus】 全网通 金色 64 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01248610017c70ee75.png",
+                    "big": "http://p0.qhmsg.com/t01f3cceca7357d4f3e.png",
+                    "mid": "http://p0.qhmsg.com/t01d277eb8a8e8c16f3.png",
+                    "min": "http://p0.qhmsg.com/t010a94f7056bb7f045.png"
+                },
+                "price": 1899,
+                "brand_id": "21",
+                "model_id": "701",
+                "view_volume": "524",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "861*****867",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "27094",
+                "product_name": "vivo 【Y937】 电信 4G/3G/2G 白色 16 G 国行 9成新 真机实拍&nbsp;保修半年",
+                "model_attr_name": "vivo 【Y937】 电信 4G/3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01b0950fb8527e7943.png",
+                    "big": "http://p0.qhmsg.com/t0142509e51a8d9f584.png",
+                    "mid": "http://p0.qhmsg.com/t0192608478f736408d.png",
+                    "min": "http://p0.qhmsg.com/t014592ccae87c1c8df.png"
+                },
+                "price": 799,
+                "brand_id": "21",
+                "model_id": "510",
+                "view_volume": "418",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,28,74,165",
+                "product_type": "10",
+                "imei": "867*****548",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "8",
+                "product_id": "26808",
+                "product_name": "vivo 【x7 plus】 全网通 金色 64 G 国行 95成新 真机实拍&nbsp;全国联保",
+                "model_attr_name": "vivo 【x7 plus】 全网通 金色 64 G 国行 95成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01248610017c70ee75.png",
+                    "big": "http://p0.qhmsg.com/t01f3cceca7357d4f3e.png",
+                    "mid": "http://p0.qhmsg.com/t01d277eb8a8e8c16f3.png",
+                    "min": "http://p0.qhmsg.com/t010a94f7056bb7f045.png"
+                },
+                "price": 2199,
+                "brand_id": "21",
+                "model_id": "701",
+                "view_volume": "1312",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "30,76,141,165",
+                "product_type": "10",
+                "imei": "863*****410",
+                "chengse": "1603",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25450",
+                "product_name": "vivo 【Y51】 白色 移动 4G/3G/2G 国行 16 G 8成新 真机实拍",
+                "model_attr_name": "vivo 【Y51】 白色 移动 4G/3G/2G 国行 16 G 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016541c055b573ece2.jpg",
+                    "big": "http://p0.qhmsg.com/t01f1e9fb12ea45a3be.jpg",
+                    "mid": "http://p0.qhmsg.com/t0146a5a29b5699f7fd.jpg",
+                    "min": "http://p0.qhmsg.com/t018944f575c6172d8a.jpg"
+                },
+                "price": 548,
+                "brand_id": "21",
+                "model_id": "529",
+                "view_volume": "701",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "861*****922",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25596",
+                "product_name": "vivo 【X5SL】 移动 4G/3G/2G 白色 16 G 国行 8成新 真机实拍",
+                "model_attr_name": "vivo 【X5SL】 移动 4G/3G/2G 白色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t010167cc2f118254bf.png",
+                    "big": "http://p0.qhmsg.com/t0125f0e41492f8544b.png",
+                    "mid": "http://p0.qhmsg.com/t011e458337478c068f.png",
+                    "min": "http://p0.qhmsg.com/t01f9f12bcd68e86344.png"
+                },
+                "price": 560,
+                "brand_id": "21",
+                "model_id": "567",
+                "view_volume": "637",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,74,165",
+                "product_type": "10",
+                "imei": "867*****226",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25191",
+                "product_name": "vivo 【X5】 移动 4G/3G/2G 银色 16 G 国行 9成新 真机实拍",
+                "model_attr_name": "vivo 【X5】 移动 4G/3G/2G 银色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016e39b6d4ba25f388.png",
+                    "big": "http://p0.qhmsg.com/t010167cc2f118254bf.png",
+                    "mid": "http://p0.qhmsg.com/t01d5fb298eaa1dc65a.png",
+                    "min": "http://p0.qhmsg.com/t01a18db5e13d97d3ab.png"
+                },
+                "price": 618,
+                "brand_id": "21",
+                "model_id": "255",
+                "view_volume": "806",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,74,86,165",
+                "product_type": "10",
+                "imei": "866*****250",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25193",
+                "product_name": "vivo 【X3】 移动 4G/3G/2G 金色 16 G 国行 9成新 真机实拍",
+                "model_attr_name": "vivo 【X3】 移动 4G/3G/2G 金色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0185a68550778a4f5c.png",
+                    "big": "http://p0.qhmsg.com/t0186b010f71ff40a77.png",
+                    "mid": "http://p0.qhmsg.com/t011a2c9c2d8965f355.png",
+                    "min": "http://p0.qhmsg.com/t011b6eb46299e337be.png"
+                },
+                "price": 560,
+                "brand_id": "21",
+                "model_id": "133",
+                "view_volume": "800",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,30,74,165",
+                "product_type": "10",
+                "imei": "864*****481",
+                "chengse": "1604",
+                "com_price": "2028",
+                "discount": 2.8,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25171",
+                "product_name": "vivo 【X5pro】 移动联通 4G/3G/2G 白色 16 G 国行 8成新 真机实拍",
+                "model_attr_name": "vivo 【X5pro】 移动联通 4G/3G/2G 白色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t011ca17977bd578879.png",
+                    "big": "http://p0.qhmsg.com/t0129d5a093cc33ec54.png",
+                    "mid": "http://p0.qhmsg.com/t01b61766a8e3b7290b.png",
+                    "min": "http://p0.qhmsg.com/t017841366c241314b7.png"
+                },
+                "price": 788,
+                "brand_id": "21",
+                "model_id": "204",
+                "view_volume": "767",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,165,168",
+                "product_type": "10",
+                "imei": "867*****361",
+                "chengse": "1605",
+                "com_price": "1799",
+                "discount": 4.4,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25244",
+                "product_name": "vivo 【X3】 联通 4G/3G/2G 白色 16 G 国行 8成新 真机实拍",
+                "model_attr_name": "vivo 【X3】 联通 4G/3G/2G 白色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0197a107f00455c2f6.png",
+                    "big": "http://p0.qhmsg.com/t01a06825fb2b43d9c1.png",
+                    "mid": "http://p0.qhmsg.com/t01946380511a7b33c7.png",
+                    "min": "http://p0.qhmsg.com/t01618dd1c8f3bfb2c1.png"
+                },
+                "price": 428,
+                "brand_id": "21",
+                "model_id": "133",
+                "view_volume": "898",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,97,165",
+                "product_type": "10",
+                "imei": "865*****109",
+                "chengse": "1605",
+                "com_price": "2028",
+                "discount": 2.1,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25234",
+                "product_name": "vivo 【X5 Max+】 移动 4G/3G/2G 金色 16 G 国行 7成新 真机实拍",
+                "model_attr_name": "vivo 【X5 Max+】 移动 4G/3G/2G 金色 16 G 国行 7成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t0166c7e5dffc949e0d.png",
+                    "big": "http://p0.qhmsg.com/t01df5e1e57c8e80ac4.png",
+                    "mid": "http://p0.qhmsg.com/t0173fd803ab1b356bd.png",
+                    "min": "http://p0.qhmsg.com/t0174b2932b49a7c945.png"
+                },
+                "price": 799,
+                "brand_id": "21",
+                "model_id": "218",
+                "view_volume": "844",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,30,74,165",
+                "product_type": "10",
+                "imei": "867*****297",
+                "chengse": "1606",
+                "com_price": "2598",
+                "discount": 3.1,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "25336",
+                "product_name": "vivo 【Y23L】 移动 4G/3G/2G 白色 国行 8 G 85成新 真机实拍",
+                "model_attr_name": "vivo 【Y23L】 移动 4G/3G/2G 白色 国行 8 G 85成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01a1917d90c27b39bd.jpg",
+                    "big": "http://p0.qhmsg.com/t01cba8345e972bfb90.jpg",
+                    "mid": "http://p0.qhmsg.com/t01db46650244b765b3.jpg",
+                    "min": "http://p0.qhmsg.com/t01406a9f562cef42e2.jpg"
+                },
+                "price": 388,
+                "brand_id": "21",
+                "model_id": "497",
+                "view_volume": "1132",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,73,165",
+                "product_type": "10",
+                "imei": "867*****973",
+                "chengse": "1609",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "24598",
+                "product_name": "vivo 【X5】 电信 4G/3G/2G 银色 16 G 国行 8成新 真机实拍",
+                "model_attr_name": "vivo 【X5】 电信 4G/3G/2G 银色 16 G 国行 8成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t016e39b6d4ba25f388.png",
+                    "big": "http://p0.qhmsg.com/t010167cc2f118254bf.png",
+                    "mid": "http://p0.qhmsg.com/t01d5fb298eaa1dc65a.png",
+                    "min": "http://p0.qhmsg.com/t01a18db5e13d97d3ab.png"
+                },
+                "price": 528,
+                "brand_id": "21",
+                "model_id": "255",
+                "view_volume": "687",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "12,74,86,165",
+                "product_type": "10",
+                "imei": "867*****786",
+                "chengse": "1605",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "24591",
+                "product_name": "vivo 【Y33】 移动 4G/3G/2G 8 G 国行 白色 9成新 真机实拍",
+                "model_attr_name": "vivo 【Y33】 移动 4G/3G/2G 8 G 国行 白色 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t01a689300530eb3aaa.jpg",
+                    "big": "http://p0.qhmsg.com/t01a54a02675a2a90de.jpg",
+                    "mid": "http://p0.qhmsg.com/t011bb49e5bb0bd55d8.jpg",
+                    "min": "http://p0.qhmsg.com/t0131dc27fd444a478f.jpg"
+                },
+                "price": 468,
+                "brand_id": "21",
+                "model_id": "536",
+                "view_volume": "827",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "11,28,73,165",
+                "product_type": "10",
+                "imei": "867*****561",
+                "chengse": "1604",
+                "com_price": "",
+                "discount": 0,
+                "mer_name": "同城帮自营成都站"
+            },
+            {
+                "mer_id": "9",
+                "product_id": "24554",
+                "product_name": "vivo 【X5pro】 移动联通 4G/3G/2G 白色 16 G 国行 9成新 真机实拍",
+                "model_attr_name": "vivo 【X5pro】 移动联通 4G/3G/2G 白色 16 G 国行 9成新 ",
+                "thum_img": {
+                    "old": "http://p0.qhmsg.com/t011ca17977bd578879.png",
+                    "big": "http://p0.qhmsg.com/t0129d5a093cc33ec54.png",
+                    "mid": "http://p0.qhmsg.com/t01b61766a8e3b7290b.png",
+                    "min": "http://p0.qhmsg.com/t017841366c241314b7.png"
+                },
+                "price": 928,
+                "brand_id": "21",
+                "model_id": "204",
+                "view_volume": "832",
+                "stock_nums": "1",
+                "juhe_type": "1",
+                "attr_val_ids": "28,74,165,168",
+                "product_type": "10",
+                "imei": "869*****427",
+                "chengse": "1604",
+                "com_price": "1799",
+                "discount": 5.2,
+                "mer_name": "同城帮自营成都站"
+            }
+        ],
+        "brand_list": [
+            {
+                "key": "21",
+                "name": "vivo",
+                "sums": "81"
+            }
+        ],
+        "attr_list": [
+            {
+                "attr_name": "容量",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "72",
+                        "attr_val_name": "4 G"
+                    },
+                    {
+                        "attr_val_id": "73",
+                        "attr_val_name": "8 G"
+                    },
+                    {
+                        "attr_val_id": "74",
+                        "attr_val_name": "16 G"
+                    },
+                    {
+                        "attr_val_id": "75",
+                        "attr_val_name": "32 G"
+                    },
+                    {
+                        "attr_val_id": "76",
+                        "attr_val_name": "64 G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "渠道",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "165",
+                        "attr_val_name": "国行"
+                    }
+                ]
+            },
+            {
+                "attr_name": "网络",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "8",
+                        "attr_val_name": "移动 3G/2G"
+                    },
+                    {
+                        "attr_val_id": "11",
+                        "attr_val_name": "移动 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "12",
+                        "attr_val_name": "电信 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "97",
+                        "attr_val_name": "联通 4G/3G/2G"
+                    },
+                    {
+                        "attr_val_id": "141",
+                        "attr_val_name": "全网通"
+                    },
+                    {
+                        "attr_val_id": "168",
+                        "attr_val_name": "移动联通 4G/3G/2G"
+                    }
+                ]
+            },
+            {
+                "attr_name": "颜色",
+                "show_sort": "0",
+                "list": [
+                    {
+                        "attr_val_id": "28",
+                        "attr_val_name": "白色"
+                    },
+                    {
+                        "attr_val_id": "29",
+                        "attr_val_name": "黑色"
+                    },
+                    {
+                        "attr_val_id": "30",
+                        "attr_val_name": "金色"
+                    },
+                    {
+                        "attr_val_id": "32",
+                        "attr_val_name": "蓝色"
+                    },
+                    {
+                        "attr_val_id": "86",
+                        "attr_val_name": "银色"
+                    }
+                ]
+            }
+        ],
+        "search_model_ids": [
+            {
+                "model_id": "701",
+                "model_name": "x7 plus"
+            },
+            {
+                "model_id": "218",
+                "model_name": "X5 Max+"
+            },
+            {
+                "model_id": "204",
+                "model_name": "X5pro"
+            },
+            {
+                "model_id": "640",
+                "model_name": "X5 max"
+            },
+            {
+                "model_id": "255",
+                "model_name": "X5"
+            },
+            {
+                "model_id": "567",
+                "model_name": "X5SL"
+            },
+            {
+                "model_id": "532",
+                "model_name": "Y35"
+            },
+            {
+                "model_id": "536",
+                "model_name": "Y33"
+            },
+            {
+                "model_id": "133",
+                "model_name": "X3"
+            },
+            {
+                "model_id": "662",
+                "model_name": "V3"
+            },
+            {
+                "model_id": "530",
+                "model_name": "Y29L"
+            },
+            {
+                "model_id": "529",
+                "model_name": "Y51"
+            },
+            {
+                "model_id": "520",
+                "model_name": "Y37"
+            },
+            {
+                "model_id": "510",
+                "model_name": "Y937"
+            },
+            {
+                "model_id": "497",
+                "model_name": "Y23L"
+            },
+            {
+                "model_id": "435",
+                "model_name": "Y13"
+            },
+            {
+                "model_id": "374",
+                "model_name": "Y27"
+            },
+            {
+                "model_id": "254",
+                "model_name": "Xshot"
+            },
+            {
+                "model_id": "235",
+                "model_name": "Y927"
+            },
+            {
+                "model_id": "712",
+                "model_name": "Y31"
+            }
+        ],
+        "price_list": [
+            {
+                "key": 1,
+                "name": "500元以下"
+            },
+            {
+                "key": 500,
+                "name": "500-1000元"
+            },
+            {
+                "key": 1500,
+                "name": "1500-2000元"
+            },
+            {
+                "key": 2000,
+                "name": "2000-3000元"
+            }
+        ],
+        "chengse_list": [
+            {
+                "key": 1603,
+                "name": "95成新"
+            },
+            {
+                "key": 1604,
+                "name": "9成新"
+            },
+            {
+                "key": 1609,
+                "name": "85成新"
+            },
+            {
+                "key": 1605,
+                "name": "8成新及以下"
+            }
+        ]
+    }
+}

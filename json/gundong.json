@@ -1,0 +1,186 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": [
+        {
+            "show_buyer_mobile": "189****4288",
+            "total_amount": "550.00",
+            "product_info": {
+                "product_name": "运行内存2GB",
+                "product_img": "http://p0.qhmsg.com/t01c33c7ddee96c6239.jpg"
+            },
+            "model_name": "红米3S"
+        },
+        {
+            "show_buyer_mobile": "136****9899",
+            "total_amount": "2528.00",
+            "product_info": {
+                "product_name": "A1524 真机实拍",
+                "product_img": "http://p0.qhmsg.com/t012d11975d9d7002d0.jpg"
+            },
+            "model_name": "iPhone 6 Plus"
+        },
+        {
+            "show_buyer_mobile": "186****5592",
+            "total_amount": "728.00",
+            "product_info": {
+                "product_name": "",
+                "product_img": "http://p0.qhmsg.com/t0193c152de3f110162.jpg"
+            },
+            "model_name": "iPhone 5c"
+        },
+        {
+            "show_buyer_mobile": "150****4778",
+            "total_amount": "2699.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t0187b033dbdd10668d.jpg"
+            },
+            "model_name": "iPhone 6s"
+        },
+        {
+            "show_buyer_mobile": "153****2189",
+            "total_amount": "450.00",
+            "product_info": {
+                "product_name": "运行内存2GB 真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t0126988209ecb9c207.jpg"
+            },
+            "model_name": "P7"
+        },
+        {
+            "show_buyer_mobile": "136****8560",
+            "total_amount": "1999.00",
+            "product_info": {
+                "product_name": "真机实拍 全国联保",
+                "product_img": "http://p0.qhmsg.com/t014053b0119ce9c449.png"
+            },
+            "model_name": "5S"
+        },
+        {
+            "show_buyer_mobile": "188****4925",
+            "total_amount": "299.00",
+            "product_info": {
+                "product_name": "运行内存1GB",
+                "product_img": "http://p0.qhmsg.com/t01c0cbbd7ede76f5bf.png"
+            },
+            "model_name": "红米2"
+        },
+        {
+            "show_buyer_mobile": "131****1248",
+            "total_amount": "450.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t01ff116299d4ada398.png"
+            },
+            "model_name": "荣耀4X"
+        },
+        {
+            "show_buyer_mobile": "186****7344",
+            "total_amount": "4448.00",
+            "product_info": {
+                "product_name": "真机实拍 全国联保2017-4-16",
+                "product_img": "http://p0.qhmsg.com/t0154334fb1e04a0934.png"
+            },
+            "model_name": "iPhone 6s Plus"
+        },
+        {
+            "show_buyer_mobile": "180****5453",
+            "total_amount": "2928.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t01f35020c9de595b5d.jpg"
+            },
+            "model_name": "iPhone 6 Plus"
+        },
+        {
+            "show_buyer_mobile": "186****7344",
+            "total_amount": "4448.00",
+            "product_info": {
+                "product_name": "真机实拍 全国联保2017-4-16",
+                "product_img": "http://p0.qhmsg.com/t0154334fb1e04a0934.png"
+            },
+            "model_name": "iPhone 6s Plus"
+        },
+        {
+            "show_buyer_mobile": "131****0290",
+            "total_amount": "2115.00",
+            "product_info": {
+                "product_name": "真机实拍 全国联保2017-3-31",
+                "product_img": "http://p0.qhmsg.com/t01b573d79bcaf15a85.png"
+            },
+            "model_name": "iPhone SE"
+        },
+        {
+            "show_buyer_mobile": "186****7344",
+            "total_amount": "4299.00",
+            "product_info": {
+                "product_name": "真机实拍 全国联保2017-4-16",
+                "product_img": "http://p0.qhmsg.com/t0154334fb1e04a0934.png"
+            },
+            "model_name": "iPhone 6s Plus"
+        },
+        {
+            "show_buyer_mobile": "138****2171",
+            "total_amount": "588.00",
+            "product_info": {
+                "product_name": "运行内存2GB",
+                "product_img": "http://p0.qhmsg.com/t0102241f3f0550611b.png"
+            },
+            "model_name": "荣耀6"
+        },
+        {
+            "show_buyer_mobile": "131****5554",
+            "total_amount": "2696.00",
+            "product_info": {
+                "product_name": "八成新 真机实拍",
+                "product_img": "http://p0.qhmsg.com/t0187b033dbdd10668d.jpg"
+            },
+            "model_name": "iPhone 6s"
+        },
+        {
+            "show_buyer_mobile": "181****5429",
+            "total_amount": "507.00",
+            "product_info": {
+                "product_name": "运行内存2GB",
+                "product_img": "http://p0.qhmsg.com/t01b89b28591787a09e.png"
+            },
+            "model_name": "荣耀4C"
+        },
+        {
+            "show_buyer_mobile": "136****6807",
+            "total_amount": "507.00",
+            "product_info": {
+                "product_name": "运行内存2GB",
+                "product_img": "http://p0.qhmsg.com/t01b89b28591787a09e.png"
+            },
+            "model_name": "荣耀4C"
+        },
+        {
+            "show_buyer_mobile": "153****3811",
+            "total_amount": "3725.00",
+            "product_info": {
+                "product_name": "",
+                "product_img": "http://p0.qhmsg.com/t0154334fb1e04a0934.png"
+            },
+            "model_name": "iPhone 6s Plus"
+        },
+        {
+            "show_buyer_mobile": "131****6060",
+            "total_amount": "607.00",
+            "product_info": {
+                "product_name": "真机实拍",
+                "product_img": "http://p0.qhmsg.com/t013d46bdc26cd011bd.png"
+            },
+            "model_name": "MX 4 PRO"
+        },
+        {
+            "show_buyer_mobile": "177****2294",
+            "total_amount": "2128.00",
+            "product_info": {
+                "product_name": "A1586 真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t0180d7542624092d6f.png"
+            },
+            "model_name": "iPhone 6"
+        }
+    ]
+}

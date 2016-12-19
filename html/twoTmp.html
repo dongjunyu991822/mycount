@@ -1,0 +1,15 @@
+<script type="text/html" id="twoTmp">
+	<%for(var n=0;n<result.flash_list.length;n++){%>
+		<li>
+			<img src=<%=result.flash_list[n].thum_img.old%>>
+			<div>
+				<h3><%=result.flash_list[n].brand_name%> <%=result.flash_list[n].model_name%></h3>
+				<del>￥<%=result.flash_list[n].com_price%></del>
+				<span><%=result.flash_list[n].discount%>折</span><br>
+				<span>￥<%=result.flash_list[n].price%></span>
+				<p><span>秒杀 </span>距结束<span>  13:23:27</span></p>
+				<a href="#">立即抢购</a>
+			</div>
+		</li>
+	<%}%>
+</script>

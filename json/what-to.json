@@ -1,0 +1,186 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": [
+        {
+            "show_buyer_mobile": "181****8109",
+            "total_amount": "596.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t01254d4eb15407bc86.jpg"
+            },
+            "model_name": "metal"
+        },
+        {
+            "show_buyer_mobile": "152****7939",
+            "total_amount": "750.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t01d40f7a0ce2d344ef.png"
+            },
+            "model_name": "MX5"
+        },
+        {
+            "show_buyer_mobile": "139****3005",
+            "total_amount": "1130.00",
+            "product_info": {
+                "product_name": "真机实拍",
+                "product_img": "http://p0.qhmsg.com/t0179aeee5ae2f319a0.jpg"
+            },
+            "model_name": "iPhone 5s"
+        },
+        {
+            "show_buyer_mobile": "178****4989",
+            "total_amount": "480.00",
+            "product_info": {
+                "product_name": "真机实拍",
+                "product_img": "http://p0.qhmsg.com/t014e2ac7c4cb2da030.jpg"
+            },
+            "model_name": "奇酷青春版"
+        },
+        {
+            "show_buyer_mobile": "150****1066",
+            "total_amount": "2507.00",
+            "product_info": {
+                "product_name": "大内存 真机实拍",
+                "product_img": "http://p0.qhmsg.com/t0180d7542624092d6f.png"
+            },
+            "model_name": "iPhone 6"
+        },
+        {
+            "show_buyer_mobile": "180****4570",
+            "total_amount": "3358.00",
+            "product_info": {
+                "product_name": "",
+                "product_img": "http://p0.qhmsg.com/t0123b482c7bdce2f54.jpg"
+            },
+            "model_name": "Galaxy S7 edge g9350"
+        },
+        {
+            "show_buyer_mobile": "133****0603",
+            "total_amount": "4507.00",
+            "product_info": {
+                "product_name": "全国联保2017-9-24",
+                "product_img": "http://p0.qhmsg.com/t0103b0a5f427574049.jpg"
+            },
+            "model_name": "iPhone 7"
+        },
+        {
+            "show_buyer_mobile": "150****1066",
+            "total_amount": "2507.00",
+            "product_info": {
+                "product_name": "A1586 真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t0134087cae802f7fc1.png"
+            },
+            "model_name": "iPhone 6"
+        },
+        {
+            "show_buyer_mobile": "183****6792",
+            "total_amount": "2843.00",
+            "product_info": {
+                "product_name": "真机实拍 全国联保2017-6-16",
+                "product_img": "http://p0.qhmsg.com/t01273cc06efc384716.jpg"
+            },
+            "model_name": "iPhone SE"
+        },
+        {
+            "show_buyer_mobile": "133****7168",
+            "total_amount": "399.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t01b37416432c287766.jpg"
+            },
+            "model_name": "A33"
+        },
+        {
+            "show_buyer_mobile": "131****5853",
+            "total_amount": "2196.00",
+            "product_info": {
+                "product_name": "七成新 真机实拍",
+                "product_img": "http://p0.qhmsg.com/t012356c64c53a61eb9.jpg"
+            },
+            "model_name": "iPhone 6 Plus"
+        },
+        {
+            "show_buyer_mobile": "180****1652",
+            "total_amount": "735.00",
+            "product_info": {
+                "product_name": "9成新 真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t0128c1ba26665279bb.jpg"
+            },
+            "model_name": "A7000"
+        },
+        {
+            "show_buyer_mobile": "137****6010",
+            "total_amount": "3607.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年 大内存",
+                "product_img": "http://p0.qhmsg.com/t018deb6d1cb6b189eb.jpg"
+            },
+            "model_name": "iPhone 6s"
+        },
+        {
+            "show_buyer_mobile": "137****6395",
+            "total_amount": "1138.00",
+            "product_info": {
+                "product_name": "真机实拍",
+                "product_img": "http://p0.qhmsg.com/t0179aeee5ae2f319a0.jpg"
+            },
+            "model_name": "iPhone 5s"
+        },
+        {
+            "show_buyer_mobile": "152****2355",
+            "total_amount": "299.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t01d62ae97a2ef06dce.png"
+            },
+            "model_name": "红米2A"
+        },
+        {
+            "show_buyer_mobile": "155****9113",
+            "total_amount": "599.00",
+            "product_info": {
+                "product_name": "9成新 真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t01f1e9fb12ea45a3be.jpg"
+            },
+            "model_name": "Y51"
+        },
+        {
+            "show_buyer_mobile": "151****6820",
+            "total_amount": "815.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t0110bbfc728bd70123.png"
+            },
+            "model_name": "X5pro"
+        },
+        {
+            "show_buyer_mobile": "150****2666",
+            "total_amount": "2558.00",
+            "product_info": {
+                "product_name": "真机实拍 大内存 保修半年",
+                "product_img": "http://p0.qhmsg.com/t01f5575883be765e32.png"
+            },
+            "model_name": "iPhone 6"
+        },
+        {
+            "show_buyer_mobile": "133****5506",
+            "total_amount": "407.00",
+            "product_info": {
+                "product_name": "真机实拍",
+                "product_img": "http://p0.qhmsg.com/t0157143d7dd7ade2c3.png"
+            },
+            "model_name": "GALAXY On5"
+        },
+        {
+            "show_buyer_mobile": "178****0255",
+            "total_amount": "458.00",
+            "product_info": {
+                "product_name": "真机实拍 保修半年",
+                "product_img": "http://p0.qhmsg.com/t014e2ac7c4cb2da030.jpg"
+            },
+            "model_name": "奇酷青春版"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+<script type="text/html" id="fiveTmp">
+	<%for(var n=0;n<result.length;n++){%>
+		<li>
+			<img src=<%=result[n].product_info.product_img%>>
+		   	<div>
+		   		<p><%=result[n].show_buyer_mobile%></p>
+		   		<p>购买了<%=result[n].model_name%> <%=result[n].total_amount%> 元</p>
+		   	</div>
+	   </li>
+	<%}%>
+</script>
