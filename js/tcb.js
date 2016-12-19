@@ -84,7 +84,7 @@ $(function() {
 	function store() {
 		$.ajax({
 			type: "get",
-			url: "../json/getgood.json",
+			url: "json/getgood.json",
 			success: function(myInfo) {
 				storelist(myInfo);
 			}
@@ -139,7 +139,7 @@ $(function() {
 		$(this).css("color", "#4daf7c").siblings("span").css("color", "black");
 		$.ajax({
 			type: "get",
-			url: "../json/price.json",
+			url: "json/price.json",
 			success: function(data) {
 				storelist(data);
 			}
@@ -249,75 +249,75 @@ $(function() {
 					var current = $(this).children("a");
 					//当发生点击事件时进行模板的加载与ajax请求
 					if (current.text() == "苹果") {
-						getResponse("../json/apple.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/apple.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "三星") {
-						getResponse("../json/samsung.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/samsung.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "华为") {
-						getResponse("../json/huawei.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/huawei.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "小米") {
-						getResponse("../json/mi.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/mi.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "oppo") {
-						getResponse("../json/oppo.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/oppo.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "vivo") {
-						getResponse("../json/vivo.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/vivo.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "魅族") {
-						getResponse("../json/meizu.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/meizu.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "乐视") {
-						getResponse("../json/letv.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/letv.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "诺基亚") {
-						getResponse("../json/nokia.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/nokia.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "索尼") {
-						getResponse("../json/suoni.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/suoni.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "360手机") {
-						getResponse("../json/360phone.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/360phone.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "努比亚") {
-						getResponse("../json/Nubia.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/Nubia.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "联想") {
-						getResponse("../json/think.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/think.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "LG") {
-						getResponse("../json/lg.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/lg.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "HTC") {
-						getResponse("../json/htc.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/htc.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "酷派") {
-						getResponse("../json/Coolpad.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/Coolpad.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "美图秀秀") {
-						getResponse("../json/meitu.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/meitu.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "金立") {
-						getResponse("../json/gionee.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/gionee.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "微软") {
-						getResponse("../json/windows.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/windows.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "戴尔") {
-						getResponse("../json/daier.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/daier.json", "sixTmp.html", "sixTmp", current, "");
 					} else if (current.text() == "朵唯") {
-						getResponse("../json/doov.json", "sixTmp.html", "sixTmp", current, "");
+						getResponse("json/doov.json", "sixTmp.html", "sixTmp", current, "");
 					};
 					//判断点击的是哪一个选择加载相应的json文件
 					if (current.text() == "全新") {
-						getResponse("../json/allnew.json", "sevenTmp.html", "sevenTmp", current, "0px 0px");
+						getResponse("json/allnew.json", "sevenTmp.html", "sevenTmp", current, "0px 0px");
 					} else if (current.text() == "99成新") {
-						getResponse("../json/99new.json", "sevenTmp.html", "sevenTmp", current, "0 -57px");
+						getResponse("json/99new.json", "sevenTmp.html", "sevenTmp", current, "0 -57px");
 					} else if (current.text() == "95成新") {
-						getResponse("../json/95new.json", "sevenTmp.html", "sevenTmp", current, "0 -115px");
+						getResponse("json/95new.json", "sevenTmp.html", "sevenTmp", current, "0 -115px");
 					} else if (current.text() == "9成新") {
-						getResponse("../json/9new.json", "sevenTmp.html", "sevenTmp", current, "0 -171px");
+						getResponse("json/9new.json", "sevenTmp.html", "sevenTmp", current, "0 -171px");
 					} else if (current.text() == "85成新") {
-						getResponse("../json/85new.json", "sevenTmp.html", "sevenTmp", current, "0 -229px");
+						getResponse("json/85new.json", "sevenTmp.html", "sevenTmp", current, "0 -229px");
 					} else if (current.text() == "8成新及以下") {
-						getResponse("../json/8newdown.json", "sevenTmp.html", "sevenTmp", current, "0 -290px");
+						getResponse("json/8newdown.json", "sevenTmp.html", "sevenTmp", current, "0 -290px");
 					}
 					//根据价格进行筛选及模板的加载
 					if (current.text() == "500元以下") {
-						getResponse("../json/500xia.json", "eightTmp.html", "eightTmp", current, "");
+						getResponse("json/500xia.json", "eightTmp.html", "eightTmp", current, "");
 					} else if (current.text() == "500-1000元") {
-						getResponse("../json/1000xia.json", "eightTmp.html", "eightTmp", current, "");
+						getResponse("json/1000xia.json", "eightTmp.html", "eightTmp", current, "");
 					} else if (current.text() == "1000-1500元") {
-						getResponse("../json/1500xia.json", "eightTmp.html", "eightTmp", current, "");
+						getResponse("json/1500xia.json", "eightTmp.html", "eightTmp", current, "");
 					} else if (current.text() == "1500-2000元") {
-						getResponse("../json/2000xia.json", "eightTmp.html", "eightTmp", current, "");
+						getResponse("json/2000xia.json", "eightTmp.html", "eightTmp", current, "");
 					} else if (current.text() == "2000-3000元") {
-						getResponse("../json/3000xia.json", "eightTmp.html", "eightTmp", current, "");
+						getResponse("json/3000xia.json", "eightTmp.html", "eightTmp", current, "");
 					} else if (current.text() == "3000元及以上") {
-						getResponse("../json/3000shang.json", "eightTmp.html", "eightTmp", current, "");
+						getResponse("json/3000shang.json", "eightTmp.html", "eightTmp", current, "");
 					}
 
 				});
@@ -329,7 +329,7 @@ $(function() {
 	//用户购买信息滚动数据动态加载
 	$.ajax({
 		type: "get",
-		url: "../json/gundong.json",
+		url: "json/gundong.json",
 		success: function(data) {
 			$(".roll").load("fiveTmp.html", function() {
 				var htmlStr = baidu.template("fiveTmp", data);
